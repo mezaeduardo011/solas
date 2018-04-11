@@ -1,0 +1,12 @@
+2018-03-27 22:36:48. <response>
+<led0>1</led0>
+<led1>1</led1>
+<led2>1</led2>
+<led3>1</led3>
+<led4>1</led4>
+<led5>0</led5>
+<led6>0</led6>
+<led7>0</led7>
+<led8>0</led8>
+</response>
+

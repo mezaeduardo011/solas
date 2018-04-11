@@ -1,0 +1,1253 @@
+2018-03-27 07:33:18. Validando estado cartel prendido4
+2018-03-27 07:33:19. Estado Actual cartel prendido4 1
+2018-03-27 07:33:19. Validando estado cartel 5
+2018-03-27 07:33:19. Estado Actual cartel 5 0
+2018-03-27 07:53:34. Validando estado cartel prendido4
+2018-03-27 07:53:34. Estado Actual cartel prendido4 1
+2018-03-27 07:53:34. Validando estado cartel 5
+2018-03-27 07:53:34. Estado Actual cartel 5 0
+2018-03-27 07:57:36. Validando estado cartel prendido4
+2018-03-27 07:57:36. Estado Actual cartel prendido4 1
+2018-03-27 07:57:36. Validando estado cartel 5
+2018-03-27 07:57:36. Estado Actual cartel 5 0
+2018-03-27 08:23:07. Validando estado cartel prendido4
+2018-03-27 08:23:07. Estado Actual cartel prendido4 1
+2018-03-27 08:23:07. Validando estado cartel 5
+2018-03-27 08:23:07. Estado Actual cartel 5 0
+2018-03-27 08:27:54. Validando estado cartel prendido4
+2018-03-27 08:27:54. Estado Actual cartel prendido4 1
+2018-03-27 08:27:54. Validando estado cartel 5
+2018-03-27 08:27:54. Estado Actual cartel 5 0
+2018-03-27 08:35:12. Validando estado cartel prendido4
+2018-03-27 08:35:12. Estado Actual cartel prendido4 1
+2018-03-27 08:35:12. Validando estado cartel 5
+2018-03-27 08:35:12. Estado Actual cartel 5 0
+2018-03-27 08:38:46. Validando estado cartel prendido4
+2018-03-27 08:38:46. Estado Actual cartel prendido4 1
+2018-03-27 08:38:46. Validando estado cartel 5
+2018-03-27 08:38:46. Estado Actual cartel 5 0
+2018-03-27 08:39:30. Validando estado cartel prendido4
+2018-03-27 08:39:30. Estado Actual cartel prendido4 1
+2018-03-27 08:39:30. Validando estado cartel 5
+2018-03-27 08:39:31. Estado Actual cartel 5 0
+2018-03-27 08:41:27. Validando estado cartel prendido4
+2018-03-27 08:41:27. Estado Actual cartel prendido4 1
+2018-03-27 08:41:27. Validando estado cartel 5
+2018-03-27 08:41:27. Estado Actual cartel 5 0
+2018-03-27 08:46:57. Validando estado cartel prendido4
+2018-03-27 08:46:57. Estado Actual cartel prendido4 1
+2018-03-27 08:46:57. Validando estado cartel 5
+2018-03-27 08:46:57. Estado Actual cartel 5 0
+2018-03-27 08:48:01. Validando estado cartel prendido4
+2018-03-27 08:48:01. Estado Actual cartel prendido4 1
+2018-03-27 08:48:01. Validando estado cartel 5
+2018-03-27 08:48:01. Estado Actual cartel 5 0
+2018-03-27 08:48:56. Validando estado cartel prendido4
+2018-03-27 08:48:56. Estado Actual cartel prendido4 1
+2018-03-27 08:48:56. Validando estado cartel 5
+2018-03-27 08:48:56. Estado Actual cartel 5 0
+2018-03-27 08:56:55. Validando estado cartel prendido4
+2018-03-27 08:56:55. Estado Actual cartel prendido4 1
+2018-03-27 08:56:55. Validando estado cartel 5
+2018-03-27 08:56:55. Estado Actual cartel 5 0
+2018-03-27 09:01:50. Validando estado cartel prendido4
+2018-03-27 09:01:50. Estado Actual cartel prendido4 1
+2018-03-27 09:01:50. Validando estado cartel 5
+2018-03-27 09:01:50. Estado Actual cartel 5 0
+2018-03-27 09:06:17. Validando estado cartel prendido4
+2018-03-27 09:06:17. Estado Actual cartel prendido4 1
+2018-03-27 09:06:17. Validando estado cartel 5
+2018-03-27 09:06:17. Estado Actual cartel 5 0
+2018-03-27 09:06:56. Validando estado cartel prendido4
+2018-03-27 09:06:57. Estado Actual cartel prendido4 1
+2018-03-27 09:06:57. Validando estado cartel 5
+2018-03-27 09:06:57. Estado Actual cartel 5 0
+2018-03-27 09:08:46. Validando estado cartel prendido4
+2018-03-27 09:08:46. Estado Actual cartel prendido4 1
+2018-03-27 09:08:46. Validando estado cartel 5
+2018-03-27 09:08:46. Estado Actual cartel 5 0
+2018-03-27 09:12:59. Validando estado cartel prendido4
+2018-03-27 09:12:59. Estado Actual cartel prendido4 1
+2018-03-27 09:12:59. Validando estado cartel 5
+2018-03-27 09:12:59. Estado Actual cartel 5 0
+2018-03-27 09:17:24. Validando estado cartel prendido4
+2018-03-27 09:17:24. Estado Actual cartel prendido4 1
+2018-03-27 09:17:24. Validando estado cartel 5
+2018-03-27 09:17:25. Estado Actual cartel 5 0
+2018-03-27 09:17:59. Validando estado cartel prendido4
+2018-03-27 09:17:59. Estado Actual cartel prendido4 1
+2018-03-27 09:17:59. Validando estado cartel 5
+2018-03-27 09:18:00. Estado Actual cartel 5 0
+2018-03-27 09:22:02. Validando estado cartel prendido4
+2018-03-27 09:22:02. Estado Actual cartel prendido4 1
+2018-03-27 09:22:02. Validando estado cartel 5
+2018-03-27 09:22:02. Estado Actual cartel 5 0
+2018-03-27 09:31:00. Validando estado cartel prendido4
+2018-03-27 09:31:00. Estado Actual cartel prendido4 1
+2018-03-27 09:31:00. Validando estado cartel 5
+2018-03-27 09:31:00. Estado Actual cartel 5 0
+2018-03-27 09:31:53. Validando estado cartel prendido4
+2018-03-27 09:31:53. Estado Actual cartel prendido4 1
+2018-03-27 09:31:53. Validando estado cartel 5
+2018-03-27 09:31:53. Estado Actual cartel 5 0
+2018-03-27 09:34:42. Validando estado cartel prendido4
+2018-03-27 09:34:42. Estado Actual cartel prendido4 1
+2018-03-27 09:34:42. Validando estado cartel 5
+2018-03-27 09:34:42. Estado Actual cartel 5 0
+2018-03-27 09:38:09. Validando estado cartel prendido4
+2018-03-27 09:38:09. Estado Actual cartel prendido4 1
+2018-03-27 09:38:09. Validando estado cartel 5
+2018-03-27 09:38:09. Estado Actual cartel 5 0
+2018-03-27 09:59:39. Validando estado cartel prendido4
+2018-03-27 09:59:39. Estado Actual cartel prendido4 1
+2018-03-27 09:59:39. Validando estado cartel 5
+2018-03-27 09:59:39. Estado Actual cartel 5 0
+2018-03-27 10:06:21. Validando estado cartel prendido4
+2018-03-27 10:06:21. Estado Actual cartel prendido4 1
+2018-03-27 10:06:21. Validando estado cartel 5
+2018-03-27 10:06:21. Estado Actual cartel 5 0
+2018-03-27 10:13:54. Validando estado cartel prendido4
+2018-03-27 10:28:50. Validando estado cartel prendido4
+2018-03-27 10:28:50. Estado Actual cartel prendido4 1
+2018-03-27 10:28:50. Validando estado cartel 5
+2018-03-27 10:28:50. Estado Actual cartel 5 0
+2018-03-27 10:30:31. Validando estado cartel prendido4
+2018-03-27 10:30:46. Estado Actual cartel prendido4 1
+2018-03-27 10:30:46. Validando estado cartel 5
+2018-03-27 10:30:46. Estado Actual cartel 5 0
+2018-03-27 10:31:38. Validando estado cartel prendido4
+2018-03-27 10:31:38. Estado Actual cartel prendido4 1
+2018-03-27 10:31:38. Validando estado cartel 5
+2018-03-27 10:31:38. Estado Actual cartel 5 0
+2018-03-27 10:32:22. Validando estado cartel prendido4
+2018-03-27 10:32:22. Estado Actual cartel prendido4 1
+2018-03-27 10:32:22. Validando estado cartel 5
+2018-03-27 10:32:22. Estado Actual cartel 5 0
+2018-03-27 10:32:58. Validando estado cartel prendido4
+2018-03-27 10:32:58. Estado Actual cartel prendido4 1
+2018-03-27 10:32:58. Validando estado cartel 5
+2018-03-27 10:32:58. Estado Actual cartel 5 0
+2018-03-27 10:34:26. Validando estado cartel prendido4
+2018-03-27 10:34:26. Estado Actual cartel prendido4 1
+2018-03-27 10:34:26. Validando estado cartel 5
+2018-03-27 10:34:26. Estado Actual cartel 5 0
+2018-03-27 10:36:14. Validando estado cartel prendido4
+2018-03-27 10:36:14. Estado Actual cartel prendido4 1
+2018-03-27 10:36:14. Validando estado cartel 5
+2018-03-27 10:36:14. Estado Actual cartel 5 0
+2018-03-27 10:39:01. Validando estado cartel prendido4
+2018-03-27 10:39:01. Estado Actual cartel prendido4 1
+2018-03-27 10:39:01. Validando estado cartel 5
+2018-03-27 10:39:01. Estado Actual cartel 5 0
+2018-03-27 10:41:14. Validando estado cartel prendido4
+2018-03-27 10:41:14. Estado Actual cartel prendido4 1
+2018-03-27 10:41:14. Validando estado cartel 5
+2018-03-27 10:41:15. Estado Actual cartel 5 0
+2018-03-27 10:45:13. Validando estado cartel prendido4
+2018-03-27 10:45:13. Estado Actual cartel prendido4 1
+2018-03-27 10:45:13. Validando estado cartel 5
+2018-03-27 10:45:13. Estado Actual cartel 5 0
+2018-03-27 10:53:30. Validando estado cartel prendido4
+2018-03-27 10:53:30. Estado Actual cartel prendido4 1
+2018-03-27 10:53:30. Validando estado cartel 5
+2018-03-27 10:53:30. Estado Actual cartel 5 0
+2018-03-27 11:03:03. Validando estado cartel prendido4
+2018-03-27 11:03:03. Estado Actual cartel prendido4 1
+2018-03-27 11:03:03. Validando estado cartel 5
+2018-03-27 11:03:03. Estado Actual cartel 5 0
+2018-03-27 11:08:21. Validando estado cartel prendido4
+2018-03-27 11:08:21. Estado Actual cartel prendido4 1
+2018-03-27 11:08:21. Validando estado cartel 5
+2018-03-27 11:08:21. Estado Actual cartel 5 0
+2018-03-27 11:26:00. Validando estado cartel prendido4
+2018-03-27 11:26:00. Estado Actual cartel prendido4 1
+2018-03-27 11:26:00. Validando estado cartel 5
+2018-03-27 11:26:00. Estado Actual cartel 5 0
+2018-03-27 11:28:18. Validando estado cartel prendido4
+2018-03-27 11:28:18. Estado Actual cartel prendido4 1
+2018-03-27 11:28:18. Validando estado cartel 5
+2018-03-27 11:28:18. Estado Actual cartel 5 0
+2018-03-27 11:30:51. Validando estado cartel prendido4
+2018-03-27 11:30:51. Estado Actual cartel prendido4 1
+2018-03-27 11:30:51. Validando estado cartel 5
+2018-03-27 11:30:51. Estado Actual cartel 5 0
+2018-03-27 11:33:00. Validando estado cartel prendido4
+2018-03-27 11:33:00. Estado Actual cartel prendido4 1
+2018-03-27 11:33:00. Validando estado cartel 5
+2018-03-27 11:33:00. Estado Actual cartel 5 0
+2018-03-27 11:34:14. Validando estado cartel prendido4
+2018-03-27 11:34:14. Estado Actual cartel prendido4 1
+2018-03-27 11:34:14. Validando estado cartel 5
+2018-03-27 11:34:14. Estado Actual cartel 5 0
+2018-03-27 11:39:07. Validando estado cartel prendido4
+2018-03-27 11:39:07. Estado Actual cartel prendido4 1
+2018-03-27 11:39:07. Validando estado cartel 5
+2018-03-27 11:39:07. Estado Actual cartel 5 0
+2018-03-27 11:45:15. Validando estado cartel prendido4
+2018-03-27 11:45:16. Estado Actual cartel prendido4 1
+2018-03-27 11:45:16. Validando estado cartel 5
+2018-03-27 11:45:16. Estado Actual cartel 5 0
+2018-03-27 11:57:05. Validando estado cartel prendido4
+2018-03-27 11:57:05. Estado Actual cartel prendido4 1
+2018-03-27 11:57:05. Validando estado cartel 5
+2018-03-27 11:57:05. Estado Actual cartel 5 0
+2018-03-27 12:17:43. Validando estado cartel prendido4
+2018-03-27 12:17:43. Estado Actual cartel prendido4 1
+2018-03-27 12:17:43. Validando estado cartel 5
+2018-03-27 12:17:43. Estado Actual cartel 5 0
+2018-03-27 12:18:55. Validando estado cartel prendido4
+2018-03-27 12:18:55. Estado Actual cartel prendido4 1
+2018-03-27 12:18:55. Validando estado cartel 5
+2018-03-27 12:18:55. Estado Actual cartel 5 0
+2018-03-27 12:20:07. Validando estado cartel prendido4
+2018-03-27 12:20:07. Estado Actual cartel prendido4 1
+2018-03-27 12:20:07. Validando estado cartel 5
+2018-03-27 12:20:07. Estado Actual cartel 5 0
+2018-03-27 12:21:50. Validando estado cartel prendido4
+2018-03-27 12:21:50. Estado Actual cartel prendido4 1
+2018-03-27 12:21:50. Validando estado cartel 5
+2018-03-27 12:21:50. Estado Actual cartel 5 0
+2018-03-27 12:26:02. Validando estado cartel prendido4
+2018-03-27 12:26:02. Estado Actual cartel prendido4 1
+2018-03-27 12:26:02. Validando estado cartel 5
+2018-03-27 12:26:02. Estado Actual cartel 5 0
+2018-03-27 12:27:28. Validando estado cartel prendido4
+2018-03-27 12:27:28. Estado Actual cartel prendido4 1
+2018-03-27 12:27:28. Validando estado cartel 5
+2018-03-27 12:27:28. Estado Actual cartel 5 0
+2018-03-27 12:30:10. Validando estado cartel prendido4
+2018-03-27 12:30:10. Estado Actual cartel prendido4 1
+2018-03-27 12:30:10. Validando estado cartel 5
+2018-03-27 12:30:10. Estado Actual cartel 5 0
+2018-03-27 12:40:15. Validando estado cartel prendido4
+2018-03-27 12:40:15. Estado Actual cartel prendido4 1
+2018-03-27 12:40:15. Validando estado cartel 5
+2018-03-27 12:40:15. Estado Actual cartel 5 0
+2018-03-27 12:42:51. Validando estado cartel prendido4
+2018-03-27 12:42:51. Estado Actual cartel prendido4 1
+2018-03-27 12:42:51. Validando estado cartel 5
+2018-03-27 12:42:51. Estado Actual cartel 5 0
+2018-03-27 12:43:42. Validando estado cartel prendido4
+2018-03-27 12:43:42. Estado Actual cartel prendido4 1
+2018-03-27 12:43:42. Validando estado cartel 5
+2018-03-27 12:43:43. Estado Actual cartel 5 0
+2018-03-27 12:44:19. Validando estado cartel prendido4
+2018-03-27 12:44:19. Estado Actual cartel prendido4 1
+2018-03-27 12:44:19. Validando estado cartel 5
+2018-03-27 12:44:19. Estado Actual cartel 5 0
+2018-03-27 12:45:53. Validando estado cartel prendido4
+2018-03-27 12:45:53. Estado Actual cartel prendido4 1
+2018-03-27 12:45:53. Validando estado cartel 5
+2018-03-27 12:45:53. Estado Actual cartel 5 0
+2018-03-27 12:47:11. Validando estado cartel prendido4
+2018-03-27 12:47:11. Estado Actual cartel prendido4 1
+2018-03-27 12:47:11. Validando estado cartel 5
+2018-03-27 12:47:11. Estado Actual cartel 5 0
+2018-03-27 12:49:40. Validando estado cartel prendido4
+2018-03-27 12:49:40. Estado Actual cartel prendido4 1
+2018-03-27 12:49:40. Validando estado cartel 5
+2018-03-27 12:49:40. Estado Actual cartel 5 0
+2018-03-27 12:50:33. Validando estado cartel prendido4
+2018-03-27 12:50:33. Estado Actual cartel prendido4 1
+2018-03-27 12:50:33. Validando estado cartel 5
+2018-03-27 12:50:33. Estado Actual cartel 5 0
+2018-03-27 12:53:44. Validando estado cartel prendido4
+2018-03-27 12:53:44. Estado Actual cartel prendido4 1
+2018-03-27 12:53:44. Validando estado cartel 5
+2018-03-27 12:53:44. Estado Actual cartel 5 0
+2018-03-27 12:57:09. Validando estado cartel prendido4
+2018-03-27 12:57:09. Estado Actual cartel prendido4 1
+2018-03-27 12:57:09. Validando estado cartel 5
+2018-03-27 12:57:09. Estado Actual cartel 5 0
+2018-03-27 12:58:43. Validando estado cartel prendido4
+2018-03-27 12:58:43. Estado Actual cartel prendido4 1
+2018-03-27 12:58:43. Validando estado cartel 5
+2018-03-27 12:58:43. Estado Actual cartel 5 0
+2018-03-27 13:01:51. Validando estado cartel prendido4
+2018-03-27 13:01:51. Estado Actual cartel prendido4 1
+2018-03-27 13:01:51. Validando estado cartel 5
+2018-03-27 13:01:51. Estado Actual cartel 5 0
+2018-03-27 13:02:37. Validando estado cartel prendido4
+2018-03-27 13:02:37. Estado Actual cartel prendido4 1
+2018-03-27 13:02:37. Validando estado cartel 5
+2018-03-27 13:02:37. Estado Actual cartel 5 0
+2018-03-27 13:03:37. Validando estado cartel prendido4
+2018-03-27 13:03:37. Estado Actual cartel prendido4 1
+2018-03-27 13:03:37. Validando estado cartel 5
+2018-03-27 13:03:37. Estado Actual cartel 5 0
+2018-03-27 13:04:33. Validando estado cartel prendido4
+2018-03-27 13:04:33. Estado Actual cartel prendido4 1
+2018-03-27 13:04:33. Validando estado cartel 5
+2018-03-27 13:04:33. Estado Actual cartel 5 0
+2018-03-27 13:05:11. Validando estado cartel prendido4
+2018-03-27 13:05:11. Estado Actual cartel prendido4 1
+2018-03-27 13:05:11. Validando estado cartel 5
+2018-03-27 13:05:11. Estado Actual cartel 5 0
+2018-03-27 13:05:52. Validando estado cartel prendido4
+2018-03-27 13:05:53. Estado Actual cartel prendido4 1
+2018-03-27 13:05:53. Validando estado cartel 5
+2018-03-27 13:05:53. Estado Actual cartel 5 0
+2018-03-27 13:06:43. Validando estado cartel prendido4
+2018-03-27 13:06:43. Estado Actual cartel prendido4 1
+2018-03-27 13:06:43. Validando estado cartel 5
+2018-03-27 13:06:43. Estado Actual cartel 5 0
+2018-03-27 13:07:52. Validando estado cartel prendido4
+2018-03-27 13:07:52. Estado Actual cartel prendido4 1
+2018-03-27 13:07:52. Validando estado cartel 5
+2018-03-27 13:07:52. Estado Actual cartel 5 0
+2018-03-27 13:11:16. Validando estado cartel prendido4
+2018-03-27 13:11:16. Estado Actual cartel prendido4 1
+2018-03-27 13:11:16. Validando estado cartel 5
+2018-03-27 13:11:16. Estado Actual cartel 5 0
+2018-03-27 13:11:49. Validando estado cartel prendido4
+2018-03-27 13:11:49. Estado Actual cartel prendido4 1
+2018-03-27 13:11:49. Validando estado cartel 5
+2018-03-27 13:11:50. Estado Actual cartel 5 0
+2018-03-27 13:12:24. Validando estado cartel prendido4
+2018-03-27 13:12:25. Estado Actual cartel prendido4 1
+2018-03-27 13:12:25. Validando estado cartel 5
+2018-03-27 13:12:25. Estado Actual cartel 5 0
+2018-03-27 13:14:42. Validando estado cartel prendido4
+2018-03-27 13:14:42. Estado Actual cartel prendido4 1
+2018-03-27 13:14:42. Validando estado cartel 5
+2018-03-27 13:14:42. Estado Actual cartel 5 0
+2018-03-27 13:16:42. Validando estado cartel prendido4
+2018-03-27 13:16:42. Estado Actual cartel prendido4 1
+2018-03-27 13:16:42. Validando estado cartel 5
+2018-03-27 13:16:42. Estado Actual cartel 5 0
+2018-03-27 13:19:05. Validando estado cartel prendido4
+2018-03-27 13:19:05. Estado Actual cartel prendido4 1
+2018-03-27 13:19:05. Validando estado cartel 5
+2018-03-27 13:19:06. Estado Actual cartel 5 0
+2018-03-27 13:21:10. Validando estado cartel prendido4
+2018-03-27 13:21:26. Estado Actual cartel prendido4 1
+2018-03-27 13:21:26. Validando estado cartel 5
+2018-03-27 13:21:27. Estado Actual cartel 5 0
+2018-03-27 13:22:05. Validando estado cartel prendido4
+2018-03-27 13:22:05. Estado Actual cartel prendido4 1
+2018-03-27 13:22:05. Validando estado cartel 5
+2018-03-27 13:22:05. Estado Actual cartel 5 0
+2018-03-27 13:22:47. Validando estado cartel prendido4
+2018-03-27 13:23:04. Estado Actual cartel prendido4 1
+2018-03-27 13:23:04. Validando estado cartel 5
+2018-03-27 13:23:04. Estado Actual cartel 5 0
+2018-03-27 13:23:43. Validando estado cartel prendido4
+2018-03-27 13:23:43. Estado Actual cartel prendido4 1
+2018-03-27 13:23:43. Validando estado cartel 5
+2018-03-27 13:23:43. Estado Actual cartel 5 0
+2018-03-27 13:27:38. Validando estado cartel prendido4
+2018-03-27 13:27:38. Estado Actual cartel prendido4 1
+2018-03-27 13:27:38. Validando estado cartel 5
+2018-03-27 13:27:38. Estado Actual cartel 5 0
+2018-03-27 13:29:55. Validando estado cartel prendido4
+2018-03-27 13:29:55. Estado Actual cartel prendido4 1
+2018-03-27 13:29:55. Validando estado cartel 5
+2018-03-27 13:29:55. Estado Actual cartel 5 0
+2018-03-27 13:30:42. Validando estado cartel prendido4
+2018-03-27 13:30:42. Estado Actual cartel prendido4 1
+2018-03-27 13:30:42. Validando estado cartel 5
+2018-03-27 13:30:42. Estado Actual cartel 5 0
+2018-03-27 13:31:16. Validando estado cartel prendido4
+2018-03-27 13:31:16. Estado Actual cartel prendido4 1
+2018-03-27 13:31:16. Validando estado cartel 5
+2018-03-27 13:31:18. Estado Actual cartel 5 0
+2018-03-27 13:32:40. Validando estado cartel prendido4
+2018-03-27 13:32:40. Estado Actual cartel prendido4 1
+2018-03-27 13:32:40. Validando estado cartel 5
+2018-03-27 13:32:40. Estado Actual cartel 5 0
+2018-03-27 13:34:59. Validando estado cartel prendido4
+2018-03-27 13:34:59. Estado Actual cartel prendido4 1
+2018-03-27 13:34:59. Validando estado cartel 5
+2018-03-27 13:34:59. Estado Actual cartel 5 0
+2018-03-27 13:37:57. Validando estado cartel prendido4
+2018-03-27 13:37:57. Estado Actual cartel prendido4 1
+2018-03-27 13:37:57. Validando estado cartel 5
+2018-03-27 13:37:57. Estado Actual cartel 5 0
+2018-03-27 13:40:52. Validando estado cartel prendido4
+2018-03-27 13:40:52. Estado Actual cartel prendido4 1
+2018-03-27 13:40:52. Validando estado cartel 5
+2018-03-27 13:40:53. Estado Actual cartel 5 0
+2018-03-27 13:42:01. Validando estado cartel prendido4
+2018-03-27 13:42:01. Estado Actual cartel prendido4 1
+2018-03-27 13:42:01. Validando estado cartel 5
+2018-03-27 13:42:01. Estado Actual cartel 5 0
+2018-03-27 13:42:37. Validando estado cartel prendido4
+2018-03-27 13:42:37. Estado Actual cartel prendido4 1
+2018-03-27 13:42:37. Validando estado cartel 5
+2018-03-27 13:42:37. Estado Actual cartel 5 0
+2018-03-27 13:43:15. Validando estado cartel prendido4
+2018-03-27 13:43:15. Estado Actual cartel prendido4 1
+2018-03-27 13:43:15. Validando estado cartel 5
+2018-03-27 13:43:15. Estado Actual cartel 5 0
+2018-03-27 13:44:19. Validando estado cartel prendido4
+2018-03-27 13:44:19. Estado Actual cartel prendido4 1
+2018-03-27 13:44:19. Validando estado cartel 5
+2018-03-27 13:44:19. Estado Actual cartel 5 0
+2018-03-27 13:44:49. Validando estado cartel prendido4
+2018-03-27 13:44:49. Estado Actual cartel prendido4 1
+2018-03-27 13:44:49. Validando estado cartel 5
+2018-03-27 13:44:50. Estado Actual cartel 5 0
+2018-03-27 13:49:22. Validando estado cartel prendido4
+2018-03-27 13:49:22. Estado Actual cartel prendido4 1
+2018-03-27 13:49:22. Validando estado cartel 5
+2018-03-27 13:49:22. Estado Actual cartel 5 0
+2018-03-27 13:50:23. Validando estado cartel prendido4
+2018-03-27 13:50:24. Estado Actual cartel prendido4 1
+2018-03-27 13:50:24. Validando estado cartel 5
+2018-03-27 13:50:24. Estado Actual cartel 5 0
+2018-03-27 13:51:27. Validando estado cartel prendido4
+2018-03-27 13:51:28. Estado Actual cartel prendido4 1
+2018-03-27 13:51:28. Validando estado cartel 5
+2018-03-27 13:51:28. Estado Actual cartel 5 0
+2018-03-27 13:52:21. Validando estado cartel prendido4
+2018-03-27 13:52:21. Estado Actual cartel prendido4 1
+2018-03-27 13:52:21. Validando estado cartel 5
+2018-03-27 13:52:21. Estado Actual cartel 5 0
+2018-03-27 14:07:44. Validando estado cartel prendido4
+2018-03-27 14:07:44. Estado Actual cartel prendido4 1
+2018-03-27 14:07:44. Validando estado cartel 5
+2018-03-27 14:07:44. Estado Actual cartel 5 0
+2018-03-27 14:10:11. Validando estado cartel prendido4
+2018-03-27 14:10:11. Estado Actual cartel prendido4 1
+2018-03-27 14:10:11. Validando estado cartel 5
+2018-03-27 14:10:11. Estado Actual cartel 5 0
+2018-03-27 14:12:10. Validando estado cartel prendido4
+2018-03-27 14:12:10. Estado Actual cartel prendido4 1
+2018-03-27 14:12:10. Validando estado cartel 5
+2018-03-27 14:12:10. Estado Actual cartel 5 0
+2018-03-27 14:14:52. Validando estado cartel prendido4
+2018-03-27 14:14:52. Estado Actual cartel prendido4 1
+2018-03-27 14:14:52. Validando estado cartel 5
+2018-03-27 14:14:52. Estado Actual cartel 5 0
+2018-03-27 14:21:02. Validando estado cartel prendido4
+2018-03-27 14:21:02. Estado Actual cartel prendido4 1
+2018-03-27 14:21:02. Validando estado cartel 5
+2018-03-27 14:21:03. Estado Actual cartel 5 0
+2018-03-27 14:23:04. Validando estado cartel prendido4
+2018-03-27 14:23:04. Estado Actual cartel prendido4 1
+2018-03-27 14:23:04. Validando estado cartel 5
+2018-03-27 14:23:04. Estado Actual cartel 5 0
+2018-03-27 14:26:01. Validando estado cartel prendido4
+2018-03-27 14:26:01. Estado Actual cartel prendido4 1
+2018-03-27 14:26:01. Validando estado cartel 5
+2018-03-27 14:26:01. Estado Actual cartel 5 0
+2018-03-27 14:30:04. Validando estado cartel prendido4
+2018-03-27 14:30:04. Estado Actual cartel prendido4 1
+2018-03-27 14:30:04. Validando estado cartel 5
+2018-03-27 14:30:05. Estado Actual cartel 5 0
+2018-03-27 14:30:50. Validando estado cartel prendido4
+2018-03-27 14:30:50. Estado Actual cartel prendido4 1
+2018-03-27 14:30:50. Validando estado cartel 5
+2018-03-27 14:30:50. Estado Actual cartel 5 0
+2018-03-27 14:34:53. Validando estado cartel prendido4
+2018-03-27 14:34:53. Estado Actual cartel prendido4 1
+2018-03-27 14:34:53. Validando estado cartel 5
+2018-03-27 14:34:54. Estado Actual cartel 5 0
+2018-03-27 14:36:23. Validando estado cartel prendido4
+2018-03-27 14:36:23. Estado Actual cartel prendido4 1
+2018-03-27 14:36:23. Validando estado cartel 5
+2018-03-27 14:36:23. Estado Actual cartel 5 0
+2018-03-27 14:39:29. Validando estado cartel prendido4
+2018-03-27 14:39:29. Estado Actual cartel prendido4 1
+2018-03-27 14:39:29. Validando estado cartel 5
+2018-03-27 14:39:29. Estado Actual cartel 5 0
+2018-03-27 14:40:08. Validando estado cartel prendido4
+2018-03-27 14:40:08. Estado Actual cartel prendido4 1
+2018-03-27 14:40:08. Validando estado cartel 5
+2018-03-27 14:40:08. Estado Actual cartel 5 0
+2018-03-27 14:40:43. Validando estado cartel prendido4
+2018-03-27 14:40:43. Estado Actual cartel prendido4 1
+2018-03-27 14:40:43. Validando estado cartel 5
+2018-03-27 14:40:43. Estado Actual cartel 5 0
+2018-03-27 14:42:21. Validando estado cartel prendido4
+2018-03-27 14:42:21. Estado Actual cartel prendido4 1
+2018-03-27 14:42:21. Validando estado cartel 5
+2018-03-27 14:42:21. Estado Actual cartel 5 0
+2018-03-27 14:44:23. Validando estado cartel prendido4
+2018-03-27 14:44:23. Estado Actual cartel prendido4 1
+2018-03-27 14:44:23. Validando estado cartel 5
+2018-03-27 14:44:23. Estado Actual cartel 5 0
+2018-03-27 14:45:04. Validando estado cartel prendido4
+2018-03-27 14:45:04. Estado Actual cartel prendido4 1
+2018-03-27 14:45:04. Validando estado cartel 5
+2018-03-27 14:45:04. Estado Actual cartel 5 0
+2018-03-27 14:45:54. Validando estado cartel prendido4
+2018-03-27 14:45:54. Estado Actual cartel prendido4 1
+2018-03-27 14:45:54. Validando estado cartel 5
+2018-03-27 14:45:54. Estado Actual cartel 5 0
+2018-03-27 14:46:28. Validando estado cartel prendido4
+2018-03-27 14:46:28. Estado Actual cartel prendido4 1
+2018-03-27 14:46:28. Validando estado cartel 5
+2018-03-27 14:46:28. Estado Actual cartel 5 0
+2018-03-27 14:53:03. Validando estado cartel prendido4
+2018-03-27 14:53:03. Estado Actual cartel prendido4 1
+2018-03-27 14:53:03. Validando estado cartel 5
+2018-03-27 14:53:03. Estado Actual cartel 5 0
+2018-03-27 14:53:51. Validando estado cartel prendido4
+2018-03-27 14:53:51. Estado Actual cartel prendido4 1
+2018-03-27 14:53:51. Validando estado cartel 5
+2018-03-27 14:53:51. Estado Actual cartel 5 0
+2018-03-27 14:55:22. Validando estado cartel prendido4
+2018-03-27 14:55:22. Estado Actual cartel prendido4 1
+2018-03-27 14:55:22. Validando estado cartel 5
+2018-03-27 14:55:22. Estado Actual cartel 5 0
+2018-03-27 14:58:05. Validando estado cartel prendido4
+2018-03-27 14:58:05. Estado Actual cartel prendido4 1
+2018-03-27 14:58:05. Validando estado cartel 5
+2018-03-27 14:58:05. Estado Actual cartel 5 0
+2018-03-27 14:58:43. Validando estado cartel prendido4
+2018-03-27 14:58:43. Estado Actual cartel prendido4 1
+2018-03-27 14:58:43. Validando estado cartel 5
+2018-03-27 14:58:44. Estado Actual cartel 5 0
+2018-03-27 14:59:41. Validando estado cartel prendido4
+2018-03-27 14:59:42. Estado Actual cartel prendido4 1
+2018-03-27 14:59:42. Validando estado cartel 5
+2018-03-27 14:59:42. Estado Actual cartel 5 0
+2018-03-27 15:01:33. Validando estado cartel prendido4
+2018-03-27 15:01:33. Estado Actual cartel prendido4 1
+2018-03-27 15:01:33. Validando estado cartel 5
+2018-03-27 15:01:33. Estado Actual cartel 5 0
+2018-03-27 15:02:26. Validando estado cartel prendido4
+2018-03-27 15:02:26. Estado Actual cartel prendido4 1
+2018-03-27 15:02:26. Validando estado cartel 5
+2018-03-27 15:02:26. Estado Actual cartel 5 0
+2018-03-27 15:03:19. Validando estado cartel prendido4
+2018-03-27 15:03:19. Estado Actual cartel prendido4 1
+2018-03-27 15:03:19. Validando estado cartel 5
+2018-03-27 15:03:19. Estado Actual cartel 5 0
+2018-03-27 15:07:38. Validando estado cartel prendido4
+2018-03-27 15:08:05. Estado Actual cartel prendido4 1
+2018-03-27 15:08:05. Validando estado cartel 5
+2018-03-27 15:08:05. Estado Actual cartel 5 0
+2018-03-27 15:13:54. Validando estado cartel prendido4
+2018-03-27 15:13:54. Estado Actual cartel prendido4 1
+2018-03-27 15:13:54. Validando estado cartel 5
+2018-03-27 15:13:55. Estado Actual cartel 5 0
+2018-03-27 15:15:32. Validando estado cartel prendido4
+2018-03-27 15:15:32. Estado Actual cartel prendido4 1
+2018-03-27 15:15:32. Validando estado cartel 5
+2018-03-27 15:15:32. Estado Actual cartel 5 0
+2018-03-27 15:18:53. Validando estado cartel prendido4
+2018-03-27 15:18:53. Estado Actual cartel prendido4 1
+2018-03-27 15:18:53. Validando estado cartel 5
+2018-03-27 15:18:53. Estado Actual cartel 5 0
+2018-03-27 15:22:23. Validando estado cartel prendido4
+2018-03-27 15:22:23. Estado Actual cartel prendido4 1
+2018-03-27 15:22:23. Validando estado cartel 5
+2018-03-27 15:22:23. Estado Actual cartel 5 0
+2018-03-27 15:23:09. Validando estado cartel prendido4
+2018-03-27 15:23:10. Estado Actual cartel prendido4 1
+2018-03-27 15:23:10. Validando estado cartel 5
+2018-03-27 15:23:11. Estado Actual cartel 5 0
+2018-03-27 15:26:19. Validando estado cartel prendido4
+2018-03-27 15:26:19. Estado Actual cartel prendido4 1
+2018-03-27 15:26:19. Validando estado cartel 5
+2018-03-27 15:26:19. Estado Actual cartel 5 0
+2018-03-27 15:26:49. Validando estado cartel prendido4
+2018-03-27 15:26:49. Estado Actual cartel prendido4 1
+2018-03-27 15:26:49. Validando estado cartel 5
+2018-03-27 15:26:49. Estado Actual cartel 5 0
+2018-03-27 15:27:37. Validando estado cartel prendido4
+2018-03-27 15:27:39. Estado Actual cartel prendido4 1
+2018-03-27 15:27:39. Validando estado cartel 5
+2018-03-27 15:27:39. Estado Actual cartel 5 0
+2018-03-27 15:28:26. Validando estado cartel prendido4
+2018-03-27 15:28:26. Estado Actual cartel prendido4 1
+2018-03-27 15:28:26. Validando estado cartel 5
+2018-03-27 15:28:26. Estado Actual cartel 5 0
+2018-03-27 15:29:14. Validando estado cartel prendido4
+2018-03-27 15:29:14. Estado Actual cartel prendido4 1
+2018-03-27 15:29:14. Validando estado cartel 5
+2018-03-27 15:29:14. Estado Actual cartel 5 0
+2018-03-27 15:30:04. Validando estado cartel prendido4
+2018-03-27 15:30:04. Estado Actual cartel prendido4 1
+2018-03-27 15:30:04. Validando estado cartel 5
+2018-03-27 15:30:04. Estado Actual cartel 5 0
+2018-03-27 15:33:03. Validando estado cartel prendido4
+2018-03-27 15:33:03. Estado Actual cartel prendido4 1
+2018-03-27 15:33:03. Validando estado cartel 5
+2018-03-27 15:33:04. Estado Actual cartel 5 0
+2018-03-27 15:40:06. Validando estado cartel prendido4
+2018-03-27 15:40:06. Estado Actual cartel prendido4 1
+2018-03-27 15:40:06. Validando estado cartel 5
+2018-03-27 15:40:06. Estado Actual cartel 5 0
+2018-03-27 15:41:45. Validando estado cartel prendido4
+2018-03-27 15:41:45. Estado Actual cartel prendido4 1
+2018-03-27 15:41:45. Validando estado cartel 5
+2018-03-27 15:41:45. Estado Actual cartel 5 0
+2018-03-27 15:42:28. Validando estado cartel prendido4
+2018-03-27 15:42:28. Estado Actual cartel prendido4 1
+2018-03-27 15:42:28. Validando estado cartel 5
+2018-03-27 15:42:29. Estado Actual cartel 5 0
+2018-03-27 15:43:20. Validando estado cartel prendido4
+2018-03-27 15:43:20. Estado Actual cartel prendido4 1
+2018-03-27 15:43:20. Validando estado cartel 5
+2018-03-27 15:43:20. Estado Actual cartel 5 0
+2018-03-27 15:46:26. Validando estado cartel prendido4
+2018-03-27 15:46:26. Estado Actual cartel prendido4 1
+2018-03-27 15:46:26. Validando estado cartel 5
+2018-03-27 15:46:26. Estado Actual cartel 5 0
+2018-03-27 15:56:33. Validando estado cartel prendido4
+2018-03-27 15:56:33. Estado Actual cartel prendido4 1
+2018-03-27 15:56:33. Validando estado cartel 5
+2018-03-27 15:56:33. Estado Actual cartel 5 0
+2018-03-27 15:59:00. Validando estado cartel prendido4
+2018-03-27 15:59:00. Estado Actual cartel prendido4 1
+2018-03-27 15:59:00. Validando estado cartel 5
+2018-03-27 15:59:00. Estado Actual cartel 5 0
+2018-03-27 16:17:33. Validando estado cartel prendido4
+2018-03-27 16:17:33. Estado Actual cartel prendido4 1
+2018-03-27 16:17:33. Validando estado cartel 5
+2018-03-27 16:17:33. Estado Actual cartel 5 0
+2018-03-27 16:19:05. Validando estado cartel prendido4
+2018-03-27 16:19:06. Estado Actual cartel prendido4 1
+2018-03-27 16:19:06. Validando estado cartel 5
+2018-03-27 16:19:06. Estado Actual cartel 5 0
+2018-03-27 16:21:09. Validando estado cartel prendido4
+2018-03-27 16:21:09. Estado Actual cartel prendido4 1
+2018-03-27 16:21:09. Validando estado cartel 5
+2018-03-27 16:21:09. Estado Actual cartel 5 0
+2018-03-27 16:23:25. Validando estado cartel prendido4
+2018-03-27 16:23:25. Estado Actual cartel prendido4 1
+2018-03-27 16:23:25. Validando estado cartel 5
+2018-03-27 16:23:25. Estado Actual cartel 5 0
+2018-03-27 16:25:36. Validando estado cartel prendido4
+2018-03-27 16:25:36. Estado Actual cartel prendido4 1
+2018-03-27 16:25:36. Validando estado cartel 5
+2018-03-27 16:25:36. Estado Actual cartel 5 0
+2018-03-27 16:37:28. Validando estado cartel prendido4
+2018-03-27 16:37:28. Estado Actual cartel prendido4 1
+2018-03-27 16:37:28. Validando estado cartel 5
+2018-03-27 16:37:29. Estado Actual cartel 5 0
+2018-03-27 16:41:08. Validando estado cartel prendido4
+2018-03-27 16:41:08. Estado Actual cartel prendido4 1
+2018-03-27 16:41:08. Validando estado cartel 5
+2018-03-27 16:41:08. Estado Actual cartel 5 0
+2018-03-27 16:45:47. Validando estado cartel prendido4
+2018-03-27 16:45:47. Estado Actual cartel prendido4 1
+2018-03-27 16:45:47. Validando estado cartel 5
+2018-03-27 16:45:47. Estado Actual cartel 5 0
+2018-03-27 16:46:56. Validando estado cartel prendido4
+2018-03-27 16:46:56. Estado Actual cartel prendido4 1
+2018-03-27 16:46:56. Validando estado cartel 5
+2018-03-27 16:46:56. Estado Actual cartel 5 0
+2018-03-27 16:53:20. Validando estado cartel prendido4
+2018-03-27 16:53:20. Estado Actual cartel prendido4 1
+2018-03-27 16:53:20. Validando estado cartel 5
+2018-03-27 16:53:20. Estado Actual cartel 5 0
+2018-03-27 16:54:36. Validando estado cartel prendido4
+2018-03-27 16:54:36. Estado Actual cartel prendido4 1
+2018-03-27 16:54:36. Validando estado cartel 5
+2018-03-27 16:54:36. Estado Actual cartel 5 0
+2018-03-27 16:55:08. Validando estado cartel prendido4
+2018-03-27 16:55:09. Estado Actual cartel prendido4 1
+2018-03-27 16:55:09. Validando estado cartel 5
+2018-03-27 16:55:09. Estado Actual cartel 5 0
+2018-03-27 16:57:08. Validando estado cartel prendido4
+2018-03-27 16:57:08. Estado Actual cartel prendido4 1
+2018-03-27 16:57:08. Validando estado cartel 5
+2018-03-27 16:57:08. Estado Actual cartel 5 0
+2018-03-27 17:01:42. Validando estado cartel prendido4
+2018-03-27 17:01:42. Estado Actual cartel prendido4 1
+2018-03-27 17:01:42. Validando estado cartel 5
+2018-03-27 17:01:42. Estado Actual cartel 5 0
+2018-03-27 17:07:46. Validando estado cartel prendido4
+2018-03-27 17:07:46. Estado Actual cartel prendido4 1
+2018-03-27 17:07:46. Validando estado cartel 5
+2018-03-27 17:07:46. Estado Actual cartel 5 0
+2018-03-27 17:13:56. Validando estado cartel prendido4
+2018-03-27 17:13:56. Estado Actual cartel prendido4 1
+2018-03-27 17:13:56. Validando estado cartel 5
+2018-03-27 17:13:56. Estado Actual cartel 5 0
+2018-03-27 17:16:56. Validando estado cartel prendido4
+2018-03-27 17:16:56. Estado Actual cartel prendido4 1
+2018-03-27 17:16:56. Validando estado cartel 5
+2018-03-27 17:16:56. Estado Actual cartel 5 0
+2018-03-27 17:23:47. Validando estado cartel prendido4
+2018-03-27 17:23:47. Estado Actual cartel prendido4 1
+2018-03-27 17:23:47. Validando estado cartel 5
+2018-03-27 17:23:47. Estado Actual cartel 5 0
+2018-03-27 17:24:44. Validando estado cartel prendido4
+2018-03-27 17:24:44. Estado Actual cartel prendido4 1
+2018-03-27 17:24:44. Validando estado cartel 5
+2018-03-27 17:24:44. Estado Actual cartel 5 0
+2018-03-27 17:27:19. Validando estado cartel prendido4
+2018-03-27 17:27:19. Estado Actual cartel prendido4 1
+2018-03-27 17:27:19. Validando estado cartel 5
+2018-03-27 17:27:20. Estado Actual cartel 5 0
+2018-03-27 17:27:52. Validando estado cartel prendido4
+2018-03-27 17:27:53. Estado Actual cartel prendido4 1
+2018-03-27 17:27:53. Validando estado cartel 5
+2018-03-27 17:27:53. Estado Actual cartel 5 0
+2018-03-27 17:28:31. Validando estado cartel prendido4
+2018-03-27 17:28:31. Estado Actual cartel prendido4 1
+2018-03-27 17:28:31. Validando estado cartel 5
+2018-03-27 17:28:31. Estado Actual cartel 5 0
+2018-03-27 17:29:45. Validando estado cartel prendido4
+2018-03-27 17:29:46. Estado Actual cartel prendido4 1
+2018-03-27 17:29:46. Validando estado cartel 5
+2018-03-27 17:29:46. Estado Actual cartel 5 0
+2018-03-27 17:38:54. Validando estado cartel prendido4
+2018-03-27 17:38:54. Estado Actual cartel prendido4 1
+2018-03-27 17:38:54. Validando estado cartel 5
+2018-03-27 17:38:54. Estado Actual cartel 5 0
+2018-03-27 17:50:50. Validando estado cartel prendido4
+2018-03-27 17:50:50. Estado Actual cartel prendido4 1
+2018-03-27 17:50:50. Validando estado cartel 5
+2018-03-27 17:50:50. Estado Actual cartel 5 0
+2018-03-27 17:53:55. Validando estado cartel prendido4
+2018-03-27 17:53:55. Estado Actual cartel prendido4 1
+2018-03-27 17:53:55. Validando estado cartel 5
+2018-03-27 17:53:55. Estado Actual cartel 5 0
+2018-03-27 17:54:31. Validando estado cartel prendido4
+2018-03-27 17:54:31. Estado Actual cartel prendido4 1
+2018-03-27 17:54:31. Validando estado cartel 5
+2018-03-27 17:54:31. Estado Actual cartel 5 0
+2018-03-27 17:57:41. Validando estado cartel prendido4
+2018-03-27 17:57:42. Estado Actual cartel prendido4 1
+2018-03-27 17:57:42. Validando estado cartel 5
+2018-03-27 17:57:42. Estado Actual cartel 5 0
+2018-03-27 18:05:05. Validando estado cartel prendido4
+2018-03-27 18:05:05. Estado Actual cartel prendido4 1
+2018-03-27 18:05:05. Validando estado cartel 5
+2018-03-27 18:05:06. Estado Actual cartel 5 0
+2018-03-27 18:08:42. Validando estado cartel prendido4
+2018-03-27 18:08:42. Estado Actual cartel prendido4 1
+2018-03-27 18:08:42. Validando estado cartel 5
+2018-03-27 18:08:42. Estado Actual cartel 5 0
+2018-03-27 18:09:51. Validando estado cartel prendido4
+2018-03-27 18:09:51. Estado Actual cartel prendido4 1
+2018-03-27 18:09:51. Validando estado cartel 5
+2018-03-27 18:09:51. Estado Actual cartel 5 0
+2018-03-27 18:11:17. Validando estado cartel prendido4
+2018-03-27 18:11:17. Estado Actual cartel prendido4 1
+2018-03-27 18:11:17. Validando estado cartel 5
+2018-03-27 18:11:17. Estado Actual cartel 5 0
+2018-03-27 18:15:44. Validando estado cartel prendido4
+2018-03-27 18:15:44. Estado Actual cartel prendido4 1
+2018-03-27 18:15:44. Validando estado cartel 5
+2018-03-27 18:15:44. Estado Actual cartel 5 0
+2018-03-27 18:18:40. Validando estado cartel prendido4
+2018-03-27 18:18:40. Estado Actual cartel prendido4 1
+2018-03-27 18:18:40. Validando estado cartel 5
+2018-03-27 18:18:40. Estado Actual cartel 5 0
+2018-03-27 18:20:01. Validando estado cartel prendido4
+2018-03-27 18:20:01. Estado Actual cartel prendido4 1
+2018-03-27 18:20:01. Validando estado cartel 5
+2018-03-27 18:20:01. Estado Actual cartel 5 0
+2018-03-27 18:21:36. Validando estado cartel prendido4
+2018-03-27 18:21:36. Estado Actual cartel prendido4 1
+2018-03-27 18:21:36. Validando estado cartel 5
+2018-03-27 18:21:36. Estado Actual cartel 5 0
+2018-03-27 18:22:19. Validando estado cartel prendido4
+2018-03-27 18:22:19. Estado Actual cartel prendido4 1
+2018-03-27 18:22:19. Validando estado cartel 5
+2018-03-27 18:22:19. Estado Actual cartel 5 0
+2018-03-27 18:23:07. Validando estado cartel prendido4
+2018-03-27 18:23:07. Estado Actual cartel prendido4 1
+2018-03-27 18:23:07. Validando estado cartel 5
+2018-03-27 18:23:08. Estado Actual cartel 5 0
+2018-03-27 18:26:55. Validando estado cartel prendido4
+2018-03-27 18:26:55. Estado Actual cartel prendido4 1
+2018-03-27 18:26:55. Validando estado cartel 5
+2018-03-27 18:26:55. Estado Actual cartel 5 0
+2018-03-27 18:27:58. Validando estado cartel prendido4
+2018-03-27 18:27:59. Estado Actual cartel prendido4 1
+2018-03-27 18:27:59. Validando estado cartel 5
+2018-03-27 18:27:59. Estado Actual cartel 5 0
+2018-03-27 18:34:13. Validando estado cartel prendido4
+2018-03-27 18:34:13. Estado Actual cartel prendido4 1
+2018-03-27 18:34:13. Validando estado cartel 5
+2018-03-27 18:34:13. Estado Actual cartel 5 0
+2018-03-27 18:34:55. Validando estado cartel prendido4
+2018-03-27 18:34:55. Estado Actual cartel prendido4 1
+2018-03-27 18:34:55. Validando estado cartel 5
+2018-03-27 18:34:56. Estado Actual cartel 5 0
+2018-03-27 18:37:10. Validando estado cartel prendido4
+2018-03-27 18:37:10. Estado Actual cartel prendido4 1
+2018-03-27 18:37:10. Validando estado cartel 5
+2018-03-27 18:37:10. Estado Actual cartel 5 0
+2018-03-27 18:38:15. Validando estado cartel prendido4
+2018-03-27 18:38:15. Estado Actual cartel prendido4 1
+2018-03-27 18:38:15. Validando estado cartel 5
+2018-03-27 18:38:15. Estado Actual cartel 5 0
+2018-03-27 18:39:09. Validando estado cartel prendido4
+2018-03-27 18:39:09. Estado Actual cartel prendido4 1
+2018-03-27 18:39:09. Validando estado cartel 5
+2018-03-27 18:39:09. Estado Actual cartel 5 0
+2018-03-27 18:39:51. Validando estado cartel prendido4
+2018-03-27 18:39:51. Estado Actual cartel prendido4 1
+2018-03-27 18:39:51. Validando estado cartel 5
+2018-03-27 18:39:51. Estado Actual cartel 5 0
+2018-03-27 18:40:30. Validando estado cartel prendido4
+2018-03-27 18:40:30. Estado Actual cartel prendido4 1
+2018-03-27 18:40:30. Validando estado cartel 5
+2018-03-27 18:40:30. Estado Actual cartel 5 0
+2018-03-27 18:45:21. Validando estado cartel prendido4
+2018-03-27 18:45:21. Estado Actual cartel prendido4 1
+2018-03-27 18:45:21. Validando estado cartel 5
+2018-03-27 18:45:21. Estado Actual cartel 5 0
+2018-03-27 18:47:50. Validando estado cartel prendido4
+2018-03-27 18:47:50. Estado Actual cartel prendido4 1
+2018-03-27 18:47:50. Validando estado cartel 5
+2018-03-27 18:47:50. Estado Actual cartel 5 0
+2018-03-27 18:48:29. Validando estado cartel prendido4
+2018-03-27 18:48:29. Estado Actual cartel prendido4 1
+2018-03-27 18:48:29. Validando estado cartel 5
+2018-03-27 18:48:30. Estado Actual cartel 5 0
+2018-03-27 18:52:15. Validando estado cartel prendido4
+2018-03-27 18:52:15. Estado Actual cartel prendido4 1
+2018-03-27 18:52:15. Validando estado cartel 5
+2018-03-27 18:52:15. Estado Actual cartel 5 0
+2018-03-27 18:56:48. Validando estado cartel prendido4
+2018-03-27 18:56:48. Estado Actual cartel prendido4 1
+2018-03-27 18:56:48. Validando estado cartel 5
+2018-03-27 18:56:48. Estado Actual cartel 5 0
+2018-03-27 18:57:45. Validando estado cartel prendido4
+2018-03-27 18:57:45. Estado Actual cartel prendido4 1
+2018-03-27 18:57:45. Validando estado cartel 5
+2018-03-27 18:57:45. Estado Actual cartel 5 0
+2018-03-27 18:58:32. Validando estado cartel prendido4
+2018-03-27 18:58:32. Estado Actual cartel prendido4 1
+2018-03-27 18:58:32. Validando estado cartel 5
+2018-03-27 18:58:32. Estado Actual cartel 5 0
+2018-03-27 19:03:26. Validando estado cartel prendido4
+2018-03-27 19:03:26. Estado Actual cartel prendido4 1
+2018-03-27 19:03:26. Validando estado cartel 5
+2018-03-27 19:03:26. Estado Actual cartel 5 0
+2018-03-27 19:04:44. Validando estado cartel prendido4
+2018-03-27 19:04:44. Estado Actual cartel prendido4 1
+2018-03-27 19:04:44. Validando estado cartel 5
+2018-03-27 19:04:44. Estado Actual cartel 5 0
+2018-03-27 19:08:20. Validando estado cartel prendido4
+2018-03-27 19:08:20. Estado Actual cartel prendido4 1
+2018-03-27 19:08:20. Validando estado cartel 5
+2018-03-27 19:08:20. Estado Actual cartel 5 0
+2018-03-27 19:10:06. Validando estado cartel prendido4
+2018-03-27 19:10:06. Estado Actual cartel prendido4 1
+2018-03-27 19:10:06. Validando estado cartel 5
+2018-03-27 19:10:06. Estado Actual cartel 5 0
+2018-03-27 19:11:18. Validando estado cartel prendido4
+2018-03-27 19:11:18. Estado Actual cartel prendido4 1
+2018-03-27 19:11:18. Validando estado cartel 5
+2018-03-27 19:11:18. Estado Actual cartel 5 0
+2018-03-27 19:11:52. Validando estado cartel prendido4
+2018-03-27 19:11:52. Estado Actual cartel prendido4 1
+2018-03-27 19:11:52. Validando estado cartel 5
+2018-03-27 19:11:52. Estado Actual cartel 5 0
+2018-03-27 19:14:03. Validando estado cartel prendido4
+2018-03-27 19:14:03. Estado Actual cartel prendido4 1
+2018-03-27 19:14:03. Validando estado cartel 5
+2018-03-27 19:14:03. Estado Actual cartel 5 0
+2018-03-27 19:15:53. Validando estado cartel prendido4
+2018-03-27 19:15:53. Estado Actual cartel prendido4 1
+2018-03-27 19:15:53. Validando estado cartel 5
+2018-03-27 19:15:53. Estado Actual cartel 5 0
+2018-03-27 19:16:51. Validando estado cartel prendido4
+2018-03-27 19:16:51. Estado Actual cartel prendido4 1
+2018-03-27 19:16:51. Validando estado cartel 5
+2018-03-27 19:16:51. Estado Actual cartel 5 0
+2018-03-27 19:20:57. Validando estado cartel prendido4
+2018-03-27 19:20:57. Estado Actual cartel prendido4 1
+2018-03-27 19:20:57. Validando estado cartel 5
+2018-03-27 19:20:58. Estado Actual cartel 5 0
+2018-03-27 19:21:32. Validando estado cartel prendido4
+2018-03-27 19:21:32. Estado Actual cartel prendido4 1
+2018-03-27 19:21:32. Validando estado cartel 5
+2018-03-27 19:21:32. Estado Actual cartel 5 0
+2018-03-27 19:23:43. Validando estado cartel prendido4
+2018-03-27 19:23:43. Estado Actual cartel prendido4 1
+2018-03-27 19:23:43. Validando estado cartel 5
+2018-03-27 19:23:43. Estado Actual cartel 5 0
+2018-03-27 19:24:23. Validando estado cartel prendido4
+2018-03-27 19:24:23. Estado Actual cartel prendido4 1
+2018-03-27 19:24:23. Validando estado cartel 5
+2018-03-27 19:24:23. Estado Actual cartel 5 0
+2018-03-27 19:25:22. Validando estado cartel prendido4
+2018-03-27 19:25:22. Estado Actual cartel prendido4 1
+2018-03-27 19:25:22. Validando estado cartel 5
+2018-03-27 19:25:22. Estado Actual cartel 5 0
+2018-03-27 19:27:33. Validando estado cartel prendido4
+2018-03-27 19:27:34. Estado Actual cartel prendido4 1
+2018-03-27 19:27:34. Validando estado cartel 5
+2018-03-27 19:27:34. Estado Actual cartel 5 0
+2018-03-27 19:32:44. Validando estado cartel prendido4
+2018-03-27 19:32:44. Estado Actual cartel prendido4 1
+2018-03-27 19:32:44. Validando estado cartel 5
+2018-03-27 19:32:44. Estado Actual cartel 5 0
+2018-03-27 19:33:31. Validando estado cartel prendido4
+2018-03-27 19:33:31. Estado Actual cartel prendido4 1
+2018-03-27 19:33:31. Validando estado cartel 5
+2018-03-27 19:33:32. Estado Actual cartel 5 0
+2018-03-27 19:41:04. Validando estado cartel prendido4
+2018-03-27 19:41:04. Estado Actual cartel prendido4 1
+2018-03-27 19:41:04. Validando estado cartel 5
+2018-03-27 19:41:04. Estado Actual cartel 5 0
+2018-03-27 19:41:52. Validando estado cartel prendido4
+2018-03-27 19:41:52. Estado Actual cartel prendido4 1
+2018-03-27 19:41:52. Validando estado cartel 5
+2018-03-27 19:41:52. Estado Actual cartel 5 0
+2018-03-27 19:42:36. Validando estado cartel prendido4
+2018-03-27 19:42:36. Estado Actual cartel prendido4 1
+2018-03-27 19:42:36. Validando estado cartel 5
+2018-03-27 19:42:36. Estado Actual cartel 5 0
+2018-03-27 19:43:48. Validando estado cartel prendido4
+2018-03-27 19:43:48. Estado Actual cartel prendido4 1
+2018-03-27 19:43:48. Validando estado cartel 5
+2018-03-27 19:43:48. Estado Actual cartel 5 0
+2018-03-27 19:45:46. Validando estado cartel prendido4
+2018-03-27 19:45:46. Estado Actual cartel prendido4 1
+2018-03-27 19:45:46. Validando estado cartel 5
+2018-03-27 19:45:46. Estado Actual cartel 5 0
+2018-03-27 19:46:25. Validando estado cartel prendido4
+2018-03-27 19:46:25. Estado Actual cartel prendido4 1
+2018-03-27 19:46:25. Validando estado cartel 5
+2018-03-27 19:46:25. Estado Actual cartel 5 0
+2018-03-27 19:49:30. Validando estado cartel prendido4
+2018-03-27 19:49:30. Estado Actual cartel prendido4 1
+2018-03-27 19:49:30. Validando estado cartel 5
+2018-03-27 19:49:30. Estado Actual cartel 5 0
+2018-03-27 19:53:02. Validando estado cartel prendido4
+2018-03-27 19:53:02. Estado Actual cartel prendido4 1
+2018-03-27 19:53:02. Validando estado cartel 5
+2018-03-27 19:53:02. Estado Actual cartel 5 0
+2018-03-27 19:53:49. Validando estado cartel prendido4
+2018-03-27 19:53:49. Estado Actual cartel prendido4 1
+2018-03-27 19:53:49. Validando estado cartel 5
+2018-03-27 19:53:49. Estado Actual cartel 5 0
+2018-03-27 19:54:27. Validando estado cartel prendido4
+2018-03-27 19:54:27. Estado Actual cartel prendido4 1
+2018-03-27 19:54:27. Validando estado cartel 5
+2018-03-27 19:54:27. Estado Actual cartel 5 0
+2018-03-27 19:55:16. Validando estado cartel prendido4
+2018-03-27 19:55:16. Estado Actual cartel prendido4 1
+2018-03-27 19:55:16. Validando estado cartel 5
+2018-03-27 19:55:16. Estado Actual cartel 5 0
+2018-03-27 19:56:19. Validando estado cartel prendido4
+2018-03-27 19:56:19. Estado Actual cartel prendido4 1
+2018-03-27 19:56:19. Validando estado cartel 5
+2018-03-27 19:56:19. Estado Actual cartel 5 0
+2018-03-27 20:00:22. Validando estado cartel prendido4
+2018-03-27 20:00:22. Estado Actual cartel prendido4 1
+2018-03-27 20:00:22. Validando estado cartel 5
+2018-03-27 20:00:22. Estado Actual cartel 5 0
+2018-03-27 20:03:20. Validando estado cartel prendido4
+2018-03-27 20:03:20. Estado Actual cartel prendido4 1
+2018-03-27 20:03:20. Validando estado cartel 5
+2018-03-27 20:03:20. Estado Actual cartel 5 0
+2018-03-27 20:07:13. Validando estado cartel prendido4
+2018-03-27 20:07:13. Estado Actual cartel prendido4 1
+2018-03-27 20:07:13. Validando estado cartel 5
+2018-03-27 20:07:13. Estado Actual cartel 5 0
+2018-03-27 20:11:12. Validando estado cartel prendido4
+2018-03-27 20:11:12. Estado Actual cartel prendido4 1
+2018-03-27 20:11:12. Validando estado cartel 5
+2018-03-27 20:11:13. Estado Actual cartel 5 0
+2018-03-27 20:12:03. Validando estado cartel prendido4
+2018-03-27 20:12:03. Estado Actual cartel prendido4 1
+2018-03-27 20:12:03. Validando estado cartel 5
+2018-03-27 20:12:03. Estado Actual cartel 5 0
+2018-03-27 20:16:21. Validando estado cartel prendido4
+2018-03-27 20:16:21. Estado Actual cartel prendido4 1
+2018-03-27 20:16:21. Validando estado cartel 5
+2018-03-27 20:16:21. Estado Actual cartel 5 0
+2018-03-27 20:16:58. Validando estado cartel prendido4
+2018-03-27 20:16:58. Estado Actual cartel prendido4 1
+2018-03-27 20:16:58. Validando estado cartel 5
+2018-03-27 20:16:58. Estado Actual cartel 5 0
+2018-03-27 20:20:33. Validando estado cartel prendido4
+2018-03-27 20:20:33. Estado Actual cartel prendido4 1
+2018-03-27 20:20:33. Validando estado cartel 5
+2018-03-27 20:20:33. Estado Actual cartel 5 0
+2018-03-27 20:22:26. Validando estado cartel prendido4
+2018-03-27 20:22:26. Estado Actual cartel prendido4 1
+2018-03-27 20:22:26. Validando estado cartel 5
+2018-03-27 20:22:26. Estado Actual cartel 5 0
+2018-03-27 20:23:32. Validando estado cartel prendido4
+2018-03-27 20:23:32. Estado Actual cartel prendido4 1
+2018-03-27 20:23:32. Validando estado cartel 5
+2018-03-27 20:23:32. Estado Actual cartel 5 0
+2018-03-27 20:24:21. Validando estado cartel prendido4
+2018-03-27 20:24:21. Estado Actual cartel prendido4 1
+2018-03-27 20:24:21. Validando estado cartel 5
+2018-03-27 20:24:21. Estado Actual cartel 5 0
+2018-03-27 20:25:27. Validando estado cartel prendido4
+2018-03-27 20:25:27. Estado Actual cartel prendido4 1
+2018-03-27 20:25:27. Validando estado cartel 5
+2018-03-27 20:25:27. Estado Actual cartel 5 0
+2018-03-27 20:26:39. Validando estado cartel prendido4
+2018-03-27 20:26:39. Estado Actual cartel prendido4 1
+2018-03-27 20:26:39. Validando estado cartel 5
+2018-03-27 20:26:39. Estado Actual cartel 5 0
+2018-03-27 20:27:46. Validando estado cartel prendido4
+2018-03-27 20:27:46. Estado Actual cartel prendido4 1
+2018-03-27 20:27:46. Validando estado cartel 5
+2018-03-27 20:27:46. Estado Actual cartel 5 0
+2018-03-27 20:30:16. Validando estado cartel prendido4
+2018-03-27 20:30:17. Estado Actual cartel prendido4 1
+2018-03-27 20:30:17. Validando estado cartel 5
+2018-03-27 20:30:17. Estado Actual cartel 5 0
+2018-03-27 20:33:15. Validando estado cartel prendido4
+2018-03-27 20:33:15. Estado Actual cartel prendido4 1
+2018-03-27 20:33:15. Validando estado cartel 5
+2018-03-27 20:33:15. Estado Actual cartel 5 0
+2018-03-27 20:34:08. Validando estado cartel prendido4
+2018-03-27 20:34:08. Estado Actual cartel prendido4 1
+2018-03-27 20:34:08. Validando estado cartel 5
+2018-03-27 20:34:08. Estado Actual cartel 5 0
+2018-03-27 20:34:55. Validando estado cartel prendido4
+2018-03-27 20:34:55. Estado Actual cartel prendido4 1
+2018-03-27 20:34:55. Validando estado cartel 5
+2018-03-27 20:34:55. Estado Actual cartel 5 0
+2018-03-27 20:35:32. Validando estado cartel prendido4
+2018-03-27 20:35:32. Estado Actual cartel prendido4 1
+2018-03-27 20:35:32. Validando estado cartel 5
+2018-03-27 20:35:32. Estado Actual cartel 5 0
+2018-03-27 20:36:53. Validando estado cartel prendido4
+2018-03-27 20:36:53. Estado Actual cartel prendido4 1
+2018-03-27 20:36:53. Validando estado cartel 5
+2018-03-27 20:36:53. Estado Actual cartel 5 0
+2018-03-27 20:39:14. Validando estado cartel prendido4
+2018-03-27 20:39:14. Estado Actual cartel prendido4 1
+2018-03-27 20:39:14. Validando estado cartel 5
+2018-03-27 20:39:14. Estado Actual cartel 5 0
+2018-03-27 20:39:50. Validando estado cartel prendido4
+2018-03-27 20:39:50. Estado Actual cartel prendido4 1
+2018-03-27 20:39:50. Validando estado cartel 5
+2018-03-27 20:39:50. Estado Actual cartel 5 0
+2018-03-27 20:41:49. Validando estado cartel prendido4
+2018-03-27 20:41:49. Estado Actual cartel prendido4 1
+2018-03-27 20:41:49. Validando estado cartel 5
+2018-03-27 20:41:49. Estado Actual cartel 5 0
+2018-03-27 20:45:31. Validando estado cartel prendido4
+2018-03-27 20:45:31. Estado Actual cartel prendido4 1
+2018-03-27 20:45:31. Validando estado cartel 5
+2018-03-27 20:45:31. Estado Actual cartel 5 0
+2018-03-27 20:46:11. Validando estado cartel prendido4
+2018-03-27 20:46:11. Estado Actual cartel prendido4 1
+2018-03-27 20:46:11. Validando estado cartel 5
+2018-03-27 20:46:11. Estado Actual cartel 5 0
+2018-03-27 20:46:49. Validando estado cartel prendido4
+2018-03-27 20:46:49. Estado Actual cartel prendido4 1
+2018-03-27 20:46:49. Validando estado cartel 5
+2018-03-27 20:46:49. Estado Actual cartel 5 0
+2018-03-27 20:47:37. Validando estado cartel prendido4
+2018-03-27 20:47:37. Estado Actual cartel prendido4 1
+2018-03-27 20:47:37. Validando estado cartel 5
+2018-03-27 20:47:38. Estado Actual cartel 5 0
+2018-03-27 20:49:51. Validando estado cartel prendido4
+2018-03-27 20:49:51. Estado Actual cartel prendido4 1
+2018-03-27 20:49:51. Validando estado cartel 5
+2018-03-27 20:49:51. Estado Actual cartel 5 0
+2018-03-27 21:09:11. Validando estado cartel prendido4
+2018-03-27 21:09:11. Estado Actual cartel prendido4 1
+2018-03-27 21:09:11. Validando estado cartel 5
+2018-03-27 21:09:11. Estado Actual cartel 5 0
+2018-03-27 21:10:11. Validando estado cartel prendido4
+2018-03-27 21:10:11. Estado Actual cartel prendido4 1
+2018-03-27 21:10:11. Validando estado cartel 5
+2018-03-27 21:10:11. Estado Actual cartel 5 0
+2018-03-27 21:11:30. Validando estado cartel prendido4
+2018-03-27 21:11:30. Estado Actual cartel prendido4 1
+2018-03-27 21:11:30. Validando estado cartel 5
+2018-03-27 21:11:30. Estado Actual cartel 5 0
+2018-03-27 21:20:01. Validando estado cartel prendido4
+2018-03-27 21:20:01. Estado Actual cartel prendido4 1
+2018-03-27 21:20:01. Validando estado cartel 5
+2018-03-27 21:20:01. Estado Actual cartel 5 0
+2018-03-27 21:30:15. Validando estado cartel prendido4
+2018-03-27 21:30:15. Estado Actual cartel prendido4 1
+2018-03-27 21:30:15. Validando estado cartel 5
+2018-03-27 21:30:15. Estado Actual cartel 5 0
+2018-03-27 21:30:57. Validando estado cartel prendido4
+2018-03-27 21:30:57. Estado Actual cartel prendido4 1
+2018-03-27 21:30:57. Validando estado cartel 5
+2018-03-27 21:30:57. Estado Actual cartel 5 0
+2018-03-27 21:33:16. Validando estado cartel prendido4
+2018-03-27 21:33:16. Estado Actual cartel prendido4 1
+2018-03-27 21:33:16. Validando estado cartel 5
+2018-03-27 21:33:16. Estado Actual cartel 5 0
+2018-03-27 21:33:51. Validando estado cartel prendido4
+2018-03-27 21:33:51. Estado Actual cartel prendido4 1
+2018-03-27 21:33:51. Validando estado cartel 5
+2018-03-27 21:33:51. Estado Actual cartel 5 0
+2018-03-27 21:35:04. Validando estado cartel prendido4
+2018-03-27 21:35:04. Estado Actual cartel prendido4 1
+2018-03-27 21:35:04. Validando estado cartel 5
+2018-03-27 21:35:05. Estado Actual cartel 5 0
+2018-03-27 21:38:02. Validando estado cartel prendido4
+2018-03-27 21:38:02. Estado Actual cartel prendido4 1
+2018-03-27 21:38:02. Validando estado cartel 5
+2018-03-27 21:38:02. Estado Actual cartel 5 0
+2018-03-27 21:42:15. Validando estado cartel prendido4
+2018-03-27 21:42:15. Estado Actual cartel prendido4 1
+2018-03-27 21:42:15. Validando estado cartel 5
+2018-03-27 21:42:15. Estado Actual cartel 5 0
+2018-03-27 21:45:19. Validando estado cartel prendido4
+2018-03-27 21:45:19. Estado Actual cartel prendido4 1
+2018-03-27 21:45:19. Validando estado cartel 5
+2018-03-27 21:45:20. Estado Actual cartel 5 0
+2018-03-27 21:51:59. Validando estado cartel prendido4
+2018-03-27 21:51:59. Estado Actual cartel prendido4 1
+2018-03-27 21:51:59. Validando estado cartel 5
+2018-03-27 21:51:59. Estado Actual cartel 5 0
+2018-03-27 21:53:28. Validando estado cartel prendido4
+2018-03-27 21:53:28. Estado Actual cartel prendido4 1
+2018-03-27 21:53:28. Validando estado cartel 5
+2018-03-27 21:53:28. Estado Actual cartel 5 0
+2018-03-27 22:02:27. Validando estado cartel prendido4
+2018-03-27 22:02:27. Estado Actual cartel prendido4 1
+2018-03-27 22:02:27. Validando estado cartel 5
+2018-03-27 22:02:27. Estado Actual cartel 5 0
+2018-03-27 22:08:04. Validando estado cartel prendido4
+2018-03-27 22:08:04. Estado Actual cartel prendido4 1
+2018-03-27 22:08:04. Validando estado cartel 5
+2018-03-27 22:08:05. Estado Actual cartel 5 0
+2018-03-27 22:11:27. Validando estado cartel prendido4
+2018-03-27 22:11:27. Estado Actual cartel prendido4 1
+2018-03-27 22:11:27. Validando estado cartel 5
+2018-03-27 22:11:27. Estado Actual cartel 5 0
+2018-03-27 22:12:13. Validando estado cartel prendido4
+2018-03-27 22:12:13. Estado Actual cartel prendido4 1
+2018-03-27 22:12:13. Validando estado cartel 5
+2018-03-27 22:12:13. Estado Actual cartel 5 0
+2018-03-27 22:14:49. Validando estado cartel prendido4
+2018-03-27 22:14:49. Estado Actual cartel prendido4 1
+2018-03-27 22:14:49. Validando estado cartel 5
+2018-03-27 22:14:49. Estado Actual cartel 5 0
+2018-03-27 22:21:27. Validando estado cartel prendido4
+2018-03-27 22:21:27. Estado Actual cartel prendido4 1
+2018-03-27 22:21:27. Validando estado cartel 5
+2018-03-27 22:21:27. Estado Actual cartel 5 0
+2018-03-27 22:29:01. Validando estado cartel prendido4
+2018-03-27 22:29:01. Estado Actual cartel prendido4 1
+2018-03-27 22:29:01. Validando estado cartel 5
+2018-03-27 22:29:01. Estado Actual cartel 5 0
+2018-03-27 22:30:23. Validando estado cartel prendido4
+2018-03-27 22:30:23. Estado Actual cartel prendido4 1
+2018-03-27 22:30:23. Validando estado cartel 5
+2018-03-27 22:30:23. Estado Actual cartel 5 0
+2018-03-27 22:31:02. Validando estado cartel prendido4
+2018-03-27 22:31:02. Estado Actual cartel prendido4 1
+2018-03-27 22:31:02. Validando estado cartel 5
+2018-03-27 22:31:02. Estado Actual cartel 5 0
+2018-03-27 22:31:44. Validando estado cartel prendido4
+2018-03-27 22:31:44. Estado Actual cartel prendido4 1
+2018-03-27 22:31:44. Validando estado cartel 5
+2018-03-27 22:31:44. Estado Actual cartel 5 0
+2018-03-27 22:36:22. Validando estado cartel prendido4
+2018-03-27 22:36:22. Estado Actual cartel prendido4 1
+2018-03-27 22:36:22. Validando estado cartel 5
+2018-03-27 22:36:22. Estado Actual cartel 5 0
+2018-03-27 22:42:59. Validando estado cartel prendido4
+2018-03-27 22:42:59. Estado Actual cartel prendido4 1
+2018-03-27 22:42:59. Validando estado cartel 5
+2018-03-27 22:42:59. Estado Actual cartel 5 0
+2018-03-27 22:45:22. Validando estado cartel prendido4
+2018-03-27 22:45:22. Estado Actual cartel prendido4 1
+2018-03-27 22:45:22. Validando estado cartel 5
+2018-03-27 22:45:22. Estado Actual cartel 5 0
+2018-03-27 22:48:52. Validando estado cartel prendido4
+2018-03-27 22:48:52. Estado Actual cartel prendido4 1
+2018-03-27 22:48:52. Validando estado cartel 5
+2018-03-27 22:48:52. Estado Actual cartel 5 0
+2018-03-27 22:49:55. Validando estado cartel prendido4
+2018-03-27 22:49:55. Estado Actual cartel prendido4 1
+2018-03-27 22:49:55. Validando estado cartel 5
+2018-03-27 22:49:55. Estado Actual cartel 5 0
+2018-03-27 22:53:13. Validando estado cartel prendido4
+2018-03-27 22:53:13. Estado Actual cartel prendido4 1
+2018-03-27 22:53:13. Validando estado cartel 5
+2018-03-27 22:53:13. Estado Actual cartel 5 0
+2018-03-27 22:54:26. Validando estado cartel prendido4
+2018-03-27 22:54:26. Estado Actual cartel prendido4 1
+2018-03-27 22:54:26. Validando estado cartel 5
+2018-03-27 22:54:27. Estado Actual cartel 5 0
+2018-03-27 22:55:06. Validando estado cartel prendido4
+2018-03-27 22:55:06. Estado Actual cartel prendido4 1
+2018-03-27 22:55:06. Validando estado cartel 5
+2018-03-27 22:55:06. Estado Actual cartel 5 0
+2018-03-27 22:55:35. Validando estado cartel prendido4
+2018-03-27 22:55:35. Estado Actual cartel prendido4 1
+2018-03-27 22:55:35. Validando estado cartel 5
+2018-03-27 22:55:35. Estado Actual cartel 5 0
+2018-03-27 22:56:26. Validando estado cartel prendido4
+2018-03-27 22:56:26. Estado Actual cartel prendido4 1
+2018-03-27 22:56:26. Validando estado cartel 5
+2018-03-27 22:56:26. Estado Actual cartel 5 0
+2018-03-27 22:57:05. Validando estado cartel prendido4
+2018-03-27 22:57:05. Estado Actual cartel prendido4 1
+2018-03-27 22:57:05. Validando estado cartel 5
+2018-03-27 22:57:05. Estado Actual cartel 5 0
+2018-03-27 22:57:49. Validando estado cartel prendido4
+2018-03-27 22:57:49. Estado Actual cartel prendido4 1
+2018-03-27 22:57:49. Validando estado cartel 5
+2018-03-27 22:57:49. Estado Actual cartel 5 0
+2018-03-27 22:58:20. Validando estado cartel prendido4
+2018-03-27 22:58:20. Estado Actual cartel prendido4 1
+2018-03-27 22:58:20. Validando estado cartel 5
+2018-03-27 22:58:21. Estado Actual cartel 5 0
+2018-03-27 23:00:24. Validando estado cartel prendido4
+2018-03-27 23:00:24. Estado Actual cartel prendido4 1
+2018-03-27 23:00:24. Validando estado cartel 5
+2018-03-27 23:00:24. Estado Actual cartel 5 0
+2018-03-27 23:03:34. Validando estado cartel prendido4
+2018-03-27 23:03:34. Estado Actual cartel prendido4 1
+2018-03-27 23:03:34. Validando estado cartel 5
+2018-03-27 23:03:34. Estado Actual cartel 5 0
+2018-03-27 23:05:58. Validando estado cartel prendido4
+2018-03-27 23:05:58. Estado Actual cartel prendido4 1
+2018-03-27 23:05:58. Validando estado cartel 5
+2018-03-27 23:05:58. Estado Actual cartel 5 0
+2018-03-27 23:14:40. Validando estado cartel prendido4
+2018-03-27 23:14:40. Estado Actual cartel prendido4 1
+2018-03-27 23:14:40. Validando estado cartel 5
+2018-03-27 23:14:40. Estado Actual cartel 5 0
+2018-03-27 23:15:17. Validando estado cartel prendido4
+2018-03-27 23:15:17. Estado Actual cartel prendido4 1
+2018-03-27 23:15:17. Validando estado cartel 5
+2018-03-27 23:15:17. Estado Actual cartel 5 0
+2018-03-27 23:16:50. Validando estado cartel prendido4
+2018-03-27 23:16:50. Estado Actual cartel prendido4 1
+2018-03-27 23:16:50. Validando estado cartel 5
+2018-03-27 23:16:50. Estado Actual cartel 5 0
+2018-03-27 23:17:36. Validando estado cartel prendido4
+2018-03-27 23:17:36. Estado Actual cartel prendido4 1
+2018-03-27 23:17:36. Validando estado cartel 5
+2018-03-27 23:17:36. Estado Actual cartel 5 0
+2018-03-27 23:20:04. Validando estado cartel prendido4
+2018-03-27 23:20:04. Estado Actual cartel prendido4 1
+2018-03-27 23:20:04. Validando estado cartel 5
+2018-03-27 23:20:04. Estado Actual cartel 5 0
+2018-03-27 23:22:41. Validando estado cartel prendido4
+2018-03-27 23:22:41. Estado Actual cartel prendido4 1
+2018-03-27 23:22:41. Validando estado cartel 5
+2018-03-27 23:22:41. Estado Actual cartel 5 0
+2018-03-27 23:49:43. Validando estado cartel prendido4
+2018-03-27 23:49:43. Estado Actual cartel prendido4 1
+2018-03-27 23:49:43. Validando estado cartel 5
+2018-03-27 23:49:43. Estado Actual cartel 5 0
+2018-03-27 23:51:36. Validando estado cartel prendido4
+2018-03-27 23:51:36. Estado Actual cartel prendido4 1
+2018-03-27 23:51:36. Validando estado cartel 5
+2018-03-27 23:51:36. Estado Actual cartel 5 0
+2018-03-27 23:52:27. Validando estado cartel prendido4
+2018-03-27 23:52:27. Estado Actual cartel prendido4 1
+2018-03-27 23:52:27. Validando estado cartel 5
+2018-03-27 23:52:27. Estado Actual cartel 5 0
+2018-03-27 23:53:06. Validando estado cartel prendido4
+2018-03-27 23:53:06. Estado Actual cartel prendido4 1
+2018-03-27 23:53:06. Validando estado cartel 5
+2018-03-27 23:53:06. Estado Actual cartel 5 0
+2018-03-27 23:54:01. Validando estado cartel prendido4
+2018-03-27 23:54:01. Estado Actual cartel prendido4 1
+2018-03-27 23:54:01. Validando estado cartel 5
+2018-03-27 23:54:01. Estado Actual cartel 5 0
+2018-03-27 23:58:13. Validando estado cartel prendido4
+2018-03-27 23:58:13. Estado Actual cartel prendido4 1
+2018-03-27 23:58:13. Validando estado cartel 5
+2018-03-27 23:58:13. Estado Actual cartel 5 0
+2018-03-27 23:59:25. Validando estado cartel prendido4
+2018-03-27 23:59:25. Estado Actual cartel prendido4 1
+2018-03-27 23:59:25. Validando estado cartel 5
+2018-03-27 23:59:25. Estado Actual cartel 5 0

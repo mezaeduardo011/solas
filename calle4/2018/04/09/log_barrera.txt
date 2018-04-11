@@ -1,0 +1,3753 @@
+2018-03-27 07:33:19. Validando estado barrera 5 0
+2018-03-27 07:33:19. Estado Actual Barrera 5 1
+2018-03-27 07:33:19. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 07:33:35. Validando estado barrera 4 0
+2018-03-27 07:33:35. Estado Actual Barrera 4 1
+2018-03-27 07:33:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 07:33:48. Validando estado barrera 5 1
+2018-03-27 07:33:48. Estado Actual Barrera 5 0
+2018-03-27 07:33:48. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 07:33:56. Validando estado barrera 4 1
+2018-03-27 07:33:56. Estado Actual Barrera 4 0
+2018-03-27 07:33:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 07:53:34. Validando estado barrera 5 0
+2018-03-27 07:53:34. Estado Actual Barrera 5 1
+2018-03-27 07:53:34. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 07:53:47. Validando estado barrera 4 0
+2018-03-27 07:53:47. Estado Actual Barrera 4 1
+2018-03-27 07:53:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 07:54:01. Validando estado barrera 5 1
+2018-03-27 07:54:01. Estado Actual Barrera 5 0
+2018-03-27 07:54:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 07:54:08. Validando estado barrera 4 1
+2018-03-27 07:54:08. Estado Actual Barrera 4 0
+2018-03-27 07:54:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 07:57:36. Validando estado barrera 5 0
+2018-03-27 07:57:36. Estado Actual Barrera 5 1
+2018-03-27 07:57:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 07:57:58. Validando estado barrera 4 0
+2018-03-27 07:57:58. Estado Actual Barrera 4 1
+2018-03-27 07:57:58. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 07:58:14. Validando estado barrera 5 1
+2018-03-27 07:58:14. Estado Actual Barrera 5 0
+2018-03-27 07:58:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 07:58:22. Validando estado barrera 4 1
+2018-03-27 07:58:22. Estado Actual Barrera 4 0
+2018-03-27 07:58:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:23:07. Validando estado barrera 5 0
+2018-03-27 08:23:07. Estado Actual Barrera 5 1
+2018-03-27 08:23:07. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:23:23. Validando estado barrera 4 0
+2018-03-27 08:23:23. Estado Actual Barrera 4 1
+2018-03-27 08:23:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:23:37. Validando estado barrera 5 1
+2018-03-27 08:23:37. Estado Actual Barrera 5 0
+2018-03-27 08:23:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:23:44. Validando estado barrera 4 1
+2018-03-27 08:23:44. Estado Actual Barrera 4 0
+2018-03-27 08:23:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:27:54. Validando estado barrera 5 0
+2018-03-27 08:27:54. Estado Actual Barrera 5 1
+2018-03-27 08:27:54. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:28:05. Validando estado barrera 4 0
+2018-03-27 08:28:06. Estado Actual Barrera 4 1
+2018-03-27 08:28:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:28:18. Validando estado barrera 5 1
+2018-03-27 08:28:18. Estado Actual Barrera 5 0
+2018-03-27 08:28:18. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:28:26. Validando estado barrera 4 1
+2018-03-27 08:28:26. Estado Actual Barrera 4 0
+2018-03-27 08:28:26. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:35:12. Validando estado barrera 5 0
+2018-03-27 08:35:12. Estado Actual Barrera 5 1
+2018-03-27 08:35:12. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:35:26. Validando estado barrera 4 0
+2018-03-27 08:35:26. Estado Actual Barrera 4 1
+2018-03-27 08:35:26. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:35:36. Validando estado barrera 5 1
+2018-03-27 08:35:36. Estado Actual Barrera 5 0
+2018-03-27 08:35:36. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:35:44. Validando estado barrera 4 1
+2018-03-27 08:35:44. Estado Actual Barrera 4 0
+2018-03-27 08:35:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:38:46. Validando estado barrera 5 0
+2018-03-27 08:38:46. Estado Actual Barrera 5 1
+2018-03-27 08:38:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:38:58. Validando estado barrera 4 0
+2018-03-27 08:38:58. Estado Actual Barrera 4 1
+2018-03-27 08:38:58. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:39:16. Validando estado barrera 5 1
+2018-03-27 08:39:16. Estado Actual Barrera 5 0
+2018-03-27 08:39:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:39:23. Validando estado barrera 4 1
+2018-03-27 08:39:23. Estado Actual Barrera 4 0
+2018-03-27 08:39:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:39:31. Validando estado barrera 5 0
+2018-03-27 08:39:31. Estado Actual Barrera 5 1
+2018-03-27 08:39:31. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:39:42. Validando estado barrera 4 0
+2018-03-27 08:39:42. Estado Actual Barrera 4 1
+2018-03-27 08:39:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:39:56. Validando estado barrera 5 1
+2018-03-27 08:39:56. Estado Actual Barrera 5 0
+2018-03-27 08:39:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:40:03. Validando estado barrera 4 1
+2018-03-27 08:40:03. Estado Actual Barrera 4 0
+2018-03-27 08:40:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:41:27. Validando estado barrera 5 0
+2018-03-27 08:41:27. Estado Actual Barrera 5 1
+2018-03-27 08:41:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:42:08. Validando estado barrera 4 0
+2018-03-27 08:42:08. Estado Actual Barrera 4 1
+2018-03-27 08:42:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:42:34. Validando estado barrera 5 1
+2018-03-27 08:42:34. Estado Actual Barrera 5 0
+2018-03-27 08:42:34. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:42:41. Validando estado barrera 4 1
+2018-03-27 08:42:41. Estado Actual Barrera 4 0
+2018-03-27 08:42:41. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:46:57. Validando estado barrera 5 0
+2018-03-27 08:46:58. Estado Actual Barrera 5 1
+2018-03-27 08:46:58. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:47:15. Validando estado barrera 4 0
+2018-03-27 08:47:15. Estado Actual Barrera 4 1
+2018-03-27 08:47:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:47:36. Validando estado barrera 5 1
+2018-03-27 08:47:41. Estado Actual Barrera 5 0
+2018-03-27 08:47:41. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:47:48. Validando estado barrera 4 1
+2018-03-27 08:47:48. Estado Actual Barrera 4 0
+2018-03-27 08:47:48. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:48:01. Validando estado barrera 5 0
+2018-03-27 08:48:01. Estado Actual Barrera 5 1
+2018-03-27 08:48:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:48:18. Validando estado barrera 4 0
+2018-03-27 08:48:18. Estado Actual Barrera 4 1
+2018-03-27 08:48:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:48:42. Validando estado barrera 5 1
+2018-03-27 08:48:42. Estado Actual Barrera 5 0
+2018-03-27 08:48:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:48:49. Validando estado barrera 4 1
+2018-03-27 08:48:49. Estado Actual Barrera 4 0
+2018-03-27 08:48:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:48:56. Validando estado barrera 5 0
+2018-03-27 08:48:56. Estado Actual Barrera 5 1
+2018-03-27 08:48:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:49:13. Validando estado barrera 4 0
+2018-03-27 08:49:13. Estado Actual Barrera 4 1
+2018-03-27 08:49:13. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:49:30. Validando estado barrera 5 1
+2018-03-27 08:49:30. Estado Actual Barrera 5 0
+2018-03-27 08:49:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:49:38. Validando estado barrera 4 1
+2018-03-27 08:49:38. Estado Actual Barrera 4 0
+2018-03-27 08:49:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 08:56:55. Validando estado barrera 5 0
+2018-03-27 08:56:56. Estado Actual Barrera 5 1
+2018-03-27 08:56:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 08:57:07. Validando estado barrera 4 0
+2018-03-27 08:57:07. Estado Actual Barrera 4 1
+2018-03-27 08:57:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 08:57:21. Validando estado barrera 5 1
+2018-03-27 08:57:21. Estado Actual Barrera 5 0
+2018-03-27 08:57:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 08:57:28. Validando estado barrera 4 1
+2018-03-27 08:57:28. Estado Actual Barrera 4 0
+2018-03-27 08:57:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:01:50. Validando estado barrera 5 0
+2018-03-27 09:01:50. Estado Actual Barrera 5 1
+2018-03-27 09:01:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:02:00. Validando estado barrera 4 0
+2018-03-27 09:02:00. Estado Actual Barrera 4 1
+2018-03-27 09:02:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:02:13. Validando estado barrera 5 1
+2018-03-27 09:02:13. Estado Actual Barrera 5 0
+2018-03-27 09:02:13. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:02:21. Validando estado barrera 4 1
+2018-03-27 09:02:21. Estado Actual Barrera 4 0
+2018-03-27 09:02:21. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:06:17. Validando estado barrera 5 0
+2018-03-27 09:06:18. Estado Actual Barrera 5 1
+2018-03-27 09:06:18. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:06:29. Validando estado barrera 4 0
+2018-03-27 09:06:29. Estado Actual Barrera 4 1
+2018-03-27 09:06:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:06:45. Validando estado barrera 5 1
+2018-03-27 09:06:45. Estado Actual Barrera 5 0
+2018-03-27 09:06:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:06:53. Validando estado barrera 4 1
+2018-03-27 09:06:53. Estado Actual Barrera 4 0
+2018-03-27 09:06:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:06:57. Validando estado barrera 5 0
+2018-03-27 09:06:57. Estado Actual Barrera 5 1
+2018-03-27 09:06:57. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:07:05. Validando estado barrera 4 0
+2018-03-27 09:07:05. Estado Actual Barrera 4 1
+2018-03-27 09:07:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:07:15. Validando estado barrera 5 1
+2018-03-27 09:07:16. Estado Actual Barrera 5 0
+2018-03-27 09:07:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:07:23. Validando estado barrera 4 1
+2018-03-27 09:07:23. Estado Actual Barrera 4 0
+2018-03-27 09:07:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:08:46. Validando estado barrera 5 0
+2018-03-27 09:08:47. Estado Actual Barrera 5 1
+2018-03-27 09:08:47. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:08:58. Validando estado barrera 4 0
+2018-03-27 09:08:58. Estado Actual Barrera 4 1
+2018-03-27 09:08:58. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:09:08. Validando estado barrera 5 1
+2018-03-27 09:09:08. Estado Actual Barrera 5 0
+2018-03-27 09:09:08. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:09:16. Validando estado barrera 4 1
+2018-03-27 09:09:16. Estado Actual Barrera 4 0
+2018-03-27 09:09:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:12:59. Validando estado barrera 5 0
+2018-03-27 09:13:00. Estado Actual Barrera 5 1
+2018-03-27 09:13:00. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:13:10. Validando estado barrera 4 0
+2018-03-27 09:13:10. Estado Actual Barrera 4 1
+2018-03-27 09:13:10. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:13:21. Validando estado barrera 5 1
+2018-03-27 09:13:21. Estado Actual Barrera 5 0
+2018-03-27 09:13:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:13:28. Validando estado barrera 4 1
+2018-03-27 09:13:28. Estado Actual Barrera 4 0
+2018-03-27 09:13:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:17:25. Validando estado barrera 5 0
+2018-03-27 09:17:25. Estado Actual Barrera 5 1
+2018-03-27 09:17:25. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:17:37. Validando estado barrera 4 0
+2018-03-27 09:17:38. Estado Actual Barrera 4 1
+2018-03-27 09:17:38. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:17:48. Validando estado barrera 5 1
+2018-03-27 09:17:48. Estado Actual Barrera 5 0
+2018-03-27 09:17:48. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:17:56. Validando estado barrera 4 1
+2018-03-27 09:17:56. Estado Actual Barrera 4 0
+2018-03-27 09:17:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:18:00. Validando estado barrera 5 0
+2018-03-27 09:18:00. Estado Actual Barrera 5 1
+2018-03-27 09:18:00. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:18:12. Validando estado barrera 4 0
+2018-03-27 09:18:12. Estado Actual Barrera 4 1
+2018-03-27 09:18:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:18:26. Validando estado barrera 5 1
+2018-03-27 09:18:26. Estado Actual Barrera 5 0
+2018-03-27 09:18:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:18:34. Validando estado barrera 4 1
+2018-03-27 09:18:34. Estado Actual Barrera 4 0
+2018-03-27 09:18:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:22:02. Validando estado barrera 5 0
+2018-03-27 09:22:02. Estado Actual Barrera 5 1
+2018-03-27 09:22:02. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:22:14. Validando estado barrera 4 0
+2018-03-27 09:22:14. Estado Actual Barrera 4 1
+2018-03-27 09:22:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:22:28. Validando estado barrera 5 1
+2018-03-27 09:22:28. Estado Actual Barrera 5 0
+2018-03-27 09:22:28. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:22:36. Validando estado barrera 4 1
+2018-03-27 09:22:36. Estado Actual Barrera 4 0
+2018-03-27 09:22:36. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:31:00. Validando estado barrera 5 0
+2018-03-27 09:31:00. Estado Actual Barrera 5 1
+2018-03-27 09:31:00. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:31:18. Validando estado barrera 4 0
+2018-03-27 09:31:18. Estado Actual Barrera 4 1
+2018-03-27 09:31:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:31:35. Validando estado barrera 5 1
+2018-03-27 09:31:35. Estado Actual Barrera 5 0
+2018-03-27 09:31:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:31:43. Validando estado barrera 4 1
+2018-03-27 09:31:43. Estado Actual Barrera 4 0
+2018-03-27 09:31:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:31:53. Validando estado barrera 5 0
+2018-03-27 09:31:53. Estado Actual Barrera 5 1
+2018-03-27 09:31:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:32:07. Validando estado barrera 4 0
+2018-03-27 09:32:07. Estado Actual Barrera 4 1
+2018-03-27 09:32:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:32:27. Validando estado barrera 5 1
+2018-03-27 09:32:27. Estado Actual Barrera 5 0
+2018-03-27 09:32:27. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:32:34. Validando estado barrera 4 1
+2018-03-27 09:32:34. Estado Actual Barrera 4 0
+2018-03-27 09:32:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:34:42. Validando estado barrera 5 0
+2018-03-27 09:34:43. Estado Actual Barrera 5 1
+2018-03-27 09:34:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:34:55. Validando estado barrera 4 0
+2018-03-27 09:34:55. Estado Actual Barrera 4 1
+2018-03-27 09:34:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:35:06. Validando estado barrera 5 1
+2018-03-27 09:35:06. Estado Actual Barrera 5 0
+2018-03-27 09:35:06. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:35:13. Validando estado barrera 4 1
+2018-03-27 09:35:13. Estado Actual Barrera 4 0
+2018-03-27 09:35:13. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:38:09. Validando estado barrera 5 0
+2018-03-27 09:38:09. Estado Actual Barrera 5 1
+2018-03-27 09:38:09. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 09:38:35. Validando estado barrera 4 0
+2018-03-27 09:38:35. Estado Actual Barrera 4 1
+2018-03-27 09:38:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 09:38:55. Validando estado barrera 5 1
+2018-03-27 09:38:55. Estado Actual Barrera 5 0
+2018-03-27 09:38:55. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 09:39:03. Validando estado barrera 4 1
+2018-03-27 09:56:08. Estado Actual Barrera 4 0
+2018-03-27 09:56:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 09:59:39. Validando estado barrera 5 0
+2018-03-27 09:59:45. Estado Actual Barrera 5 1
+2018-03-27 09:59:45. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:00:01. Validando estado barrera 4 0
+2018-03-27 10:00:02. Estado Actual Barrera 4 1
+2018-03-27 10:00:02. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:00:15. Validando estado barrera 5 1
+2018-03-27 10:00:15. Estado Actual Barrera 5 0
+2018-03-27 10:00:15. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:00:23. Validando estado barrera 4 1
+2018-03-27 10:00:23. Estado Actual Barrera 4 0
+2018-03-27 10:00:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:06:21. Validando estado barrera 5 0
+2018-03-27 10:06:21. Estado Actual Barrera 5 1
+2018-03-27 10:06:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:06:40. Validando estado barrera 4 0
+2018-03-27 10:06:40. Estado Actual Barrera 4 1
+2018-03-27 10:06:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:06:57. Validando estado barrera 5 1
+2018-03-27 10:06:57. Estado Actual Barrera 5 0
+2018-03-27 10:06:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:07:05. Validando estado barrera 4 1
+2018-03-27 10:07:05. Estado Actual Barrera 4 0
+2018-03-27 10:07:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:28:50. Validando estado barrera 5 0
+2018-03-27 10:28:50. Estado Actual Barrera 5 1
+2018-03-27 10:28:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:29:06. Validando estado barrera 4 0
+2018-03-27 10:29:06. Estado Actual Barrera 4 1
+2018-03-27 10:29:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:29:19. Validando estado barrera 5 1
+2018-03-27 10:29:19. Estado Actual Barrera 5 0
+2018-03-27 10:29:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:29:27. Validando estado barrera 4 1
+2018-03-27 10:29:27. Estado Actual Barrera 4 0
+2018-03-27 10:29:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:30:46. Validando estado barrera 5 0
+2018-03-27 10:30:46. Estado Actual Barrera 5 1
+2018-03-27 10:30:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:31:04. Validando estado barrera 4 0
+2018-03-27 10:31:04. Estado Actual Barrera 4 1
+2018-03-27 10:31:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:31:21. Validando estado barrera 5 1
+2018-03-27 10:31:21. Estado Actual Barrera 5 0
+2018-03-27 10:31:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:31:28. Validando estado barrera 4 1
+2018-03-27 10:31:28. Estado Actual Barrera 4 0
+2018-03-27 10:31:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:31:38. Validando estado barrera 5 0
+2018-03-27 10:31:38. Estado Actual Barrera 5 1
+2018-03-27 10:31:38. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:31:51. Validando estado barrera 4 0
+2018-03-27 10:31:52. Estado Actual Barrera 4 1
+2018-03-27 10:31:52. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:32:05. Validando estado barrera 5 1
+2018-03-27 10:32:05. Estado Actual Barrera 5 0
+2018-03-27 10:32:05. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:32:12. Validando estado barrera 4 1
+2018-03-27 10:32:12. Estado Actual Barrera 4 0
+2018-03-27 10:32:12. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:32:22. Validando estado barrera 5 0
+2018-03-27 10:32:22. Estado Actual Barrera 5 1
+2018-03-27 10:32:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:32:31. Validando estado barrera 4 0
+2018-03-27 10:32:31. Estado Actual Barrera 4 1
+2018-03-27 10:32:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:32:44. Validando estado barrera 5 1
+2018-03-27 10:32:44. Estado Actual Barrera 5 0
+2018-03-27 10:32:44. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:32:51. Validando estado barrera 4 1
+2018-03-27 10:32:51. Estado Actual Barrera 4 0
+2018-03-27 10:32:51. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:32:58. Validando estado barrera 5 0
+2018-03-27 10:32:58. Estado Actual Barrera 5 1
+2018-03-27 10:32:58. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:33:17. Validando estado barrera 4 0
+2018-03-27 10:33:17. Estado Actual Barrera 4 1
+2018-03-27 10:33:17. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:33:31. Validando estado barrera 5 1
+2018-03-27 10:33:31. Estado Actual Barrera 5 0
+2018-03-27 10:33:31. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:33:38. Validando estado barrera 4 1
+2018-03-27 10:33:38. Estado Actual Barrera 4 0
+2018-03-27 10:33:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:34:26. Validando estado barrera 5 0
+2018-03-27 10:34:26. Estado Actual Barrera 5 1
+2018-03-27 10:34:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:34:40. Validando estado barrera 4 0
+2018-03-27 10:34:40. Estado Actual Barrera 4 1
+2018-03-27 10:34:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:36:04. Validando estado barrera 5 1
+2018-03-27 10:36:04. Estado Actual Barrera 5 0
+2018-03-27 10:36:04. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:36:11. Validando estado barrera 4 1
+2018-03-27 10:36:11. Estado Actual Barrera 4 0
+2018-03-27 10:36:11. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:36:14. Validando estado barrera 5 0
+2018-03-27 10:36:14. Estado Actual Barrera 5 1
+2018-03-27 10:36:14. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:36:26. Validando estado barrera 4 0
+2018-03-27 10:36:26. Estado Actual Barrera 4 1
+2018-03-27 10:36:26. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:36:43. Validando estado barrera 5 1
+2018-03-27 10:36:43. Estado Actual Barrera 5 0
+2018-03-27 10:36:43. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:36:50. Validando estado barrera 4 1
+2018-03-27 10:36:50. Estado Actual Barrera 4 0
+2018-03-27 10:36:50. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:39:01. Validando estado barrera 5 0
+2018-03-27 10:39:01. Estado Actual Barrera 5 1
+2018-03-27 10:39:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:39:12. Validando estado barrera 4 0
+2018-03-27 10:39:12. Estado Actual Barrera 4 1
+2018-03-27 10:39:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:39:25. Validando estado barrera 5 1
+2018-03-27 10:39:25. Estado Actual Barrera 5 0
+2018-03-27 10:39:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:39:32. Validando estado barrera 4 1
+2018-03-27 10:39:32. Estado Actual Barrera 4 0
+2018-03-27 10:39:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:41:15. Validando estado barrera 5 0
+2018-03-27 10:41:15. Estado Actual Barrera 5 1
+2018-03-27 10:41:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:41:25. Validando estado barrera 4 0
+2018-03-27 10:41:25. Estado Actual Barrera 4 1
+2018-03-27 10:41:25. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:41:35. Validando estado barrera 5 1
+2018-03-27 10:41:35. Estado Actual Barrera 5 0
+2018-03-27 10:41:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:41:42. Validando estado barrera 4 1
+2018-03-27 10:41:42. Estado Actual Barrera 4 0
+2018-03-27 10:41:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:45:13. Validando estado barrera 5 0
+2018-03-27 10:45:13. Estado Actual Barrera 5 1
+2018-03-27 10:45:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:45:22. Validando estado barrera 4 0
+2018-03-27 10:45:22. Estado Actual Barrera 4 1
+2018-03-27 10:45:22. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:45:37. Validando estado barrera 5 1
+2018-03-27 10:45:37. Estado Actual Barrera 5 0
+2018-03-27 10:45:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:45:44. Validando estado barrera 4 1
+2018-03-27 10:45:44. Estado Actual Barrera 4 0
+2018-03-27 10:45:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 10:53:30. Validando estado barrera 5 0
+2018-03-27 10:53:30. Estado Actual Barrera 5 1
+2018-03-27 10:53:30. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 10:53:42. Validando estado barrera 4 0
+2018-03-27 10:53:42. Estado Actual Barrera 4 1
+2018-03-27 10:53:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 10:54:00. Validando estado barrera 5 1
+2018-03-27 10:54:00. Estado Actual Barrera 5 0
+2018-03-27 10:54:00. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 10:54:07. Validando estado barrera 4 1
+2018-03-27 10:54:07. Estado Actual Barrera 4 0
+2018-03-27 10:54:07. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:03:03. Validando estado barrera 5 0
+2018-03-27 11:03:03. Estado Actual Barrera 5 1
+2018-03-27 11:03:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:03:16. Validando estado barrera 4 0
+2018-03-27 11:03:16. Estado Actual Barrera 4 1
+2018-03-27 11:03:16. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:03:30. Validando estado barrera 5 1
+2018-03-27 11:03:30. Estado Actual Barrera 5 0
+2018-03-27 11:03:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:03:37. Validando estado barrera 4 1
+2018-03-27 11:03:37. Estado Actual Barrera 4 0
+2018-03-27 11:03:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:08:21. Validando estado barrera 5 0
+2018-03-27 11:08:21. Estado Actual Barrera 5 1
+2018-03-27 11:08:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:08:41. Validando estado barrera 4 0
+2018-03-27 11:08:41. Estado Actual Barrera 4 1
+2018-03-27 11:08:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:12:42. Validando estado barrera 5 1
+2018-03-27 11:12:42. Estado Actual Barrera 5 0
+2018-03-27 11:12:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:12:49. Validando estado barrera 4 1
+2018-03-27 11:12:49. Estado Actual Barrera 4 0
+2018-03-27 11:12:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:26:00. Validando estado barrera 5 0
+2018-03-27 11:26:01. Estado Actual Barrera 5 1
+2018-03-27 11:26:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:26:14. Validando estado barrera 4 0
+2018-03-27 11:26:14. Estado Actual Barrera 4 1
+2018-03-27 11:26:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:26:25. Validando estado barrera 5 1
+2018-03-27 11:26:25. Estado Actual Barrera 5 0
+2018-03-27 11:26:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:26:33. Validando estado barrera 4 1
+2018-03-27 11:26:33. Estado Actual Barrera 4 0
+2018-03-27 11:26:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:28:18. Validando estado barrera 5 0
+2018-03-27 11:28:18. Estado Actual Barrera 5 1
+2018-03-27 11:28:18. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:28:29. Validando estado barrera 4 0
+2018-03-27 11:28:29. Estado Actual Barrera 4 1
+2018-03-27 11:28:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:28:43. Validando estado barrera 5 1
+2018-03-27 11:28:43. Estado Actual Barrera 5 0
+2018-03-27 11:28:43. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:28:50. Validando estado barrera 4 1
+2018-03-27 11:28:50. Estado Actual Barrera 4 0
+2018-03-27 11:28:50. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:30:51. Validando estado barrera 5 0
+2018-03-27 11:30:51. Estado Actual Barrera 5 1
+2018-03-27 11:30:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:31:12. Validando estado barrera 4 0
+2018-03-27 11:31:12. Estado Actual Barrera 4 1
+2018-03-27 11:31:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:31:29. Validando estado barrera 5 1
+2018-03-27 11:31:29. Estado Actual Barrera 5 0
+2018-03-27 11:31:29. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:31:36. Validando estado barrera 4 1
+2018-03-27 11:31:37. Estado Actual Barrera 4 0
+2018-03-27 11:31:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:33:00. Validando estado barrera 5 0
+2018-03-27 11:33:00. Estado Actual Barrera 5 1
+2018-03-27 11:33:00. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:33:15. Validando estado barrera 4 0
+2018-03-27 11:33:15. Estado Actual Barrera 4 1
+2018-03-27 11:33:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:33:29. Validando estado barrera 5 1
+2018-03-27 11:33:29. Estado Actual Barrera 5 0
+2018-03-27 11:33:29. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:33:36. Validando estado barrera 4 1
+2018-03-27 11:33:36. Estado Actual Barrera 4 0
+2018-03-27 11:33:36. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:34:14. Validando estado barrera 5 0
+2018-03-27 11:34:14. Estado Actual Barrera 5 1
+2018-03-27 11:34:14. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:34:28. Validando estado barrera 4 0
+2018-03-27 11:34:28. Estado Actual Barrera 4 1
+2018-03-27 11:34:28. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:34:45. Validando estado barrera 5 1
+2018-03-27 11:34:45. Estado Actual Barrera 5 0
+2018-03-27 11:34:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:34:52. Validando estado barrera 4 1
+2018-03-27 11:34:52. Estado Actual Barrera 4 0
+2018-03-27 11:34:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:39:07. Validando estado barrera 5 0
+2018-03-27 11:39:07. Estado Actual Barrera 5 1
+2018-03-27 11:39:07. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:39:20. Validando estado barrera 4 0
+2018-03-27 11:39:20. Estado Actual Barrera 4 1
+2018-03-27 11:39:20. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:39:36. Validando estado barrera 5 1
+2018-03-27 11:39:37. Estado Actual Barrera 5 0
+2018-03-27 11:39:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:39:44. Validando estado barrera 4 1
+2018-03-27 11:39:44. Estado Actual Barrera 4 0
+2018-03-27 11:39:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:45:16. Validando estado barrera 5 0
+2018-03-27 11:45:16. Estado Actual Barrera 5 1
+2018-03-27 11:45:16. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:45:37. Validando estado barrera 4 0
+2018-03-27 11:45:37. Estado Actual Barrera 4 1
+2018-03-27 11:45:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:45:54. Validando estado barrera 5 1
+2018-03-27 11:45:54. Estado Actual Barrera 5 0
+2018-03-27 11:45:54. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:46:01. Validando estado barrera 4 1
+2018-03-27 11:46:01. Estado Actual Barrera 4 0
+2018-03-27 11:46:01. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 11:57:05. Validando estado barrera 5 0
+2018-03-27 11:57:05. Estado Actual Barrera 5 1
+2018-03-27 11:57:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 11:57:18. Validando estado barrera 4 0
+2018-03-27 11:57:18. Estado Actual Barrera 4 1
+2018-03-27 11:57:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 11:57:49. Validando estado barrera 5 1
+2018-03-27 11:57:49. Estado Actual Barrera 5 0
+2018-03-27 11:57:49. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 11:57:56. Validando estado barrera 4 1
+2018-03-27 11:57:56. Estado Actual Barrera 4 0
+2018-03-27 11:57:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:17:43. Validando estado barrera 5 0
+2018-03-27 12:17:43. Estado Actual Barrera 5 1
+2018-03-27 12:17:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:17:55. Validando estado barrera 4 0
+2018-03-27 12:17:55. Estado Actual Barrera 4 1
+2018-03-27 12:17:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:18:10. Validando estado barrera 5 1
+2018-03-27 12:18:10. Estado Actual Barrera 5 0
+2018-03-27 12:18:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:18:17. Validando estado barrera 4 1
+2018-03-27 12:18:17. Estado Actual Barrera 4 0
+2018-03-27 12:18:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:18:55. Validando estado barrera 5 0
+2018-03-27 12:18:55. Estado Actual Barrera 5 1
+2018-03-27 12:18:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:19:07. Validando estado barrera 4 0
+2018-03-27 12:19:07. Estado Actual Barrera 4 1
+2018-03-27 12:19:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:19:18. Validando estado barrera 5 1
+2018-03-27 12:19:18. Estado Actual Barrera 5 0
+2018-03-27 12:19:18. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:19:25. Validando estado barrera 4 1
+2018-03-27 12:19:25. Estado Actual Barrera 4 0
+2018-03-27 12:19:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:20:07. Validando estado barrera 5 0
+2018-03-27 12:20:07. Estado Actual Barrera 5 1
+2018-03-27 12:20:07. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:20:19. Validando estado barrera 4 0
+2018-03-27 12:20:19. Estado Actual Barrera 4 1
+2018-03-27 12:20:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:20:33. Validando estado barrera 5 1
+2018-03-27 12:20:33. Estado Actual Barrera 5 0
+2018-03-27 12:20:33. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:20:40. Validando estado barrera 4 1
+2018-03-27 12:20:40. Estado Actual Barrera 4 0
+2018-03-27 12:20:40. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:21:50. Validando estado barrera 5 0
+2018-03-27 12:21:50. Estado Actual Barrera 5 1
+2018-03-27 12:21:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:22:08. Validando estado barrera 4 0
+2018-03-27 12:22:08. Estado Actual Barrera 4 1
+2018-03-27 12:22:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:22:25. Validando estado barrera 5 1
+2018-03-27 12:22:25. Estado Actual Barrera 5 0
+2018-03-27 12:22:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:22:32. Validando estado barrera 4 1
+2018-03-27 12:22:32. Estado Actual Barrera 4 0
+2018-03-27 12:22:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:26:02. Validando estado barrera 5 0
+2018-03-27 12:26:03. Estado Actual Barrera 5 1
+2018-03-27 12:26:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:26:14. Validando estado barrera 4 0
+2018-03-27 12:26:14. Estado Actual Barrera 4 1
+2018-03-27 12:26:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:26:30. Validando estado barrera 5 1
+2018-03-27 12:26:30. Estado Actual Barrera 5 0
+2018-03-27 12:26:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:26:37. Validando estado barrera 4 1
+2018-03-27 12:26:37. Estado Actual Barrera 4 0
+2018-03-27 12:26:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:27:28. Validando estado barrera 5 0
+2018-03-27 12:27:28. Estado Actual Barrera 5 1
+2018-03-27 12:27:28. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:27:41. Validando estado barrera 4 0
+2018-03-27 12:27:41. Estado Actual Barrera 4 1
+2018-03-27 12:27:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:27:56. Validando estado barrera 5 1
+2018-03-27 12:27:56. Estado Actual Barrera 5 0
+2018-03-27 12:27:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:28:03. Validando estado barrera 4 1
+2018-03-27 12:28:03. Estado Actual Barrera 4 0
+2018-03-27 12:28:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:30:10. Validando estado barrera 5 0
+2018-03-27 12:30:11. Estado Actual Barrera 5 1
+2018-03-27 12:30:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:30:23. Validando estado barrera 4 0
+2018-03-27 12:30:23. Estado Actual Barrera 4 1
+2018-03-27 12:30:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:30:37. Validando estado barrera 5 1
+2018-03-27 12:30:37. Estado Actual Barrera 5 0
+2018-03-27 12:30:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:30:44. Validando estado barrera 4 1
+2018-03-27 12:30:44. Estado Actual Barrera 4 0
+2018-03-27 12:30:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:40:15. Validando estado barrera 5 0
+2018-03-27 12:40:15. Estado Actual Barrera 5 1
+2018-03-27 12:40:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:40:29. Validando estado barrera 4 0
+2018-03-27 12:40:29. Estado Actual Barrera 4 1
+2018-03-27 12:40:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:40:46. Validando estado barrera 5 1
+2018-03-27 12:40:46. Estado Actual Barrera 5 0
+2018-03-27 12:40:46. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:40:53. Validando estado barrera 4 1
+2018-03-27 12:40:53. Estado Actual Barrera 4 0
+2018-03-27 12:40:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:42:51. Validando estado barrera 5 0
+2018-03-27 12:42:51. Estado Actual Barrera 5 1
+2018-03-27 12:42:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:43:12. Validando estado barrera 4 0
+2018-03-27 12:43:12. Estado Actual Barrera 4 1
+2018-03-27 12:43:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:43:29. Validando estado barrera 5 1
+2018-03-27 12:43:29. Estado Actual Barrera 5 0
+2018-03-27 12:43:29. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:43:36. Validando estado barrera 4 1
+2018-03-27 12:43:36. Estado Actual Barrera 4 0
+2018-03-27 12:43:36. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:43:43. Validando estado barrera 5 0
+2018-03-27 12:43:43. Estado Actual Barrera 5 1
+2018-03-27 12:43:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:43:52. Validando estado barrera 4 0
+2018-03-27 12:43:52. Estado Actual Barrera 4 1
+2018-03-27 12:43:52. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:44:09. Validando estado barrera 5 1
+2018-03-27 12:44:09. Estado Actual Barrera 5 0
+2018-03-27 12:44:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:44:16. Validando estado barrera 4 1
+2018-03-27 12:44:16. Estado Actual Barrera 4 0
+2018-03-27 12:44:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:44:19. Validando estado barrera 5 0
+2018-03-27 12:44:20. Estado Actual Barrera 5 1
+2018-03-27 12:44:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:44:31. Validando estado barrera 4 0
+2018-03-27 12:44:31. Estado Actual Barrera 4 1
+2018-03-27 12:44:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:45:08. Validando estado barrera 5 1
+2018-03-27 12:45:08. Estado Actual Barrera 5 0
+2018-03-27 12:45:08. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:45:15. Validando estado barrera 4 1
+2018-03-27 12:45:15. Estado Actual Barrera 4 0
+2018-03-27 12:45:15. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:45:53. Validando estado barrera 5 0
+2018-03-27 12:45:53. Estado Actual Barrera 5 1
+2018-03-27 12:45:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:46:04. Validando estado barrera 4 0
+2018-03-27 12:46:04. Estado Actual Barrera 4 1
+2018-03-27 12:46:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:46:28. Validando estado barrera 5 1
+2018-03-27 12:46:28. Estado Actual Barrera 5 0
+2018-03-27 12:46:28. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:46:36. Validando estado barrera 4 1
+2018-03-27 12:46:36. Estado Actual Barrera 4 0
+2018-03-27 12:46:36. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:47:11. Validando estado barrera 5 0
+2018-03-27 12:47:11. Estado Actual Barrera 5 1
+2018-03-27 12:47:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:47:30. Validando estado barrera 4 0
+2018-03-27 12:47:30. Estado Actual Barrera 4 1
+2018-03-27 12:47:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:47:51. Validando estado barrera 5 1
+2018-03-27 12:47:51. Estado Actual Barrera 5 0
+2018-03-27 12:47:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:47:58. Validando estado barrera 4 1
+2018-03-27 12:47:58. Estado Actual Barrera 4 0
+2018-03-27 12:47:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:49:40. Validando estado barrera 5 0
+2018-03-27 12:49:40. Estado Actual Barrera 5 1
+2018-03-27 12:49:40. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:49:52. Validando estado barrera 4 0
+2018-03-27 12:49:52. Estado Actual Barrera 4 1
+2018-03-27 12:49:52. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:50:03. Validando estado barrera 5 1
+2018-03-27 12:50:03. Estado Actual Barrera 5 0
+2018-03-27 12:50:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:50:10. Validando estado barrera 4 1
+2018-03-27 12:50:10. Estado Actual Barrera 4 0
+2018-03-27 12:50:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:50:33. Validando estado barrera 5 0
+2018-03-27 12:50:33. Estado Actual Barrera 5 1
+2018-03-27 12:50:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:50:47. Validando estado barrera 4 0
+2018-03-27 12:50:47. Estado Actual Barrera 4 1
+2018-03-27 12:50:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:51:04. Validando estado barrera 5 1
+2018-03-27 12:51:04. Estado Actual Barrera 5 0
+2018-03-27 12:51:04. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:51:11. Validando estado barrera 4 1
+2018-03-27 12:51:11. Estado Actual Barrera 4 0
+2018-03-27 12:51:11. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:53:44. Validando estado barrera 5 0
+2018-03-27 12:53:44. Estado Actual Barrera 5 1
+2018-03-27 12:53:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:53:56. Validando estado barrera 4 0
+2018-03-27 12:53:56. Estado Actual Barrera 4 1
+2018-03-27 12:53:56. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:54:10. Validando estado barrera 5 1
+2018-03-27 12:54:10. Estado Actual Barrera 5 0
+2018-03-27 12:54:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:54:17. Validando estado barrera 4 1
+2018-03-27 12:54:17. Estado Actual Barrera 4 0
+2018-03-27 12:54:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:57:09. Validando estado barrera 5 0
+2018-03-27 12:57:09. Estado Actual Barrera 5 1
+2018-03-27 12:57:09. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:57:21. Validando estado barrera 4 0
+2018-03-27 12:57:21. Estado Actual Barrera 4 1
+2018-03-27 12:57:21. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:57:35. Validando estado barrera 5 1
+2018-03-27 12:57:35. Estado Actual Barrera 5 0
+2018-03-27 12:57:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:57:43. Validando estado barrera 4 1
+2018-03-27 12:57:43. Estado Actual Barrera 4 0
+2018-03-27 12:57:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 12:58:43. Validando estado barrera 5 0
+2018-03-27 12:58:44. Estado Actual Barrera 5 1
+2018-03-27 12:58:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 12:58:54. Validando estado barrera 4 0
+2018-03-27 12:58:55. Estado Actual Barrera 4 1
+2018-03-27 12:58:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 12:59:08. Validando estado barrera 5 1
+2018-03-27 12:59:08. Estado Actual Barrera 5 0
+2018-03-27 12:59:08. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 12:59:15. Validando estado barrera 4 1
+2018-03-27 12:59:15. Estado Actual Barrera 4 0
+2018-03-27 12:59:15. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:01:51. Validando estado barrera 5 0
+2018-03-27 13:01:51. Estado Actual Barrera 5 1
+2018-03-27 13:01:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:02:04. Validando estado barrera 4 0
+2018-03-27 13:02:04. Estado Actual Barrera 4 1
+2018-03-27 13:02:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:02:20. Validando estado barrera 5 1
+2018-03-27 13:02:21. Estado Actual Barrera 5 0
+2018-03-27 13:02:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:02:28. Validando estado barrera 4 1
+2018-03-27 13:02:28. Estado Actual Barrera 4 0
+2018-03-27 13:02:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:02:37. Validando estado barrera 5 0
+2018-03-27 13:02:37. Estado Actual Barrera 5 1
+2018-03-27 13:02:37. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:02:54. Validando estado barrera 4 0
+2018-03-27 13:02:54. Estado Actual Barrera 4 1
+2018-03-27 13:02:54. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:03:27. Validando estado barrera 5 1
+2018-03-27 13:03:27. Estado Actual Barrera 5 0
+2018-03-27 13:03:27. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:03:34. Validando estado barrera 4 1
+2018-03-27 13:03:34. Estado Actual Barrera 4 0
+2018-03-27 13:03:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:03:37. Validando estado barrera 5 0
+2018-03-27 13:03:38. Estado Actual Barrera 5 1
+2018-03-27 13:03:38. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:03:53. Validando estado barrera 4 0
+2018-03-27 13:03:53. Estado Actual Barrera 4 1
+2018-03-27 13:03:53. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:04:13. Validando estado barrera 5 1
+2018-03-27 13:04:13. Estado Actual Barrera 5 0
+2018-03-27 13:04:13. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:04:20. Validando estado barrera 4 1
+2018-03-27 13:04:20. Estado Actual Barrera 4 0
+2018-03-27 13:04:20. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:04:33. Validando estado barrera 5 0
+2018-03-27 13:04:33. Estado Actual Barrera 5 1
+2018-03-27 13:04:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:04:46. Validando estado barrera 4 0
+2018-03-27 13:04:46. Estado Actual Barrera 4 1
+2018-03-27 13:04:46. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:04:57. Validando estado barrera 5 1
+2018-03-27 13:04:57. Estado Actual Barrera 5 0
+2018-03-27 13:04:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:05:05. Validando estado barrera 4 1
+2018-03-27 13:05:05. Estado Actual Barrera 4 0
+2018-03-27 13:05:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:05:11. Validando estado barrera 5 0
+2018-03-27 13:05:11. Estado Actual Barrera 5 1
+2018-03-27 13:05:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:05:23. Validando estado barrera 4 0
+2018-03-27 13:05:23. Estado Actual Barrera 4 1
+2018-03-27 13:05:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:05:39. Validando estado barrera 5 1
+2018-03-27 13:05:39. Estado Actual Barrera 5 0
+2018-03-27 13:05:39. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:05:46. Validando estado barrera 4 1
+2018-03-27 13:05:46. Estado Actual Barrera 4 0
+2018-03-27 13:05:46. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:05:53. Validando estado barrera 5 0
+2018-03-27 13:05:53. Estado Actual Barrera 5 1
+2018-03-27 13:05:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:06:06. Validando estado barrera 4 0
+2018-03-27 13:06:06. Estado Actual Barrera 4 1
+2018-03-27 13:06:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:06:29. Validando estado barrera 5 1
+2018-03-27 13:06:29. Estado Actual Barrera 5 0
+2018-03-27 13:06:29. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:06:36. Validando estado barrera 4 1
+2018-03-27 13:06:37. Estado Actual Barrera 4 0
+2018-03-27 13:06:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:06:43. Validando estado barrera 5 0
+2018-03-27 13:06:43. Estado Actual Barrera 5 1
+2018-03-27 13:06:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:06:55. Validando estado barrera 4 0
+2018-03-27 13:06:55. Estado Actual Barrera 4 1
+2018-03-27 13:06:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:07:41. Validando estado barrera 5 1
+2018-03-27 13:07:41. Estado Actual Barrera 5 0
+2018-03-27 13:07:41. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:07:48. Validando estado barrera 4 1
+2018-03-27 13:07:49. Estado Actual Barrera 4 0
+2018-03-27 13:07:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:07:52. Validando estado barrera 5 0
+2018-03-27 13:07:52. Estado Actual Barrera 5 1
+2018-03-27 13:07:52. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:07:59. Validando estado barrera 4 0
+2018-03-27 13:07:59. Estado Actual Barrera 4 1
+2018-03-27 13:07:59. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:08:10. Validando estado barrera 5 1
+2018-03-27 13:08:10. Estado Actual Barrera 5 0
+2018-03-27 13:08:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:08:17. Validando estado barrera 4 1
+2018-03-27 13:08:17. Estado Actual Barrera 4 0
+2018-03-27 13:08:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:11:16. Validando estado barrera 5 0
+2018-03-27 13:11:16. Estado Actual Barrera 5 1
+2018-03-27 13:11:16. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:11:25. Validando estado barrera 4 0
+2018-03-27 13:11:25. Estado Actual Barrera 4 1
+2018-03-27 13:11:25. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:11:35. Validando estado barrera 5 1
+2018-03-27 13:11:35. Estado Actual Barrera 5 0
+2018-03-27 13:11:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:11:42. Validando estado barrera 4 1
+2018-03-27 13:11:42. Estado Actual Barrera 4 0
+2018-03-27 13:11:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:11:50. Validando estado barrera 5 0
+2018-03-27 13:11:50. Estado Actual Barrera 5 1
+2018-03-27 13:11:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:12:03. Validando estado barrera 4 0
+2018-03-27 13:12:03. Estado Actual Barrera 4 1
+2018-03-27 13:12:03. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:12:13. Validando estado barrera 5 1
+2018-03-27 13:12:13. Estado Actual Barrera 5 0
+2018-03-27 13:12:13. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:12:20. Validando estado barrera 4 1
+2018-03-27 13:12:20. Estado Actual Barrera 4 0
+2018-03-27 13:12:20. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:12:25. Validando estado barrera 5 0
+2018-03-27 13:12:25. Estado Actual Barrera 5 1
+2018-03-27 13:12:25. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:12:33. Validando estado barrera 4 0
+2018-03-27 13:12:33. Estado Actual Barrera 4 1
+2018-03-27 13:12:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:12:46. Validando estado barrera 5 1
+2018-03-27 13:12:46. Estado Actual Barrera 5 0
+2018-03-27 13:12:46. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:12:53. Validando estado barrera 4 1
+2018-03-27 13:12:53. Estado Actual Barrera 4 0
+2018-03-27 13:12:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:14:42. Validando estado barrera 5 0
+2018-03-27 13:14:42. Estado Actual Barrera 5 1
+2018-03-27 13:14:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:14:53. Validando estado barrera 4 0
+2018-03-27 13:14:53. Estado Actual Barrera 4 1
+2018-03-27 13:14:53. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:15:09. Validando estado barrera 5 1
+2018-03-27 13:15:09. Estado Actual Barrera 5 0
+2018-03-27 13:15:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:15:16. Validando estado barrera 4 1
+2018-03-27 13:15:16. Estado Actual Barrera 4 0
+2018-03-27 13:15:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:16:42. Validando estado barrera 5 0
+2018-03-27 13:16:43. Estado Actual Barrera 5 1
+2018-03-27 13:16:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:17:00. Validando estado barrera 4 0
+2018-03-27 13:17:00. Estado Actual Barrera 4 1
+2018-03-27 13:17:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:17:16. Validando estado barrera 5 1
+2018-03-27 13:17:16. Estado Actual Barrera 5 0
+2018-03-27 13:17:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:17:23. Validando estado barrera 4 1
+2018-03-27 13:17:23. Estado Actual Barrera 4 0
+2018-03-27 13:17:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:19:06. Validando estado barrera 5 0
+2018-03-27 13:19:06. Estado Actual Barrera 5 1
+2018-03-27 13:19:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:19:17. Validando estado barrera 4 0
+2018-03-27 13:19:17. Estado Actual Barrera 4 1
+2018-03-27 13:19:17. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:19:34. Validando estado barrera 5 1
+2018-03-27 13:19:34. Estado Actual Barrera 5 0
+2018-03-27 13:19:34. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:19:41. Validando estado barrera 4 1
+2018-03-27 13:19:41. Estado Actual Barrera 4 0
+2018-03-27 13:19:41. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:21:27. Validando estado barrera 5 0
+2018-03-27 13:21:27. Estado Actual Barrera 5 1
+2018-03-27 13:21:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:21:35. Validando estado barrera 4 0
+2018-03-27 13:21:35. Estado Actual Barrera 4 1
+2018-03-27 13:21:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:21:48. Validando estado barrera 5 1
+2018-03-27 13:21:48. Estado Actual Barrera 5 0
+2018-03-27 13:21:48. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:21:55. Validando estado barrera 4 1
+2018-03-27 13:21:55. Estado Actual Barrera 4 0
+2018-03-27 13:21:55. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:22:05. Validando estado barrera 5 0
+2018-03-27 13:22:05. Estado Actual Barrera 5 1
+2018-03-27 13:22:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:22:19. Validando estado barrera 4 0
+2018-03-27 13:22:19. Estado Actual Barrera 4 1
+2018-03-27 13:22:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:22:33. Validando estado barrera 5 1
+2018-03-27 13:22:33. Estado Actual Barrera 5 0
+2018-03-27 13:22:33. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:22:40. Validando estado barrera 4 1
+2018-03-27 13:22:40. Estado Actual Barrera 4 0
+2018-03-27 13:22:40. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:23:04. Validando estado barrera 5 0
+2018-03-27 13:23:04. Estado Actual Barrera 5 1
+2018-03-27 13:23:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:23:13. Validando estado barrera 4 0
+2018-03-27 13:23:13. Estado Actual Barrera 4 1
+2018-03-27 13:23:13. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:23:26. Validando estado barrera 5 1
+2018-03-27 13:23:26. Estado Actual Barrera 5 0
+2018-03-27 13:23:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:23:33. Validando estado barrera 4 1
+2018-03-27 13:23:33. Estado Actual Barrera 4 0
+2018-03-27 13:23:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:23:43. Validando estado barrera 5 0
+2018-03-27 13:23:43. Estado Actual Barrera 5 1
+2018-03-27 13:23:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:23:56. Validando estado barrera 4 0
+2018-03-27 13:23:56. Estado Actual Barrera 4 1
+2018-03-27 13:23:56. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:24:10. Validando estado barrera 5 1
+2018-03-27 13:24:10. Estado Actual Barrera 5 0
+2018-03-27 13:24:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:24:17. Validando estado barrera 4 1
+2018-03-27 13:24:17. Estado Actual Barrera 4 0
+2018-03-27 13:24:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:27:38. Validando estado barrera 5 0
+2018-03-27 13:27:38. Estado Actual Barrera 5 1
+2018-03-27 13:27:38. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:27:48. Validando estado barrera 4 0
+2018-03-27 13:27:48. Estado Actual Barrera 4 1
+2018-03-27 13:27:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:28:02. Validando estado barrera 5 1
+2018-03-27 13:28:02. Estado Actual Barrera 5 0
+2018-03-27 13:28:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:28:09. Validando estado barrera 4 1
+2018-03-27 13:28:09. Estado Actual Barrera 4 0
+2018-03-27 13:28:09. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:29:55. Validando estado barrera 5 0
+2018-03-27 13:29:55. Estado Actual Barrera 5 1
+2018-03-27 13:29:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:30:11. Validando estado barrera 4 0
+2018-03-27 13:30:11. Estado Actual Barrera 4 1
+2018-03-27 13:30:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:30:25. Validando estado barrera 5 1
+2018-03-27 13:30:25. Estado Actual Barrera 5 0
+2018-03-27 13:30:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:30:32. Validando estado barrera 4 1
+2018-03-27 13:30:32. Estado Actual Barrera 4 0
+2018-03-27 13:30:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:30:42. Validando estado barrera 5 0
+2018-03-27 13:30:42. Estado Actual Barrera 5 1
+2018-03-27 13:30:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:30:55. Validando estado barrera 4 0
+2018-03-27 13:30:55. Estado Actual Barrera 4 1
+2018-03-27 13:30:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:31:06. Validando estado barrera 5 1
+2018-03-27 13:31:06. Estado Actual Barrera 5 0
+2018-03-27 13:31:06. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:31:13. Validando estado barrera 4 1
+2018-03-27 13:31:13. Estado Actual Barrera 4 0
+2018-03-27 13:31:13. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:31:18. Validando estado barrera 5 0
+2018-03-27 13:31:18. Estado Actual Barrera 5 1
+2018-03-27 13:31:18. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:31:24. Validando estado barrera 4 0
+2018-03-27 13:31:24. Estado Actual Barrera 4 1
+2018-03-27 13:31:24. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:31:35. Validando estado barrera 5 1
+2018-03-27 13:31:35. Estado Actual Barrera 5 0
+2018-03-27 13:31:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:31:42. Validando estado barrera 4 1
+2018-03-27 13:31:42. Estado Actual Barrera 4 0
+2018-03-27 13:31:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:32:40. Validando estado barrera 5 0
+2018-03-27 13:32:40. Estado Actual Barrera 5 1
+2018-03-27 13:32:40. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:33:03. Validando estado barrera 4 0
+2018-03-27 13:33:03. Estado Actual Barrera 4 1
+2018-03-27 13:33:03. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:33:19. Validando estado barrera 5 1
+2018-03-27 13:33:19. Estado Actual Barrera 5 0
+2018-03-27 13:33:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:33:27. Validando estado barrera 4 1
+2018-03-27 13:33:27. Estado Actual Barrera 4 0
+2018-03-27 13:33:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:34:59. Validando estado barrera 5 0
+2018-03-27 13:34:59. Estado Actual Barrera 5 1
+2018-03-27 13:34:59. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:35:25. Validando estado barrera 4 0
+2018-03-27 13:35:25. Estado Actual Barrera 4 1
+2018-03-27 13:35:25. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:35:45. Validando estado barrera 5 1
+2018-03-27 13:35:45. Estado Actual Barrera 5 0
+2018-03-27 13:35:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:35:52. Validando estado barrera 4 1
+2018-03-27 13:35:52. Estado Actual Barrera 4 0
+2018-03-27 13:35:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:37:57. Validando estado barrera 5 0
+2018-03-27 13:37:57. Estado Actual Barrera 5 1
+2018-03-27 13:37:57. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:38:12. Validando estado barrera 4 0
+2018-03-27 13:38:12. Estado Actual Barrera 4 1
+2018-03-27 13:38:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:38:31. Validando estado barrera 5 1
+2018-03-27 13:38:31. Estado Actual Barrera 5 0
+2018-03-27 13:38:31. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:38:38. Validando estado barrera 4 1
+2018-03-27 13:38:38. Estado Actual Barrera 4 0
+2018-03-27 13:38:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:40:53. Validando estado barrera 5 0
+2018-03-27 13:40:53. Estado Actual Barrera 5 1
+2018-03-27 13:40:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:41:18. Validando estado barrera 4 0
+2018-03-27 13:41:18. Estado Actual Barrera 4 1
+2018-03-27 13:41:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:41:35. Validando estado barrera 5 1
+2018-03-27 13:41:35. Estado Actual Barrera 5 0
+2018-03-27 13:41:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:41:42. Validando estado barrera 4 1
+2018-03-27 13:41:42. Estado Actual Barrera 4 0
+2018-03-27 13:41:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:42:01. Validando estado barrera 5 0
+2018-03-27 13:42:01. Estado Actual Barrera 5 1
+2018-03-27 13:42:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:42:12. Validando estado barrera 4 0
+2018-03-27 13:42:12. Estado Actual Barrera 4 1
+2018-03-27 13:42:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:42:26. Validando estado barrera 5 1
+2018-03-27 13:42:26. Estado Actual Barrera 5 0
+2018-03-27 13:42:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:42:33. Validando estado barrera 4 1
+2018-03-27 13:42:33. Estado Actual Barrera 4 0
+2018-03-27 13:42:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:42:37. Validando estado barrera 5 0
+2018-03-27 13:42:37. Estado Actual Barrera 5 1
+2018-03-27 13:42:37. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:42:48. Validando estado barrera 4 0
+2018-03-27 13:42:48. Estado Actual Barrera 4 1
+2018-03-27 13:42:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:43:02. Validando estado barrera 5 1
+2018-03-27 13:43:02. Estado Actual Barrera 5 0
+2018-03-27 13:43:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:43:09. Validando estado barrera 4 1
+2018-03-27 13:43:09. Estado Actual Barrera 4 0
+2018-03-27 13:43:09. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:43:15. Validando estado barrera 5 0
+2018-03-27 13:43:15. Estado Actual Barrera 5 1
+2018-03-27 13:43:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:43:26. Validando estado barrera 4 0
+2018-03-27 13:43:26. Estado Actual Barrera 4 1
+2018-03-27 13:43:26. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:43:47. Validando estado barrera 5 1
+2018-03-27 13:43:47. Estado Actual Barrera 5 0
+2018-03-27 13:43:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:43:54. Validando estado barrera 4 1
+2018-03-27 13:43:54. Estado Actual Barrera 4 0
+2018-03-27 13:43:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:44:19. Validando estado barrera 5 0
+2018-03-27 13:44:20. Estado Actual Barrera 5 1
+2018-03-27 13:44:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:44:29. Validando estado barrera 4 0
+2018-03-27 13:44:29. Estado Actual Barrera 4 1
+2018-03-27 13:44:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:44:39. Validando estado barrera 5 1
+2018-03-27 13:44:39. Estado Actual Barrera 5 0
+2018-03-27 13:44:39. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:44:46. Validando estado barrera 4 1
+2018-03-27 13:44:46. Estado Actual Barrera 4 0
+2018-03-27 13:44:46. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:44:50. Validando estado barrera 5 0
+2018-03-27 13:44:50. Estado Actual Barrera 5 1
+2018-03-27 13:44:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:44:59. Validando estado barrera 4 0
+2018-03-27 13:44:59. Estado Actual Barrera 4 1
+2018-03-27 13:44:59. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:45:16. Validando estado barrera 5 1
+2018-03-27 13:45:16. Estado Actual Barrera 5 0
+2018-03-27 13:45:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:45:23. Validando estado barrera 4 1
+2018-03-27 13:45:23. Estado Actual Barrera 4 0
+2018-03-27 13:45:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:49:22. Validando estado barrera 5 0
+2018-03-27 13:49:22. Estado Actual Barrera 5 1
+2018-03-27 13:49:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:49:37. Validando estado barrera 4 0
+2018-03-27 13:49:37. Estado Actual Barrera 4 1
+2018-03-27 13:49:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:49:54. Validando estado barrera 5 1
+2018-03-27 13:49:54. Estado Actual Barrera 5 0
+2018-03-27 13:49:54. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:50:01. Validando estado barrera 4 1
+2018-03-27 13:50:01. Estado Actual Barrera 4 0
+2018-03-27 13:50:01. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:50:24. Validando estado barrera 5 0
+2018-03-27 13:50:24. Estado Actual Barrera 5 1
+2018-03-27 13:50:24. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:50:36. Validando estado barrera 4 0
+2018-03-27 13:50:36. Estado Actual Barrera 4 1
+2018-03-27 13:50:36. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:50:51. Validando estado barrera 5 1
+2018-03-27 13:50:51. Estado Actual Barrera 5 0
+2018-03-27 13:50:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:50:59. Validando estado barrera 4 1
+2018-03-27 13:50:59. Estado Actual Barrera 4 0
+2018-03-27 13:50:59. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:51:28. Validando estado barrera 5 0
+2018-03-27 13:51:29. Estado Actual Barrera 5 1
+2018-03-27 13:51:29. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:51:47. Validando estado barrera 4 0
+2018-03-27 13:51:47. Estado Actual Barrera 4 1
+2018-03-27 13:51:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:52:01. Validando estado barrera 5 1
+2018-03-27 13:52:01. Estado Actual Barrera 5 0
+2018-03-27 13:52:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:52:08. Validando estado barrera 4 1
+2018-03-27 13:52:08. Estado Actual Barrera 4 0
+2018-03-27 13:52:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 13:52:21. Validando estado barrera 5 0
+2018-03-27 13:52:21. Estado Actual Barrera 5 1
+2018-03-27 13:52:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 13:52:31. Validando estado barrera 4 0
+2018-03-27 13:52:31. Estado Actual Barrera 4 1
+2018-03-27 13:52:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 13:52:44. Validando estado barrera 5 1
+2018-03-27 13:52:44. Estado Actual Barrera 5 0
+2018-03-27 13:52:44. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 13:52:51. Validando estado barrera 4 1
+2018-03-27 13:52:51. Estado Actual Barrera 4 0
+2018-03-27 13:52:51. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:07:44. Validando estado barrera 5 0
+2018-03-27 14:07:44. Estado Actual Barrera 5 1
+2018-03-27 14:07:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:07:56. Validando estado barrera 4 0
+2018-03-27 14:07:56. Estado Actual Barrera 4 1
+2018-03-27 14:07:56. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:08:12. Validando estado barrera 5 1
+2018-03-27 14:08:12. Estado Actual Barrera 5 0
+2018-03-27 14:08:12. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:08:19. Validando estado barrera 4 1
+2018-03-27 14:08:19. Estado Actual Barrera 4 0
+2018-03-27 14:08:19. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:10:11. Validando estado barrera 5 0
+2018-03-27 14:10:11. Estado Actual Barrera 5 1
+2018-03-27 14:10:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:10:24. Validando estado barrera 4 0
+2018-03-27 14:10:24. Estado Actual Barrera 4 1
+2018-03-27 14:10:24. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:10:36. Validando estado barrera 5 1
+2018-03-27 14:10:36. Estado Actual Barrera 5 0
+2018-03-27 14:10:36. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:10:43. Validando estado barrera 4 1
+2018-03-27 14:10:43. Estado Actual Barrera 4 0
+2018-03-27 14:10:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:12:10. Validando estado barrera 5 0
+2018-03-27 14:12:10. Estado Actual Barrera 5 1
+2018-03-27 14:12:10. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:12:21. Validando estado barrera 4 0
+2018-03-27 14:12:21. Estado Actual Barrera 4 1
+2018-03-27 14:12:21. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:12:37. Validando estado barrera 5 1
+2018-03-27 14:12:37. Estado Actual Barrera 5 0
+2018-03-27 14:12:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:12:44. Validando estado barrera 4 1
+2018-03-27 14:12:44. Estado Actual Barrera 4 0
+2018-03-27 14:12:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:14:52. Validando estado barrera 5 0
+2018-03-27 14:14:52. Estado Actual Barrera 5 1
+2018-03-27 14:14:52. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:15:06. Validando estado barrera 4 0
+2018-03-27 14:15:07. Estado Actual Barrera 4 1
+2018-03-27 14:15:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:15:20. Validando estado barrera 5 1
+2018-03-27 14:15:20. Estado Actual Barrera 5 0
+2018-03-27 14:15:20. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:15:27. Validando estado barrera 4 1
+2018-03-27 14:15:27. Estado Actual Barrera 4 0
+2018-03-27 14:15:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:21:03. Validando estado barrera 5 0
+2018-03-27 14:21:03. Estado Actual Barrera 5 1
+2018-03-27 14:21:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:21:14. Validando estado barrera 4 0
+2018-03-27 14:21:14. Estado Actual Barrera 4 1
+2018-03-27 14:21:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:21:30. Validando estado barrera 5 1
+2018-03-27 14:21:30. Estado Actual Barrera 5 0
+2018-03-27 14:21:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:21:37. Validando estado barrera 4 1
+2018-03-27 14:21:37. Estado Actual Barrera 4 0
+2018-03-27 14:21:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:23:04. Validando estado barrera 5 0
+2018-03-27 14:23:04. Estado Actual Barrera 5 1
+2018-03-27 14:23:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:23:20. Validando estado barrera 4 0
+2018-03-27 14:23:20. Estado Actual Barrera 4 1
+2018-03-27 14:23:20. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:23:36. Validando estado barrera 5 1
+2018-03-27 14:23:36. Estado Actual Barrera 5 0
+2018-03-27 14:23:36. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:23:43. Validando estado barrera 4 1
+2018-03-27 14:23:43. Estado Actual Barrera 4 0
+2018-03-27 14:23:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:26:01. Validando estado barrera 5 0
+2018-03-27 14:26:01. Estado Actual Barrera 5 1
+2018-03-27 14:26:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:26:33. Validando estado barrera 4 0
+2018-03-27 14:26:33. Estado Actual Barrera 4 1
+2018-03-27 14:26:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:26:52. Validando estado barrera 5 1
+2018-03-27 14:26:52. Estado Actual Barrera 5 0
+2018-03-27 14:26:52. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:26:59. Validando estado barrera 4 1
+2018-03-27 14:26:59. Estado Actual Barrera 4 0
+2018-03-27 14:26:59. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:30:05. Validando estado barrera 5 0
+2018-03-27 14:30:05. Estado Actual Barrera 5 1
+2018-03-27 14:30:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:30:19. Validando estado barrera 4 0
+2018-03-27 14:30:19. Estado Actual Barrera 4 1
+2018-03-27 14:30:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:30:33. Validando estado barrera 5 1
+2018-03-27 14:30:33. Estado Actual Barrera 5 0
+2018-03-27 14:30:33. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:30:40. Validando estado barrera 4 1
+2018-03-27 14:30:40. Estado Actual Barrera 4 0
+2018-03-27 14:30:40. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:30:50. Validando estado barrera 5 0
+2018-03-27 14:30:50. Estado Actual Barrera 5 1
+2018-03-27 14:30:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:31:05. Validando estado barrera 4 0
+2018-03-27 14:31:05. Estado Actual Barrera 4 1
+2018-03-27 14:31:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:31:22. Validando estado barrera 5 1
+2018-03-27 14:31:22. Estado Actual Barrera 5 0
+2018-03-27 14:31:22. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:31:29. Validando estado barrera 4 1
+2018-03-27 14:31:29. Estado Actual Barrera 4 0
+2018-03-27 14:31:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:34:54. Validando estado barrera 5 0
+2018-03-27 14:34:54. Estado Actual Barrera 5 1
+2018-03-27 14:34:54. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:35:04. Validando estado barrera 4 0
+2018-03-27 14:35:04. Estado Actual Barrera 4 1
+2018-03-27 14:35:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:35:15. Validando estado barrera 5 1
+2018-03-27 14:35:15. Estado Actual Barrera 5 0
+2018-03-27 14:35:15. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:35:22. Validando estado barrera 4 1
+2018-03-27 14:35:22. Estado Actual Barrera 4 0
+2018-03-27 14:35:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:36:23. Validando estado barrera 5 0
+2018-03-27 14:36:23. Estado Actual Barrera 5 1
+2018-03-27 14:36:23. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:36:32. Validando estado barrera 4 0
+2018-03-27 14:36:32. Estado Actual Barrera 4 1
+2018-03-27 14:36:32. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:36:42. Validando estado barrera 5 1
+2018-03-27 14:36:42. Estado Actual Barrera 5 0
+2018-03-27 14:36:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:36:49. Validando estado barrera 4 1
+2018-03-27 14:36:49. Estado Actual Barrera 4 0
+2018-03-27 14:36:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:39:29. Validando estado barrera 5 0
+2018-03-27 14:39:29. Estado Actual Barrera 5 1
+2018-03-27 14:39:29. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:39:42. Validando estado barrera 4 0
+2018-03-27 14:39:42. Estado Actual Barrera 4 1
+2018-03-27 14:39:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:39:58. Validando estado barrera 5 1
+2018-03-27 14:39:58. Estado Actual Barrera 5 0
+2018-03-27 14:39:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:40:05. Validando estado barrera 4 1
+2018-03-27 14:40:05. Estado Actual Barrera 4 0
+2018-03-27 14:40:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:40:08. Validando estado barrera 5 0
+2018-03-27 14:40:08. Estado Actual Barrera 5 1
+2018-03-27 14:40:08. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:40:16. Validando estado barrera 4 0
+2018-03-27 14:40:16. Estado Actual Barrera 4 1
+2018-03-27 14:40:16. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:40:32. Validando estado barrera 5 1
+2018-03-27 14:40:32. Estado Actual Barrera 5 0
+2018-03-27 14:40:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:40:39. Validando estado barrera 4 1
+2018-03-27 14:40:39. Estado Actual Barrera 4 0
+2018-03-27 14:40:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:40:43. Validando estado barrera 5 0
+2018-03-27 14:40:43. Estado Actual Barrera 5 1
+2018-03-27 14:40:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:40:50. Validando estado barrera 4 0
+2018-03-27 14:40:50. Estado Actual Barrera 4 1
+2018-03-27 14:40:50. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:41:03. Validando estado barrera 5 1
+2018-03-27 14:41:03. Estado Actual Barrera 5 0
+2018-03-27 14:41:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:41:11. Validando estado barrera 4 1
+2018-03-27 14:41:11. Estado Actual Barrera 4 0
+2018-03-27 14:41:11. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:42:21. Validando estado barrera 5 0
+2018-03-27 14:42:21. Estado Actual Barrera 5 1
+2018-03-27 14:42:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:42:33. Validando estado barrera 4 0
+2018-03-27 14:42:33. Estado Actual Barrera 4 1
+2018-03-27 14:42:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:42:47. Validando estado barrera 5 1
+2018-03-27 14:42:47. Estado Actual Barrera 5 0
+2018-03-27 14:42:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:42:54. Validando estado barrera 4 1
+2018-03-27 14:42:54. Estado Actual Barrera 4 0
+2018-03-27 14:42:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:44:23. Validando estado barrera 5 0
+2018-03-27 14:44:23. Estado Actual Barrera 5 1
+2018-03-27 14:44:23. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:44:37. Validando estado barrera 4 0
+2018-03-27 14:44:37. Estado Actual Barrera 4 1
+2018-03-27 14:44:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:44:54. Validando estado barrera 5 1
+2018-03-27 14:44:54. Estado Actual Barrera 5 0
+2018-03-27 14:44:54. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:45:01. Validando estado barrera 4 1
+2018-03-27 14:45:01. Estado Actual Barrera 4 0
+2018-03-27 14:45:01. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:45:04. Validando estado barrera 5 0
+2018-03-27 14:45:04. Estado Actual Barrera 5 1
+2018-03-27 14:45:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:45:08. Validando estado barrera 4 0
+2018-03-27 14:45:09. Estado Actual Barrera 4 1
+2018-03-27 14:45:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:45:22. Validando estado barrera 5 1
+2018-03-27 14:45:22. Estado Actual Barrera 5 0
+2018-03-27 14:45:22. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:45:29. Validando estado barrera 4 1
+2018-03-27 14:45:29. Estado Actual Barrera 4 0
+2018-03-27 14:45:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:45:54. Validando estado barrera 5 0
+2018-03-27 14:45:55. Estado Actual Barrera 5 1
+2018-03-27 14:45:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:46:05. Validando estado barrera 4 0
+2018-03-27 14:46:05. Estado Actual Barrera 4 1
+2018-03-27 14:46:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:46:18. Validando estado barrera 5 1
+2018-03-27 14:46:18. Estado Actual Barrera 5 0
+2018-03-27 14:46:18. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:46:25. Validando estado barrera 4 1
+2018-03-27 14:46:25. Estado Actual Barrera 4 0
+2018-03-27 14:46:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:46:28. Validando estado barrera 5 0
+2018-03-27 14:46:28. Estado Actual Barrera 5 1
+2018-03-27 14:46:28. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:46:44. Validando estado barrera 4 0
+2018-03-27 14:46:44. Estado Actual Barrera 4 1
+2018-03-27 14:46:44. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:47:15. Validando estado barrera 5 1
+2018-03-27 14:47:15. Estado Actual Barrera 5 0
+2018-03-27 14:47:15. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:47:22. Validando estado barrera 4 1
+2018-03-27 14:47:22. Estado Actual Barrera 4 0
+2018-03-27 14:47:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:53:03. Validando estado barrera 5 0
+2018-03-27 14:53:03. Estado Actual Barrera 5 1
+2018-03-27 14:53:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:53:14. Validando estado barrera 4 0
+2018-03-27 14:53:14. Estado Actual Barrera 4 1
+2018-03-27 14:53:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:53:24. Validando estado barrera 5 1
+2018-03-27 14:53:24. Estado Actual Barrera 5 0
+2018-03-27 14:53:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:53:31. Validando estado barrera 4 1
+2018-03-27 14:53:31. Estado Actual Barrera 4 0
+2018-03-27 14:53:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:53:51. Validando estado barrera 5 0
+2018-03-27 14:53:51. Estado Actual Barrera 5 1
+2018-03-27 14:53:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:54:01. Validando estado barrera 4 0
+2018-03-27 14:54:01. Estado Actual Barrera 4 1
+2018-03-27 14:54:01. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:54:59. Validando estado barrera 5 1
+2018-03-27 14:54:59. Estado Actual Barrera 5 0
+2018-03-27 14:54:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:55:06. Validando estado barrera 4 1
+2018-03-27 14:55:06. Estado Actual Barrera 4 0
+2018-03-27 14:55:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:55:22. Validando estado barrera 5 0
+2018-03-27 14:55:22. Estado Actual Barrera 5 1
+2018-03-27 14:55:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:55:33. Validando estado barrera 4 0
+2018-03-27 14:55:33. Estado Actual Barrera 4 1
+2018-03-27 14:55:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:55:47. Validando estado barrera 5 1
+2018-03-27 14:55:47. Estado Actual Barrera 5 0
+2018-03-27 14:55:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:55:54. Validando estado barrera 4 1
+2018-03-27 14:55:54. Estado Actual Barrera 4 0
+2018-03-27 14:55:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:58:05. Validando estado barrera 5 0
+2018-03-27 14:58:05. Estado Actual Barrera 5 1
+2018-03-27 14:58:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:58:19. Validando estado barrera 4 0
+2018-03-27 14:58:19. Estado Actual Barrera 4 1
+2018-03-27 14:58:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:58:32. Validando estado barrera 5 1
+2018-03-27 14:58:32. Estado Actual Barrera 5 0
+2018-03-27 14:58:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:58:39. Validando estado barrera 4 1
+2018-03-27 14:58:39. Estado Actual Barrera 4 0
+2018-03-27 14:58:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:58:44. Validando estado barrera 5 0
+2018-03-27 14:58:44. Estado Actual Barrera 5 1
+2018-03-27 14:58:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:59:15. Validando estado barrera 4 0
+2018-03-27 14:59:15. Estado Actual Barrera 4 1
+2018-03-27 14:59:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 14:59:31. Validando estado barrera 5 1
+2018-03-27 14:59:31. Estado Actual Barrera 5 0
+2018-03-27 14:59:31. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 14:59:38. Validando estado barrera 4 1
+2018-03-27 14:59:38. Estado Actual Barrera 4 0
+2018-03-27 14:59:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 14:59:42. Validando estado barrera 5 0
+2018-03-27 14:59:42. Estado Actual Barrera 5 1
+2018-03-27 14:59:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 14:59:56. Validando estado barrera 4 0
+2018-03-27 14:59:56. Estado Actual Barrera 4 1
+2018-03-27 14:59:56. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:00:15. Validando estado barrera 5 1
+2018-03-27 15:00:15. Estado Actual Barrera 5 0
+2018-03-27 15:00:15. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:00:22. Validando estado barrera 4 1
+2018-03-27 15:00:22. Estado Actual Barrera 4 0
+2018-03-27 15:00:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:01:33. Validando estado barrera 5 0
+2018-03-27 15:01:33. Estado Actual Barrera 5 1
+2018-03-27 15:01:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:01:49. Validando estado barrera 4 0
+2018-03-27 15:01:49. Estado Actual Barrera 4 1
+2018-03-27 15:01:49. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:02:06. Validando estado barrera 5 1
+2018-03-27 15:02:06. Estado Actual Barrera 5 0
+2018-03-27 15:02:06. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:02:13. Validando estado barrera 4 1
+2018-03-27 15:02:13. Estado Actual Barrera 4 0
+2018-03-27 15:02:13. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:02:26. Validando estado barrera 5 0
+2018-03-27 15:02:26. Estado Actual Barrera 5 1
+2018-03-27 15:02:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:02:41. Validando estado barrera 4 0
+2018-03-27 15:02:41. Estado Actual Barrera 4 1
+2018-03-27 15:02:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:02:55. Validando estado barrera 5 1
+2018-03-27 15:02:55. Estado Actual Barrera 5 0
+2018-03-27 15:02:55. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:03:02. Validando estado barrera 4 1
+2018-03-27 15:03:02. Estado Actual Barrera 4 0
+2018-03-27 15:03:02. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:03:19. Validando estado barrera 5 0
+2018-03-27 15:03:19. Estado Actual Barrera 5 1
+2018-03-27 15:03:19. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:03:37. Validando estado barrera 4 0
+2018-03-27 15:03:37. Estado Actual Barrera 4 1
+2018-03-27 15:03:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:03:54. Validando estado barrera 5 1
+2018-03-27 15:03:54. Estado Actual Barrera 5 0
+2018-03-27 15:03:54. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:04:01. Validando estado barrera 4 1
+2018-03-27 15:04:01. Estado Actual Barrera 4 0
+2018-03-27 15:04:01. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:08:05. Validando estado barrera 5 0
+2018-03-27 15:08:05. Estado Actual Barrera 5 1
+2018-03-27 15:08:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:08:12. Validando estado barrera 4 0
+2018-03-27 15:08:12. Estado Actual Barrera 4 1
+2018-03-27 15:08:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:08:25. Validando estado barrera 5 1
+2018-03-27 15:08:25. Estado Actual Barrera 5 0
+2018-03-27 15:08:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:08:32. Validando estado barrera 4 1
+2018-03-27 15:08:33. Estado Actual Barrera 4 0
+2018-03-27 15:08:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:13:55. Validando estado barrera 5 0
+2018-03-27 15:13:55. Estado Actual Barrera 5 1
+2018-03-27 15:13:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:14:05. Validando estado barrera 4 0
+2018-03-27 15:14:05. Estado Actual Barrera 4 1
+2018-03-27 15:14:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:14:18. Validando estado barrera 5 1
+2018-03-27 15:14:18. Estado Actual Barrera 5 0
+2018-03-27 15:14:18. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:14:25. Validando estado barrera 4 1
+2018-03-27 15:14:25. Estado Actual Barrera 4 0
+2018-03-27 15:14:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:15:32. Validando estado barrera 5 0
+2018-03-27 15:15:32. Estado Actual Barrera 5 1
+2018-03-27 15:15:32. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:15:48. Validando estado barrera 4 0
+2018-03-27 15:15:48. Estado Actual Barrera 4 1
+2018-03-27 15:15:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:16:07. Validando estado barrera 5 1
+2018-03-27 15:16:07. Estado Actual Barrera 5 0
+2018-03-27 15:16:07. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:16:14. Validando estado barrera 4 1
+2018-03-27 15:16:14. Estado Actual Barrera 4 0
+2018-03-27 15:16:14. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:18:53. Validando estado barrera 5 0
+2018-03-27 15:18:53. Estado Actual Barrera 5 1
+2018-03-27 15:18:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:19:07. Validando estado barrera 4 0
+2018-03-27 15:19:08. Estado Actual Barrera 4 1
+2018-03-27 15:19:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:19:24. Validando estado barrera 5 1
+2018-03-27 15:19:24. Estado Actual Barrera 5 0
+2018-03-27 15:19:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:19:31. Validando estado barrera 4 1
+2018-03-27 15:19:31. Estado Actual Barrera 4 0
+2018-03-27 15:19:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:22:23. Validando estado barrera 5 0
+2018-03-27 15:22:24. Estado Actual Barrera 5 1
+2018-03-27 15:22:24. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:22:36. Validando estado barrera 4 0
+2018-03-27 15:22:36. Estado Actual Barrera 4 1
+2018-03-27 15:22:36. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:22:49. Validando estado barrera 5 1
+2018-03-27 15:22:49. Estado Actual Barrera 5 0
+2018-03-27 15:22:49. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:22:57. Validando estado barrera 4 1
+2018-03-27 15:22:57. Estado Actual Barrera 4 0
+2018-03-27 15:22:57. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:23:11. Validando estado barrera 5 0
+2018-03-27 15:23:11. Estado Actual Barrera 5 1
+2018-03-27 15:23:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:23:25. Validando estado barrera 4 0
+2018-03-27 15:23:25. Estado Actual Barrera 4 1
+2018-03-27 15:23:25. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:23:35. Validando estado barrera 5 1
+2018-03-27 15:23:35. Estado Actual Barrera 5 0
+2018-03-27 15:23:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:23:42. Validando estado barrera 4 1
+2018-03-27 15:23:43. Estado Actual Barrera 4 0
+2018-03-27 15:23:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:26:19. Validando estado barrera 5 0
+2018-03-27 15:26:19. Estado Actual Barrera 5 1
+2018-03-27 15:26:19. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:26:29. Validando estado barrera 4 0
+2018-03-27 15:26:29. Estado Actual Barrera 4 1
+2018-03-27 15:26:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:26:39. Validando estado barrera 5 1
+2018-03-27 15:26:39. Estado Actual Barrera 5 0
+2018-03-27 15:26:39. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:26:46. Validando estado barrera 4 1
+2018-03-27 15:26:46. Estado Actual Barrera 4 0
+2018-03-27 15:26:46. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:26:49. Validando estado barrera 5 0
+2018-03-27 15:26:49. Estado Actual Barrera 5 1
+2018-03-27 15:26:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:27:14. Validando estado barrera 4 0
+2018-03-27 15:27:14. Estado Actual Barrera 4 1
+2018-03-27 15:27:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:27:27. Validando estado barrera 5 1
+2018-03-27 15:27:27. Estado Actual Barrera 5 0
+2018-03-27 15:27:27. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:27:34. Validando estado barrera 4 1
+2018-03-27 15:27:34. Estado Actual Barrera 4 0
+2018-03-27 15:27:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:27:39. Validando estado barrera 5 0
+2018-03-27 15:27:39. Estado Actual Barrera 5 1
+2018-03-27 15:27:39. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:27:50. Validando estado barrera 4 0
+2018-03-27 15:27:50. Estado Actual Barrera 4 1
+2018-03-27 15:27:50. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:28:03. Validando estado barrera 5 1
+2018-03-27 15:28:03. Estado Actual Barrera 5 0
+2018-03-27 15:28:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:28:10. Validando estado barrera 4 1
+2018-03-27 15:28:10. Estado Actual Barrera 4 0
+2018-03-27 15:28:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:28:26. Validando estado barrera 5 0
+2018-03-27 15:28:26. Estado Actual Barrera 5 1
+2018-03-27 15:28:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:28:44. Validando estado barrera 4 0
+2018-03-27 15:28:44. Estado Actual Barrera 4 1
+2018-03-27 15:28:44. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:28:58. Validando estado barrera 5 1
+2018-03-27 15:28:58. Estado Actual Barrera 5 0
+2018-03-27 15:28:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:29:05. Validando estado barrera 4 1
+2018-03-27 15:29:05. Estado Actual Barrera 4 0
+2018-03-27 15:29:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:29:14. Validando estado barrera 5 0
+2018-03-27 15:29:15. Estado Actual Barrera 5 1
+2018-03-27 15:29:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:29:27. Validando estado barrera 4 0
+2018-03-27 15:29:27. Estado Actual Barrera 4 1
+2018-03-27 15:29:27. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:29:44. Validando estado barrera 5 1
+2018-03-27 15:29:44. Estado Actual Barrera 5 0
+2018-03-27 15:29:44. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:29:51. Validando estado barrera 4 1
+2018-03-27 15:29:51. Estado Actual Barrera 4 0
+2018-03-27 15:29:51. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:30:04. Validando estado barrera 5 0
+2018-03-27 15:30:04. Estado Actual Barrera 5 1
+2018-03-27 15:30:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:30:17. Validando estado barrera 4 0
+2018-03-27 15:30:17. Estado Actual Barrera 4 1
+2018-03-27 15:30:17. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:30:30. Validando estado barrera 5 1
+2018-03-27 15:30:30. Estado Actual Barrera 5 0
+2018-03-27 15:30:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:30:37. Validando estado barrera 4 1
+2018-03-27 15:30:37. Estado Actual Barrera 4 0
+2018-03-27 15:30:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:33:04. Validando estado barrera 5 0
+2018-03-27 15:33:04. Estado Actual Barrera 5 1
+2018-03-27 15:33:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:33:14. Validando estado barrera 4 0
+2018-03-27 15:33:14. Estado Actual Barrera 4 1
+2018-03-27 15:33:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:33:27. Validando estado barrera 5 1
+2018-03-27 15:33:27. Estado Actual Barrera 5 0
+2018-03-27 15:33:27. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:33:34. Validando estado barrera 4 1
+2018-03-27 15:33:34. Estado Actual Barrera 4 0
+2018-03-27 15:33:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:40:06. Validando estado barrera 5 0
+2018-03-27 15:40:06. Estado Actual Barrera 5 1
+2018-03-27 15:40:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:40:14. Validando estado barrera 4 0
+2018-03-27 15:40:14. Estado Actual Barrera 4 1
+2018-03-27 15:40:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:40:24. Validando estado barrera 5 1
+2018-03-27 15:40:24. Estado Actual Barrera 5 0
+2018-03-27 15:40:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:40:31. Validando estado barrera 4 1
+2018-03-27 15:40:31. Estado Actual Barrera 4 0
+2018-03-27 15:40:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:41:45. Validando estado barrera 5 0
+2018-03-27 15:41:45. Estado Actual Barrera 5 1
+2018-03-27 15:41:45. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:41:55. Validando estado barrera 4 0
+2018-03-27 15:41:55. Estado Actual Barrera 4 1
+2018-03-27 15:41:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:42:08. Validando estado barrera 5 1
+2018-03-27 15:42:09. Estado Actual Barrera 5 0
+2018-03-27 15:42:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:42:16. Validando estado barrera 4 1
+2018-03-27 15:42:16. Estado Actual Barrera 4 0
+2018-03-27 15:42:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:42:29. Validando estado barrera 5 0
+2018-03-27 15:42:29. Estado Actual Barrera 5 1
+2018-03-27 15:42:29. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:42:41. Validando estado barrera 4 0
+2018-03-27 15:42:41. Estado Actual Barrera 4 1
+2018-03-27 15:42:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:43:03. Validando estado barrera 5 1
+2018-03-27 15:43:04. Estado Actual Barrera 5 0
+2018-03-27 15:43:04. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:43:11. Validando estado barrera 4 1
+2018-03-27 15:43:11. Estado Actual Barrera 4 0
+2018-03-27 15:43:11. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:43:20. Validando estado barrera 5 0
+2018-03-27 15:43:20. Estado Actual Barrera 5 1
+2018-03-27 15:43:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:43:39. Validando estado barrera 4 0
+2018-03-27 15:43:39. Estado Actual Barrera 4 1
+2018-03-27 15:43:39. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:44:02. Validando estado barrera 5 1
+2018-03-27 15:44:02. Estado Actual Barrera 5 0
+2018-03-27 15:44:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:44:09. Validando estado barrera 4 1
+2018-03-27 15:44:09. Estado Actual Barrera 4 0
+2018-03-27 15:44:09. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:46:26. Validando estado barrera 5 0
+2018-03-27 15:46:26. Estado Actual Barrera 5 1
+2018-03-27 15:46:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:46:36. Validando estado barrera 4 0
+2018-03-27 15:46:36. Estado Actual Barrera 4 1
+2018-03-27 15:46:36. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:46:46. Validando estado barrera 5 1
+2018-03-27 15:46:46. Estado Actual Barrera 5 0
+2018-03-27 15:46:46. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:46:53. Validando estado barrera 4 1
+2018-03-27 15:46:53. Estado Actual Barrera 4 0
+2018-03-27 15:46:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:56:33. Validando estado barrera 5 0
+2018-03-27 15:56:33. Estado Actual Barrera 5 1
+2018-03-27 15:56:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:56:48. Validando estado barrera 4 0
+2018-03-27 15:56:48. Estado Actual Barrera 4 1
+2018-03-27 15:56:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:57:14. Validando estado barrera 5 1
+2018-03-27 15:57:14. Estado Actual Barrera 5 0
+2018-03-27 15:57:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:57:21. Validando estado barrera 4 1
+2018-03-27 15:57:21. Estado Actual Barrera 4 0
+2018-03-27 15:57:21. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 15:59:00. Validando estado barrera 5 0
+2018-03-27 15:59:00. Estado Actual Barrera 5 1
+2018-03-27 15:59:00. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 15:59:15. Validando estado barrera 4 0
+2018-03-27 15:59:15. Estado Actual Barrera 4 1
+2018-03-27 15:59:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 15:59:32. Validando estado barrera 5 1
+2018-03-27 15:59:32. Estado Actual Barrera 5 0
+2018-03-27 15:59:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 15:59:39. Validando estado barrera 4 1
+2018-03-27 15:59:39. Estado Actual Barrera 4 0
+2018-03-27 15:59:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:17:33. Validando estado barrera 5 0
+2018-03-27 16:17:33. Estado Actual Barrera 5 1
+2018-03-27 16:17:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:17:51. Validando estado barrera 4 0
+2018-03-27 16:17:51. Estado Actual Barrera 4 1
+2018-03-27 16:17:51. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:18:07. Validando estado barrera 5 1
+2018-03-27 16:18:07. Estado Actual Barrera 5 0
+2018-03-27 16:18:07. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:18:14. Validando estado barrera 4 1
+2018-03-27 16:18:14. Estado Actual Barrera 4 0
+2018-03-27 16:18:14. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:19:06. Validando estado barrera 5 0
+2018-03-27 16:19:06. Estado Actual Barrera 5 1
+2018-03-27 16:19:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:19:16. Validando estado barrera 4 0
+2018-03-27 16:19:16. Estado Actual Barrera 4 1
+2018-03-27 16:19:16. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:19:26. Validando estado barrera 5 1
+2018-03-27 16:19:26. Estado Actual Barrera 5 0
+2018-03-27 16:19:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:19:33. Validando estado barrera 4 1
+2018-03-27 16:19:33. Estado Actual Barrera 4 0
+2018-03-27 16:19:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:21:09. Validando estado barrera 5 0
+2018-03-27 16:21:09. Estado Actual Barrera 5 1
+2018-03-27 16:21:09. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:21:19. Validando estado barrera 4 0
+2018-03-27 16:21:19. Estado Actual Barrera 4 1
+2018-03-27 16:21:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:21:29. Validando estado barrera 5 1
+2018-03-27 16:21:29. Estado Actual Barrera 5 0
+2018-03-27 16:21:29. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:21:36. Validando estado barrera 4 1
+2018-03-27 16:21:36. Estado Actual Barrera 4 0
+2018-03-27 16:21:36. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:23:25. Validando estado barrera 5 0
+2018-03-27 16:23:25. Estado Actual Barrera 5 1
+2018-03-27 16:23:25. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:23:37. Validando estado barrera 4 0
+2018-03-27 16:23:37. Estado Actual Barrera 4 1
+2018-03-27 16:23:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:23:47. Validando estado barrera 5 1
+2018-03-27 16:23:47. Estado Actual Barrera 5 0
+2018-03-27 16:23:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:23:54. Validando estado barrera 4 1
+2018-03-27 16:23:54. Estado Actual Barrera 4 0
+2018-03-27 16:23:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:25:36. Validando estado barrera 5 0
+2018-03-27 16:25:36. Estado Actual Barrera 5 1
+2018-03-27 16:25:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:25:49. Validando estado barrera 4 0
+2018-03-27 16:25:49. Estado Actual Barrera 4 1
+2018-03-27 16:25:49. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:26:02. Validando estado barrera 5 1
+2018-03-27 16:26:02. Estado Actual Barrera 5 0
+2018-03-27 16:26:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:26:09. Validando estado barrera 4 1
+2018-03-27 16:26:10. Estado Actual Barrera 4 0
+2018-03-27 16:26:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:37:29. Validando estado barrera 5 0
+2018-03-27 16:37:29. Estado Actual Barrera 5 1
+2018-03-27 16:37:29. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:37:39. Validando estado barrera 4 0
+2018-03-27 16:37:39. Estado Actual Barrera 4 1
+2018-03-27 16:37:39. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:37:56. Validando estado barrera 5 1
+2018-03-27 16:37:56. Estado Actual Barrera 5 0
+2018-03-27 16:37:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:38:03. Validando estado barrera 4 1
+2018-03-27 16:38:03. Estado Actual Barrera 4 0
+2018-03-27 16:38:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:41:08. Validando estado barrera 5 0
+2018-03-27 16:41:08. Estado Actual Barrera 5 1
+2018-03-27 16:41:08. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:41:18. Validando estado barrera 4 0
+2018-03-27 16:41:18. Estado Actual Barrera 4 1
+2018-03-27 16:41:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:41:31. Validando estado barrera 5 1
+2018-03-27 16:41:31. Estado Actual Barrera 5 0
+2018-03-27 16:41:31. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:41:38. Validando estado barrera 4 1
+2018-03-27 16:41:38. Estado Actual Barrera 4 0
+2018-03-27 16:41:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:45:47. Validando estado barrera 5 0
+2018-03-27 16:45:47. Estado Actual Barrera 5 1
+2018-03-27 16:45:47. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:46:00. Validando estado barrera 4 0
+2018-03-27 16:46:00. Estado Actual Barrera 4 1
+2018-03-27 16:46:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:46:13. Validando estado barrera 5 1
+2018-03-27 16:46:14. Estado Actual Barrera 5 0
+2018-03-27 16:46:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:46:21. Validando estado barrera 4 1
+2018-03-27 16:46:21. Estado Actual Barrera 4 0
+2018-03-27 16:46:21. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:46:56. Validando estado barrera 5 0
+2018-03-27 16:46:56. Estado Actual Barrera 5 1
+2018-03-27 16:46:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:47:08. Validando estado barrera 4 0
+2018-03-27 16:47:08. Estado Actual Barrera 4 1
+2018-03-27 16:47:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:47:22. Validando estado barrera 5 1
+2018-03-27 16:47:22. Estado Actual Barrera 5 0
+2018-03-27 16:47:22. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:47:29. Validando estado barrera 4 1
+2018-03-27 16:47:29. Estado Actual Barrera 4 0
+2018-03-27 16:47:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:53:20. Validando estado barrera 5 0
+2018-03-27 16:53:20. Estado Actual Barrera 5 1
+2018-03-27 16:53:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:53:34. Validando estado barrera 4 0
+2018-03-27 16:53:34. Estado Actual Barrera 4 1
+2018-03-27 16:53:34. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:53:50. Validando estado barrera 5 1
+2018-03-27 16:53:51. Estado Actual Barrera 5 0
+2018-03-27 16:53:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:53:58. Validando estado barrera 4 1
+2018-03-27 16:53:58. Estado Actual Barrera 4 0
+2018-03-27 16:53:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:54:36. Validando estado barrera 5 0
+2018-03-27 16:54:36. Estado Actual Barrera 5 1
+2018-03-27 16:54:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:54:48. Validando estado barrera 4 0
+2018-03-27 16:54:48. Estado Actual Barrera 4 1
+2018-03-27 16:54:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:54:58. Validando estado barrera 5 1
+2018-03-27 16:54:58. Estado Actual Barrera 5 0
+2018-03-27 16:54:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:55:05. Validando estado barrera 4 1
+2018-03-27 16:55:05. Estado Actual Barrera 4 0
+2018-03-27 16:55:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:55:09. Validando estado barrera 5 0
+2018-03-27 16:55:09. Estado Actual Barrera 5 1
+2018-03-27 16:55:09. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:55:20. Validando estado barrera 4 0
+2018-03-27 16:55:21. Estado Actual Barrera 4 1
+2018-03-27 16:55:21. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:55:35. Validando estado barrera 5 1
+2018-03-27 16:55:35. Estado Actual Barrera 5 0
+2018-03-27 16:55:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:55:42. Validando estado barrera 4 1
+2018-03-27 16:55:42. Estado Actual Barrera 4 0
+2018-03-27 16:55:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 16:57:08. Validando estado barrera 5 0
+2018-03-27 16:57:08. Estado Actual Barrera 5 1
+2018-03-27 16:57:08. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 16:57:19. Validando estado barrera 4 0
+2018-03-27 16:57:19. Estado Actual Barrera 4 1
+2018-03-27 16:57:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 16:57:32. Validando estado barrera 5 1
+2018-03-27 16:57:32. Estado Actual Barrera 5 0
+2018-03-27 16:57:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 16:57:39. Validando estado barrera 4 1
+2018-03-27 16:57:39. Estado Actual Barrera 4 0
+2018-03-27 16:57:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:01:42. Validando estado barrera 5 0
+2018-03-27 17:01:42. Estado Actual Barrera 5 1
+2018-03-27 17:01:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:01:54. Validando estado barrera 4 0
+2018-03-27 17:01:54. Estado Actual Barrera 4 1
+2018-03-27 17:01:54. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:02:07. Validando estado barrera 5 1
+2018-03-27 17:02:07. Estado Actual Barrera 5 0
+2018-03-27 17:02:07. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:02:15. Validando estado barrera 4 1
+2018-03-27 17:02:15. Estado Actual Barrera 4 0
+2018-03-27 17:02:15. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:07:46. Validando estado barrera 5 0
+2018-03-27 17:07:46. Estado Actual Barrera 5 1
+2018-03-27 17:07:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:08:07. Validando estado barrera 4 0
+2018-03-27 17:08:07. Estado Actual Barrera 4 1
+2018-03-27 17:08:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:08:27. Validando estado barrera 5 1
+2018-03-27 17:08:27. Estado Actual Barrera 5 0
+2018-03-27 17:08:27. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:08:34. Validando estado barrera 4 1
+2018-03-27 17:08:34. Estado Actual Barrera 4 0
+2018-03-27 17:08:34. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:13:56. Validando estado barrera 5 0
+2018-03-27 17:13:56. Estado Actual Barrera 5 1
+2018-03-27 17:13:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:14:09. Validando estado barrera 4 0
+2018-03-27 17:14:09. Estado Actual Barrera 4 1
+2018-03-27 17:14:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:14:22. Validando estado barrera 5 1
+2018-03-27 17:14:22. Estado Actual Barrera 5 0
+2018-03-27 17:14:22. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:14:29. Validando estado barrera 4 1
+2018-03-27 17:14:29. Estado Actual Barrera 4 0
+2018-03-27 17:14:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:16:56. Validando estado barrera 5 0
+2018-03-27 17:16:56. Estado Actual Barrera 5 1
+2018-03-27 17:16:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:22:13. Validando estado barrera 4 0
+2018-03-27 17:22:13. Estado Actual Barrera 4 1
+2018-03-27 17:22:13. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:23:11. Validando estado barrera 5 1
+2018-03-27 17:23:11. Estado Actual Barrera 5 0
+2018-03-27 17:23:11. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:23:18. Validando estado barrera 4 1
+2018-03-27 17:23:18. Estado Actual Barrera 4 0
+2018-03-27 17:23:18. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:23:47. Validando estado barrera 5 0
+2018-03-27 17:23:47. Estado Actual Barrera 5 1
+2018-03-27 17:23:47. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:24:08. Validando estado barrera 4 0
+2018-03-27 17:24:08. Estado Actual Barrera 4 1
+2018-03-27 17:24:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:24:30. Validando estado barrera 5 1
+2018-03-27 17:24:30. Estado Actual Barrera 5 0
+2018-03-27 17:24:30. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:24:37. Validando estado barrera 4 1
+2018-03-27 17:24:37. Estado Actual Barrera 4 0
+2018-03-27 17:24:37. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:24:44. Validando estado barrera 5 0
+2018-03-27 17:24:44. Estado Actual Barrera 5 1
+2018-03-27 17:24:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:25:20. Validando estado barrera 4 0
+2018-03-27 17:25:20. Estado Actual Barrera 4 1
+2018-03-27 17:25:20. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:27:09. Validando estado barrera 5 1
+2018-03-27 17:27:09. Estado Actual Barrera 5 0
+2018-03-27 17:27:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:27:16. Validando estado barrera 4 1
+2018-03-27 17:27:16. Estado Actual Barrera 4 0
+2018-03-27 17:27:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:27:20. Validando estado barrera 5 0
+2018-03-27 17:27:20. Estado Actual Barrera 5 1
+2018-03-27 17:27:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:27:29. Validando estado barrera 4 0
+2018-03-27 17:27:29. Estado Actual Barrera 4 1
+2018-03-27 17:27:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:27:42. Validando estado barrera 5 1
+2018-03-27 17:27:42. Estado Actual Barrera 5 0
+2018-03-27 17:27:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:27:49. Validando estado barrera 4 1
+2018-03-27 17:27:49. Estado Actual Barrera 4 0
+2018-03-27 17:27:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:27:53. Validando estado barrera 5 0
+2018-03-27 17:27:53. Estado Actual Barrera 5 1
+2018-03-27 17:27:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:28:06. Validando estado barrera 4 0
+2018-03-27 17:28:06. Estado Actual Barrera 4 1
+2018-03-27 17:28:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:28:21. Validando estado barrera 5 1
+2018-03-27 17:28:21. Estado Actual Barrera 5 0
+2018-03-27 17:28:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:28:28. Validando estado barrera 4 1
+2018-03-27 17:28:28. Estado Actual Barrera 4 0
+2018-03-27 17:28:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:28:31. Validando estado barrera 5 0
+2018-03-27 17:28:31. Estado Actual Barrera 5 1
+2018-03-27 17:28:31. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:28:41. Validando estado barrera 4 0
+2018-03-27 17:28:41. Estado Actual Barrera 4 1
+2018-03-27 17:28:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:29:16. Validando estado barrera 5 1
+2018-03-27 17:29:16. Estado Actual Barrera 5 0
+2018-03-27 17:29:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:29:23. Validando estado barrera 4 1
+2018-03-27 17:29:23. Estado Actual Barrera 4 0
+2018-03-27 17:29:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:29:46. Validando estado barrera 5 0
+2018-03-27 17:29:46. Estado Actual Barrera 5 1
+2018-03-27 17:29:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:30:54. Validando estado barrera 4 0
+2018-03-27 17:30:54. Estado Actual Barrera 4 1
+2018-03-27 17:30:54. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:31:11. Validando estado barrera 5 1
+2018-03-27 17:31:11. Estado Actual Barrera 5 0
+2018-03-27 17:31:11. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:31:18. Validando estado barrera 4 1
+2018-03-27 17:31:18. Estado Actual Barrera 4 0
+2018-03-27 17:31:18. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:38:54. Validando estado barrera 5 0
+2018-03-27 17:38:54. Estado Actual Barrera 5 1
+2018-03-27 17:38:54. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:39:07. Validando estado barrera 4 0
+2018-03-27 17:39:07. Estado Actual Barrera 4 1
+2018-03-27 17:39:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:39:20. Validando estado barrera 5 1
+2018-03-27 17:39:20. Estado Actual Barrera 5 0
+2018-03-27 17:39:20. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:39:27. Validando estado barrera 4 1
+2018-03-27 17:39:27. Estado Actual Barrera 4 0
+2018-03-27 17:39:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:50:50. Validando estado barrera 5 0
+2018-03-27 17:50:50. Estado Actual Barrera 5 1
+2018-03-27 17:50:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:51:01. Validando estado barrera 4 0
+2018-03-27 17:51:01. Estado Actual Barrera 4 1
+2018-03-27 17:51:01. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:51:11. Validando estado barrera 5 1
+2018-03-27 17:51:11. Estado Actual Barrera 5 0
+2018-03-27 17:51:11. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:51:18. Validando estado barrera 4 1
+2018-03-27 17:51:18. Estado Actual Barrera 4 0
+2018-03-27 17:51:18. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:53:55. Validando estado barrera 5 0
+2018-03-27 17:53:55. Estado Actual Barrera 5 1
+2018-03-27 17:53:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:54:04. Validando estado barrera 4 0
+2018-03-27 17:54:04. Estado Actual Barrera 4 1
+2018-03-27 17:54:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:54:17. Validando estado barrera 5 1
+2018-03-27 17:54:17. Estado Actual Barrera 5 0
+2018-03-27 17:54:17. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:54:24. Validando estado barrera 4 1
+2018-03-27 17:54:25. Estado Actual Barrera 4 0
+2018-03-27 17:54:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:54:31. Validando estado barrera 5 0
+2018-03-27 17:54:31. Estado Actual Barrera 5 1
+2018-03-27 17:54:31. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:54:42. Validando estado barrera 4 0
+2018-03-27 17:54:42. Estado Actual Barrera 4 1
+2018-03-27 17:54:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:54:58. Validando estado barrera 5 1
+2018-03-27 17:54:58. Estado Actual Barrera 5 0
+2018-03-27 17:54:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:55:05. Validando estado barrera 4 1
+2018-03-27 17:55:05. Estado Actual Barrera 4 0
+2018-03-27 17:55:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 17:57:42. Validando estado barrera 5 0
+2018-03-27 17:57:42. Estado Actual Barrera 5 1
+2018-03-27 17:57:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 17:57:51. Validando estado barrera 4 0
+2018-03-27 17:57:51. Estado Actual Barrera 4 1
+2018-03-27 17:57:51. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 17:58:04. Validando estado barrera 5 1
+2018-03-27 17:58:04. Estado Actual Barrera 5 0
+2018-03-27 17:58:04. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 17:58:11. Validando estado barrera 4 1
+2018-03-27 17:58:11. Estado Actual Barrera 4 0
+2018-03-27 17:58:11. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:05:06. Validando estado barrera 5 0
+2018-03-27 18:05:06. Estado Actual Barrera 5 1
+2018-03-27 18:05:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:05:33. Validando estado barrera 4 0
+2018-03-27 18:05:33. Estado Actual Barrera 4 1
+2018-03-27 18:05:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:05:49. Validando estado barrera 5 1
+2018-03-27 18:05:49. Estado Actual Barrera 5 0
+2018-03-27 18:05:49. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:05:56. Validando estado barrera 4 1
+2018-03-27 18:05:56. Estado Actual Barrera 4 0
+2018-03-27 18:05:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:08:42. Validando estado barrera 5 0
+2018-03-27 18:08:42. Estado Actual Barrera 5 1
+2018-03-27 18:08:42. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:09:05. Validando estado barrera 4 0
+2018-03-27 18:09:05. Estado Actual Barrera 4 1
+2018-03-27 18:09:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:09:18. Validando estado barrera 5 1
+2018-03-27 18:09:18. Estado Actual Barrera 5 0
+2018-03-27 18:09:18. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:09:25. Validando estado barrera 4 1
+2018-03-27 18:09:25. Estado Actual Barrera 4 0
+2018-03-27 18:09:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:09:51. Validando estado barrera 5 0
+2018-03-27 18:09:51. Estado Actual Barrera 5 1
+2018-03-27 18:09:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:09:59. Validando estado barrera 4 0
+2018-03-27 18:09:59. Estado Actual Barrera 4 1
+2018-03-27 18:09:59. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:10:09. Validando estado barrera 5 1
+2018-03-27 18:10:09. Estado Actual Barrera 5 0
+2018-03-27 18:10:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:10:16. Validando estado barrera 4 1
+2018-03-27 18:10:16. Estado Actual Barrera 4 0
+2018-03-27 18:10:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:11:17. Validando estado barrera 5 0
+2018-03-27 18:11:17. Estado Actual Barrera 5 1
+2018-03-27 18:11:17. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:11:31. Validando estado barrera 4 0
+2018-03-27 18:11:31. Estado Actual Barrera 4 1
+2018-03-27 18:11:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:11:47. Validando estado barrera 5 1
+2018-03-27 18:11:47. Estado Actual Barrera 5 0
+2018-03-27 18:11:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:11:54. Validando estado barrera 4 1
+2018-03-27 18:11:54. Estado Actual Barrera 4 0
+2018-03-27 18:11:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:15:44. Validando estado barrera 5 0
+2018-03-27 18:15:44. Estado Actual Barrera 5 1
+2018-03-27 18:15:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:16:00. Validando estado barrera 4 0
+2018-03-27 18:16:00. Estado Actual Barrera 4 1
+2018-03-27 18:16:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:16:16. Validando estado barrera 5 1
+2018-03-27 18:16:16. Estado Actual Barrera 5 0
+2018-03-27 18:16:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:16:23. Validando estado barrera 4 1
+2018-03-27 18:16:23. Estado Actual Barrera 4 0
+2018-03-27 18:16:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:18:40. Validando estado barrera 5 0
+2018-03-27 18:18:40. Estado Actual Barrera 5 1
+2018-03-27 18:18:40. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:18:51. Validando estado barrera 4 0
+2018-03-27 18:18:51. Estado Actual Barrera 4 1
+2018-03-27 18:18:51. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:19:09. Validando estado barrera 5 1
+2018-03-27 18:19:09. Estado Actual Barrera 5 0
+2018-03-27 18:19:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:19:16. Validando estado barrera 4 1
+2018-03-27 18:19:16. Estado Actual Barrera 4 0
+2018-03-27 18:19:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:20:01. Validando estado barrera 5 0
+2018-03-27 18:20:01. Estado Actual Barrera 5 1
+2018-03-27 18:20:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:20:11. Validando estado barrera 4 0
+2018-03-27 18:20:16. Estado Actual Barrera 4 1
+2018-03-27 18:20:16. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:20:31. Validando estado barrera 5 1
+2018-03-27 18:20:31. Estado Actual Barrera 5 0
+2018-03-27 18:20:31. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:20:38. Validando estado barrera 4 1
+2018-03-27 18:20:38. Estado Actual Barrera 4 0
+2018-03-27 18:20:38. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:21:36. Validando estado barrera 5 0
+2018-03-27 18:21:36. Estado Actual Barrera 5 1
+2018-03-27 18:21:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:21:56. Validando estado barrera 4 0
+2018-03-27 18:21:56. Estado Actual Barrera 4 1
+2018-03-27 18:21:56. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:22:09. Validando estado barrera 5 1
+2018-03-27 18:22:09. Estado Actual Barrera 5 0
+2018-03-27 18:22:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:22:16. Validando estado barrera 4 1
+2018-03-27 18:22:16. Estado Actual Barrera 4 0
+2018-03-27 18:22:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:22:19. Validando estado barrera 5 0
+2018-03-27 18:22:20. Estado Actual Barrera 5 1
+2018-03-27 18:22:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:22:31. Validando estado barrera 4 0
+2018-03-27 18:22:31. Estado Actual Barrera 4 1
+2018-03-27 18:22:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:22:41. Validando estado barrera 5 1
+2018-03-27 18:22:41. Estado Actual Barrera 5 0
+2018-03-27 18:22:41. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:22:48. Validando estado barrera 4 1
+2018-03-27 18:22:48. Estado Actual Barrera 4 0
+2018-03-27 18:22:48. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:23:08. Validando estado barrera 5 0
+2018-03-27 18:23:08. Estado Actual Barrera 5 1
+2018-03-27 18:23:08. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:26:16. Validando estado barrera 4 0
+2018-03-27 18:26:16. Estado Actual Barrera 4 1
+2018-03-27 18:26:16. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:26:45. Validando estado barrera 5 1
+2018-03-27 18:26:45. Estado Actual Barrera 5 0
+2018-03-27 18:26:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:26:52. Validando estado barrera 4 1
+2018-03-27 18:26:52. Estado Actual Barrera 4 0
+2018-03-27 18:26:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:26:55. Validando estado barrera 5 0
+2018-03-27 18:26:55. Estado Actual Barrera 5 1
+2018-03-27 18:26:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:27:25. Validando estado barrera 4 0
+2018-03-27 18:27:25. Estado Actual Barrera 4 1
+2018-03-27 18:27:25. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:27:45. Validando estado barrera 5 1
+2018-03-27 18:27:45. Estado Actual Barrera 5 0
+2018-03-27 18:27:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:27:52. Validando estado barrera 4 1
+2018-03-27 18:27:52. Estado Actual Barrera 4 0
+2018-03-27 18:27:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:27:59. Validando estado barrera 5 0
+2018-03-27 18:27:59. Estado Actual Barrera 5 1
+2018-03-27 18:27:59. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:28:09. Validando estado barrera 4 0
+2018-03-27 18:28:09. Estado Actual Barrera 4 1
+2018-03-27 18:28:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:28:25. Validando estado barrera 5 1
+2018-03-27 18:28:25. Estado Actual Barrera 5 0
+2018-03-27 18:28:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:28:32. Validando estado barrera 4 1
+2018-03-27 18:28:32. Estado Actual Barrera 4 0
+2018-03-27 18:28:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:34:13. Validando estado barrera 5 0
+2018-03-27 18:34:13. Estado Actual Barrera 5 1
+2018-03-27 18:34:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:34:30. Validando estado barrera 4 0
+2018-03-27 18:34:30. Estado Actual Barrera 4 1
+2018-03-27 18:34:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:34:42. Validando estado barrera 5 1
+2018-03-27 18:34:42. Estado Actual Barrera 5 0
+2018-03-27 18:34:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:34:49. Validando estado barrera 4 1
+2018-03-27 18:34:49. Estado Actual Barrera 4 0
+2018-03-27 18:34:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:34:56. Validando estado barrera 5 0
+2018-03-27 18:34:56. Estado Actual Barrera 5 1
+2018-03-27 18:34:56. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:35:08. Validando estado barrera 4 0
+2018-03-27 18:35:08. Estado Actual Barrera 4 1
+2018-03-27 18:35:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:35:24. Validando estado barrera 5 1
+2018-03-27 18:35:24. Estado Actual Barrera 5 0
+2018-03-27 18:35:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:35:31. Validando estado barrera 4 1
+2018-03-27 18:35:31. Estado Actual Barrera 4 0
+2018-03-27 18:35:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:37:10. Validando estado barrera 5 0
+2018-03-27 18:37:10. Estado Actual Barrera 5 1
+2018-03-27 18:37:10. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:37:23. Validando estado barrera 4 0
+2018-03-27 18:37:23. Estado Actual Barrera 4 1
+2018-03-27 18:37:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:37:36. Validando estado barrera 5 1
+2018-03-27 18:37:36. Estado Actual Barrera 5 0
+2018-03-27 18:37:36. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:37:43. Validando estado barrera 4 1
+2018-03-27 18:37:43. Estado Actual Barrera 4 0
+2018-03-27 18:37:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:38:15. Validando estado barrera 5 0
+2018-03-27 18:38:15. Estado Actual Barrera 5 1
+2018-03-27 18:38:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:38:30. Validando estado barrera 4 0
+2018-03-27 18:38:30. Estado Actual Barrera 4 1
+2018-03-27 18:38:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:38:59. Validando estado barrera 5 1
+2018-03-27 18:38:59. Estado Actual Barrera 5 0
+2018-03-27 18:38:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:39:06. Validando estado barrera 4 1
+2018-03-27 18:39:06. Estado Actual Barrera 4 0
+2018-03-27 18:39:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:39:09. Validando estado barrera 5 0
+2018-03-27 18:39:09. Estado Actual Barrera 5 1
+2018-03-27 18:39:09. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:39:21. Validando estado barrera 4 0
+2018-03-27 18:39:21. Estado Actual Barrera 4 1
+2018-03-27 18:39:21. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:39:34. Validando estado barrera 5 1
+2018-03-27 18:39:34. Estado Actual Barrera 5 0
+2018-03-27 18:39:34. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:39:42. Validando estado barrera 4 1
+2018-03-27 18:39:42. Estado Actual Barrera 4 0
+2018-03-27 18:39:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:39:51. Validando estado barrera 5 0
+2018-03-27 18:39:51. Estado Actual Barrera 5 1
+2018-03-27 18:39:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:40:06. Validando estado barrera 4 0
+2018-03-27 18:40:06. Estado Actual Barrera 4 1
+2018-03-27 18:40:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:40:19. Validando estado barrera 5 1
+2018-03-27 18:40:19. Estado Actual Barrera 5 0
+2018-03-27 18:40:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:40:26. Validando estado barrera 4 1
+2018-03-27 18:40:26. Estado Actual Barrera 4 0
+2018-03-27 18:40:26. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:40:30. Validando estado barrera 5 0
+2018-03-27 18:40:30. Estado Actual Barrera 5 1
+2018-03-27 18:40:30. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:40:39. Validando estado barrera 4 0
+2018-03-27 18:40:39. Estado Actual Barrera 4 1
+2018-03-27 18:40:39. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:40:49. Validando estado barrera 5 1
+2018-03-27 18:40:49. Estado Actual Barrera 5 0
+2018-03-27 18:40:49. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:40:56. Validando estado barrera 4 1
+2018-03-27 18:40:56. Estado Actual Barrera 4 0
+2018-03-27 18:40:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:45:21. Validando estado barrera 5 0
+2018-03-27 18:45:21. Estado Actual Barrera 5 1
+2018-03-27 18:45:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:45:35. Validando estado barrera 4 0
+2018-03-27 18:45:35. Estado Actual Barrera 4 1
+2018-03-27 18:45:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:45:45. Validando estado barrera 5 1
+2018-03-27 18:45:45. Estado Actual Barrera 5 0
+2018-03-27 18:45:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:45:52. Validando estado barrera 4 1
+2018-03-27 18:45:52. Estado Actual Barrera 4 0
+2018-03-27 18:45:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:47:50. Validando estado barrera 5 0
+2018-03-27 18:47:50. Estado Actual Barrera 5 1
+2018-03-27 18:47:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:48:06. Validando estado barrera 4 0
+2018-03-27 18:48:06. Estado Actual Barrera 4 1
+2018-03-27 18:48:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:48:16. Validando estado barrera 5 1
+2018-03-27 18:48:16. Estado Actual Barrera 5 0
+2018-03-27 18:48:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:48:23. Validando estado barrera 4 1
+2018-03-27 18:48:23. Estado Actual Barrera 4 0
+2018-03-27 18:48:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:48:30. Validando estado barrera 5 0
+2018-03-27 18:48:30. Estado Actual Barrera 5 1
+2018-03-27 18:48:30. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:48:44. Validando estado barrera 4 0
+2018-03-27 18:48:44. Estado Actual Barrera 4 1
+2018-03-27 18:48:44. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:48:57. Validando estado barrera 5 1
+2018-03-27 18:48:57. Estado Actual Barrera 5 0
+2018-03-27 18:48:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:49:04. Validando estado barrera 4 1
+2018-03-27 18:49:04. Estado Actual Barrera 4 0
+2018-03-27 18:49:04. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:52:15. Validando estado barrera 5 0
+2018-03-27 18:52:15. Estado Actual Barrera 5 1
+2018-03-27 18:52:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:52:31. Validando estado barrera 4 0
+2018-03-27 18:52:31. Estado Actual Barrera 4 1
+2018-03-27 18:52:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:52:44. Validando estado barrera 5 1
+2018-03-27 18:52:44. Estado Actual Barrera 5 0
+2018-03-27 18:52:44. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:52:51. Validando estado barrera 4 1
+2018-03-27 18:52:51. Estado Actual Barrera 4 0
+2018-03-27 18:52:51. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:56:48. Validando estado barrera 5 0
+2018-03-27 18:56:48. Estado Actual Barrera 5 1
+2018-03-27 18:56:48. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:57:11. Validando estado barrera 4 0
+2018-03-27 18:57:11. Estado Actual Barrera 4 1
+2018-03-27 18:57:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:57:25. Validando estado barrera 5 1
+2018-03-27 18:57:25. Estado Actual Barrera 5 0
+2018-03-27 18:57:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:57:32. Validando estado barrera 4 1
+2018-03-27 18:57:32. Estado Actual Barrera 4 0
+2018-03-27 18:57:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:57:45. Validando estado barrera 5 0
+2018-03-27 18:57:45. Estado Actual Barrera 5 1
+2018-03-27 18:57:45. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:58:02. Validando estado barrera 4 0
+2018-03-27 18:58:02. Estado Actual Barrera 4 1
+2018-03-27 18:58:02. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:58:16. Validando estado barrera 5 1
+2018-03-27 18:58:16. Estado Actual Barrera 5 0
+2018-03-27 18:58:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:58:23. Validando estado barrera 4 1
+2018-03-27 18:58:23. Estado Actual Barrera 4 0
+2018-03-27 18:58:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 18:58:32. Validando estado barrera 5 0
+2018-03-27 18:58:32. Estado Actual Barrera 5 1
+2018-03-27 18:58:32. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 18:58:47. Validando estado barrera 4 0
+2018-03-27 18:58:47. Estado Actual Barrera 4 1
+2018-03-27 18:58:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 18:59:01. Validando estado barrera 5 1
+2018-03-27 18:59:01. Estado Actual Barrera 5 0
+2018-03-27 18:59:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 18:59:08. Validando estado barrera 4 1
+2018-03-27 18:59:08. Estado Actual Barrera 4 0
+2018-03-27 18:59:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:03:26. Validando estado barrera 5 0
+2018-03-27 19:03:26. Estado Actual Barrera 5 1
+2018-03-27 19:03:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:03:41. Validando estado barrera 4 0
+2018-03-27 19:03:41. Estado Actual Barrera 4 1
+2018-03-27 19:03:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:03:58. Validando estado barrera 5 1
+2018-03-27 19:03:59. Estado Actual Barrera 5 0
+2018-03-27 19:03:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:04:06. Validando estado barrera 4 1
+2018-03-27 19:04:06. Estado Actual Barrera 4 0
+2018-03-27 19:04:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:04:44. Validando estado barrera 5 0
+2018-03-27 19:04:44. Estado Actual Barrera 5 1
+2018-03-27 19:04:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:05:02. Validando estado barrera 4 0
+2018-03-27 19:05:02. Estado Actual Barrera 4 1
+2018-03-27 19:05:02. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:05:21. Validando estado barrera 5 1
+2018-03-27 19:05:21. Estado Actual Barrera 5 0
+2018-03-27 19:05:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:05:28. Validando estado barrera 4 1
+2018-03-27 19:05:28. Estado Actual Barrera 4 0
+2018-03-27 19:05:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:08:20. Validando estado barrera 5 0
+2018-03-27 19:08:20. Estado Actual Barrera 5 1
+2018-03-27 19:08:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:08:32. Validando estado barrera 4 0
+2018-03-27 19:08:32. Estado Actual Barrera 4 1
+2018-03-27 19:08:32. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:08:48. Validando estado barrera 5 1
+2018-03-27 19:08:49. Estado Actual Barrera 5 0
+2018-03-27 19:08:49. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:08:56. Validando estado barrera 4 1
+2018-03-27 19:08:56. Estado Actual Barrera 4 0
+2018-03-27 19:08:56. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:10:06. Validando estado barrera 5 0
+2018-03-27 19:10:06. Estado Actual Barrera 5 1
+2018-03-27 19:10:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:10:45. Validando estado barrera 4 0
+2018-03-27 19:10:45. Estado Actual Barrera 4 1
+2018-03-27 19:10:45. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:11:01. Validando estado barrera 5 1
+2018-03-27 19:11:01. Estado Actual Barrera 5 0
+2018-03-27 19:11:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:11:08. Validando estado barrera 4 1
+2018-03-27 19:11:08. Estado Actual Barrera 4 0
+2018-03-27 19:11:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:11:18. Validando estado barrera 5 0
+2018-03-27 19:11:18. Estado Actual Barrera 5 1
+2018-03-27 19:11:18. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:11:32. Validando estado barrera 4 0
+2018-03-27 19:11:32. Estado Actual Barrera 4 1
+2018-03-27 19:11:32. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:11:42. Validando estado barrera 5 1
+2018-03-27 19:11:42. Estado Actual Barrera 5 0
+2018-03-27 19:11:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:11:49. Validando estado barrera 4 1
+2018-03-27 19:11:49. Estado Actual Barrera 4 0
+2018-03-27 19:11:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:11:52. Validando estado barrera 5 0
+2018-03-27 19:11:52. Estado Actual Barrera 5 1
+2018-03-27 19:11:52. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:12:04. Validando estado barrera 4 0
+2018-03-27 19:12:04. Estado Actual Barrera 4 1
+2018-03-27 19:12:04. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:12:17. Validando estado barrera 5 1
+2018-03-27 19:12:17. Estado Actual Barrera 5 0
+2018-03-27 19:12:17. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:12:24. Validando estado barrera 4 1
+2018-03-27 19:12:24. Estado Actual Barrera 4 0
+2018-03-27 19:12:24. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:14:03. Validando estado barrera 5 0
+2018-03-27 19:14:03. Estado Actual Barrera 5 1
+2018-03-27 19:14:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:14:17. Validando estado barrera 4 0
+2018-03-27 19:14:17. Estado Actual Barrera 4 1
+2018-03-27 19:14:17. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:14:41. Validando estado barrera 5 1
+2018-03-27 19:14:42. Estado Actual Barrera 5 0
+2018-03-27 19:14:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:14:49. Validando estado barrera 4 1
+2018-03-27 19:14:49. Estado Actual Barrera 4 0
+2018-03-27 19:14:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:15:53. Validando estado barrera 5 0
+2018-03-27 19:15:53. Estado Actual Barrera 5 1
+2018-03-27 19:15:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:16:10. Validando estado barrera 4 0
+2018-03-27 19:16:10. Estado Actual Barrera 4 1
+2018-03-27 19:16:10. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:16:37. Validando estado barrera 5 1
+2018-03-27 19:16:37. Estado Actual Barrera 5 0
+2018-03-27 19:16:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:16:44. Validando estado barrera 4 1
+2018-03-27 19:16:44. Estado Actual Barrera 4 0
+2018-03-27 19:16:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:16:51. Validando estado barrera 5 0
+2018-03-27 19:16:51. Estado Actual Barrera 5 1
+2018-03-27 19:16:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:17:07. Validando estado barrera 4 0
+2018-03-27 19:17:07. Estado Actual Barrera 4 1
+2018-03-27 19:17:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:17:20. Validando estado barrera 5 1
+2018-03-27 19:17:20. Estado Actual Barrera 5 0
+2018-03-27 19:17:20. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:17:27. Validando estado barrera 4 1
+2018-03-27 19:17:27. Estado Actual Barrera 4 0
+2018-03-27 19:17:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:20:58. Validando estado barrera 5 0
+2018-03-27 19:20:58. Estado Actual Barrera 5 1
+2018-03-27 19:20:58. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:21:09. Validando estado barrera 4 0
+2018-03-27 19:21:09. Estado Actual Barrera 4 1
+2018-03-27 19:21:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:21:22. Validando estado barrera 5 1
+2018-03-27 19:21:22. Estado Actual Barrera 5 0
+2018-03-27 19:21:22. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:21:29. Validando estado barrera 4 1
+2018-03-27 19:21:29. Estado Actual Barrera 4 0
+2018-03-27 19:21:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:21:32. Validando estado barrera 5 0
+2018-03-27 19:21:32. Estado Actual Barrera 5 1
+2018-03-27 19:21:32. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:21:47. Validando estado barrera 4 0
+2018-03-27 19:21:47. Estado Actual Barrera 4 1
+2018-03-27 19:21:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:21:57. Validando estado barrera 5 1
+2018-03-27 19:21:57. Estado Actual Barrera 5 0
+2018-03-27 19:21:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:22:04. Validando estado barrera 4 1
+2018-03-27 19:22:04. Estado Actual Barrera 4 0
+2018-03-27 19:22:04. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:23:43. Validando estado barrera 5 0
+2018-03-27 19:23:43. Estado Actual Barrera 5 1
+2018-03-27 19:23:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:23:53. Validando estado barrera 4 0
+2018-03-27 19:23:53. Estado Actual Barrera 4 1
+2018-03-27 19:23:53. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:24:13. Validando estado barrera 5 1
+2018-03-27 19:24:13. Estado Actual Barrera 5 0
+2018-03-27 19:24:13. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:24:20. Validando estado barrera 4 1
+2018-03-27 19:24:20. Estado Actual Barrera 4 0
+2018-03-27 19:24:20. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:24:23. Validando estado barrera 5 0
+2018-03-27 19:24:23. Estado Actual Barrera 5 1
+2018-03-27 19:24:23. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:24:30. Validando estado barrera 4 0
+2018-03-27 19:24:30. Estado Actual Barrera 4 1
+2018-03-27 19:24:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:24:40. Validando estado barrera 5 1
+2018-03-27 19:24:40. Estado Actual Barrera 5 0
+2018-03-27 19:24:40. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:24:47. Validando estado barrera 4 1
+2018-03-27 19:24:47. Estado Actual Barrera 4 0
+2018-03-27 19:24:47. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:25:22. Validando estado barrera 5 0
+2018-03-27 19:25:22. Estado Actual Barrera 5 1
+2018-03-27 19:25:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:25:37. Validando estado barrera 4 0
+2018-03-27 19:25:37. Estado Actual Barrera 4 1
+2018-03-27 19:25:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:25:51. Validando estado barrera 5 1
+2018-03-27 19:25:51. Estado Actual Barrera 5 0
+2018-03-27 19:25:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:25:58. Validando estado barrera 4 1
+2018-03-27 19:25:58. Estado Actual Barrera 4 0
+2018-03-27 19:25:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:27:34. Validando estado barrera 5 0
+2018-03-27 19:27:34. Estado Actual Barrera 5 1
+2018-03-27 19:27:34. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:27:47. Validando estado barrera 4 0
+2018-03-27 19:27:47. Estado Actual Barrera 4 1
+2018-03-27 19:27:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:28:03. Validando estado barrera 5 1
+2018-03-27 19:28:03. Estado Actual Barrera 5 0
+2018-03-27 19:28:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:28:10. Validando estado barrera 4 1
+2018-03-27 19:28:10. Estado Actual Barrera 4 0
+2018-03-27 19:28:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:32:44. Validando estado barrera 5 0
+2018-03-27 19:32:44. Estado Actual Barrera 5 1
+2018-03-27 19:32:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:33:01. Validando estado barrera 4 0
+2018-03-27 19:33:01. Estado Actual Barrera 4 1
+2018-03-27 19:33:01. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:33:14. Validando estado barrera 5 1
+2018-03-27 19:33:14. Estado Actual Barrera 5 0
+2018-03-27 19:33:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:33:22. Validando estado barrera 4 1
+2018-03-27 19:33:22. Estado Actual Barrera 4 0
+2018-03-27 19:33:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:33:32. Validando estado barrera 5 0
+2018-03-27 19:33:32. Estado Actual Barrera 5 1
+2018-03-27 19:33:32. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:33:45. Validando estado barrera 4 0
+2018-03-27 19:33:45. Estado Actual Barrera 4 1
+2018-03-27 19:33:45. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:33:59. Validando estado barrera 5 1
+2018-03-27 19:33:59. Estado Actual Barrera 5 0
+2018-03-27 19:33:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:34:06. Validando estado barrera 4 1
+2018-03-27 19:34:06. Estado Actual Barrera 4 0
+2018-03-27 19:34:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:41:04. Validando estado barrera 5 0
+2018-03-27 19:41:04. Estado Actual Barrera 5 1
+2018-03-27 19:41:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:41:21. Validando estado barrera 4 0
+2018-03-27 19:41:22. Estado Actual Barrera 4 1
+2018-03-27 19:41:22. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:41:38. Validando estado barrera 5 1
+2018-03-27 19:41:38. Estado Actual Barrera 5 0
+2018-03-27 19:41:38. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:41:45. Validando estado barrera 4 1
+2018-03-27 19:41:45. Estado Actual Barrera 4 0
+2018-03-27 19:41:45. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:41:52. Validando estado barrera 5 0
+2018-03-27 19:41:52. Estado Actual Barrera 5 1
+2018-03-27 19:41:52. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:42:09. Validando estado barrera 4 0
+2018-03-27 19:42:09. Estado Actual Barrera 4 1
+2018-03-27 19:42:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:42:25. Validando estado barrera 5 1
+2018-03-27 19:42:25. Estado Actual Barrera 5 0
+2018-03-27 19:42:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:42:32. Validando estado barrera 4 1
+2018-03-27 19:42:32. Estado Actual Barrera 4 0
+2018-03-27 19:42:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:42:36. Validando estado barrera 5 0
+2018-03-27 19:42:36. Estado Actual Barrera 5 1
+2018-03-27 19:42:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:42:49. Validando estado barrera 4 0
+2018-03-27 19:42:49. Estado Actual Barrera 4 1
+2018-03-27 19:42:49. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:43:06. Validando estado barrera 5 1
+2018-03-27 19:43:06. Estado Actual Barrera 5 0
+2018-03-27 19:43:06. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:43:13. Validando estado barrera 4 1
+2018-03-27 19:43:13. Estado Actual Barrera 4 0
+2018-03-27 19:43:13. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:43:48. Validando estado barrera 5 0
+2018-03-27 19:43:48. Estado Actual Barrera 5 1
+2018-03-27 19:43:48. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:43:59. Validando estado barrera 4 0
+2018-03-27 19:43:59. Estado Actual Barrera 4 1
+2018-03-27 19:43:59. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:44:12. Validando estado barrera 5 1
+2018-03-27 19:44:12. Estado Actual Barrera 5 0
+2018-03-27 19:44:12. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:44:20. Validando estado barrera 4 1
+2018-03-27 19:44:20. Estado Actual Barrera 4 0
+2018-03-27 19:44:20. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:45:46. Validando estado barrera 5 0
+2018-03-27 19:45:46. Estado Actual Barrera 5 1
+2018-03-27 19:45:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:45:58. Validando estado barrera 4 0
+2018-03-27 19:45:58. Estado Actual Barrera 4 1
+2018-03-27 19:45:58. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:46:12. Validando estado barrera 5 1
+2018-03-27 19:46:12. Estado Actual Barrera 5 0
+2018-03-27 19:46:12. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:46:19. Validando estado barrera 4 1
+2018-03-27 19:46:19. Estado Actual Barrera 4 0
+2018-03-27 19:46:19. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:46:25. Validando estado barrera 5 0
+2018-03-27 19:46:25. Estado Actual Barrera 5 1
+2018-03-27 19:46:25. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:46:37. Validando estado barrera 4 0
+2018-03-27 19:46:37. Estado Actual Barrera 4 1
+2018-03-27 19:46:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:46:59. Validando estado barrera 5 1
+2018-03-27 19:46:59. Estado Actual Barrera 5 0
+2018-03-27 19:46:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:47:06. Validando estado barrera 4 1
+2018-03-27 19:47:06. Estado Actual Barrera 4 0
+2018-03-27 19:47:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:49:30. Validando estado barrera 5 0
+2018-03-27 19:49:30. Estado Actual Barrera 5 1
+2018-03-27 19:49:30. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:49:44. Validando estado barrera 4 0
+2018-03-27 19:49:44. Estado Actual Barrera 4 1
+2018-03-27 19:49:44. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:49:57. Validando estado barrera 5 1
+2018-03-27 19:49:57. Estado Actual Barrera 5 0
+2018-03-27 19:49:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:50:04. Validando estado barrera 4 1
+2018-03-27 19:50:04. Estado Actual Barrera 4 0
+2018-03-27 19:50:04. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:53:02. Validando estado barrera 5 0
+2018-03-27 19:53:03. Estado Actual Barrera 5 1
+2018-03-27 19:53:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:53:22. Validando estado barrera 4 0
+2018-03-27 19:53:22. Estado Actual Barrera 4 1
+2018-03-27 19:53:22. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:53:38. Validando estado barrera 5 1
+2018-03-27 19:53:38. Estado Actual Barrera 5 0
+2018-03-27 19:53:38. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:53:45. Validando estado barrera 4 1
+2018-03-27 19:53:45. Estado Actual Barrera 4 0
+2018-03-27 19:53:45. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:53:49. Validando estado barrera 5 0
+2018-03-27 19:53:49. Estado Actual Barrera 5 1
+2018-03-27 19:53:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:54:01. Validando estado barrera 4 0
+2018-03-27 19:54:01. Estado Actual Barrera 4 1
+2018-03-27 19:54:01. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:54:11. Validando estado barrera 5 1
+2018-03-27 19:54:11. Estado Actual Barrera 5 0
+2018-03-27 19:54:11. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:54:18. Validando estado barrera 4 1
+2018-03-27 19:54:18. Estado Actual Barrera 4 0
+2018-03-27 19:54:18. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:54:27. Validando estado barrera 5 0
+2018-03-27 19:54:28. Estado Actual Barrera 5 1
+2018-03-27 19:54:28. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:54:45. Validando estado barrera 4 0
+2018-03-27 19:54:45. Estado Actual Barrera 4 1
+2018-03-27 19:54:45. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:55:03. Validando estado barrera 5 1
+2018-03-27 19:55:03. Estado Actual Barrera 5 0
+2018-03-27 19:55:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:55:10. Validando estado barrera 4 1
+2018-03-27 19:55:10. Estado Actual Barrera 4 0
+2018-03-27 19:55:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:55:16. Validando estado barrera 5 0
+2018-03-27 19:55:16. Estado Actual Barrera 5 1
+2018-03-27 19:55:16. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:55:26. Validando estado barrera 4 0
+2018-03-27 19:55:26. Estado Actual Barrera 4 1
+2018-03-27 19:55:26. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:55:40. Validando estado barrera 5 1
+2018-03-27 19:55:40. Estado Actual Barrera 5 0
+2018-03-27 19:55:40. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:55:47. Validando estado barrera 4 1
+2018-03-27 19:55:47. Estado Actual Barrera 4 0
+2018-03-27 19:55:47. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 19:56:19. Validando estado barrera 5 0
+2018-03-27 19:56:19. Estado Actual Barrera 5 1
+2018-03-27 19:56:19. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 19:56:38. Validando estado barrera 4 0
+2018-03-27 19:56:38. Estado Actual Barrera 4 1
+2018-03-27 19:56:38. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 19:56:51. Validando estado barrera 5 1
+2018-03-27 19:56:51. Estado Actual Barrera 5 0
+2018-03-27 19:56:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 19:56:58. Validando estado barrera 4 1
+2018-03-27 19:56:58. Estado Actual Barrera 4 0
+2018-03-27 19:56:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:00:22. Validando estado barrera 5 0
+2018-03-27 20:00:22. Estado Actual Barrera 5 1
+2018-03-27 20:00:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:00:33. Validando estado barrera 4 0
+2018-03-27 20:00:33. Estado Actual Barrera 4 1
+2018-03-27 20:00:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:00:46. Validando estado barrera 5 1
+2018-03-27 20:00:47. Estado Actual Barrera 5 0
+2018-03-27 20:00:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:00:54. Validando estado barrera 4 1
+2018-03-27 20:00:54. Estado Actual Barrera 4 0
+2018-03-27 20:00:54. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:03:20. Validando estado barrera 5 0
+2018-03-27 20:03:20. Estado Actual Barrera 5 1
+2018-03-27 20:03:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:03:32. Validando estado barrera 4 0
+2018-03-27 20:03:32. Estado Actual Barrera 4 1
+2018-03-27 20:03:32. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:03:42. Validando estado barrera 5 1
+2018-03-27 20:03:42. Estado Actual Barrera 5 0
+2018-03-27 20:03:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:03:49. Validando estado barrera 4 1
+2018-03-27 20:03:49. Estado Actual Barrera 4 0
+2018-03-27 20:03:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:07:13. Validando estado barrera 5 0
+2018-03-27 20:07:13. Estado Actual Barrera 5 1
+2018-03-27 20:07:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:07:28. Validando estado barrera 4 0
+2018-03-27 20:07:28. Estado Actual Barrera 4 1
+2018-03-27 20:07:28. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:07:38. Validando estado barrera 5 1
+2018-03-27 20:07:38. Estado Actual Barrera 5 0
+2018-03-27 20:07:38. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:07:45. Validando estado barrera 4 1
+2018-03-27 20:07:45. Estado Actual Barrera 4 0
+2018-03-27 20:07:45. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:11:13. Validando estado barrera 5 0
+2018-03-27 20:11:13. Estado Actual Barrera 5 1
+2018-03-27 20:11:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:11:23. Validando estado barrera 4 0
+2018-03-27 20:11:23. Estado Actual Barrera 4 1
+2018-03-27 20:11:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:11:40. Validando estado barrera 5 1
+2018-03-27 20:11:40. Estado Actual Barrera 5 0
+2018-03-27 20:11:40. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:11:47. Validando estado barrera 4 1
+2018-03-27 20:11:47. Estado Actual Barrera 4 0
+2018-03-27 20:11:47. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:12:03. Validando estado barrera 5 0
+2018-03-27 20:12:03. Estado Actual Barrera 5 1
+2018-03-27 20:12:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:12:11. Validando estado barrera 4 0
+2018-03-27 20:12:11. Estado Actual Barrera 4 1
+2018-03-27 20:12:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:12:21. Validando estado barrera 5 1
+2018-03-27 20:12:21. Estado Actual Barrera 5 0
+2018-03-27 20:12:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:12:28. Validando estado barrera 4 1
+2018-03-27 20:12:28. Estado Actual Barrera 4 0
+2018-03-27 20:12:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:16:21. Validando estado barrera 5 0
+2018-03-27 20:16:21. Estado Actual Barrera 5 1
+2018-03-27 20:16:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:16:34. Validando estado barrera 4 0
+2018-03-27 20:16:34. Estado Actual Barrera 4 1
+2018-03-27 20:16:34. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:16:48. Validando estado barrera 5 1
+2018-03-27 20:16:48. Estado Actual Barrera 5 0
+2018-03-27 20:16:48. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:16:55. Validando estado barrera 4 1
+2018-03-27 20:16:55. Estado Actual Barrera 4 0
+2018-03-27 20:16:55. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:16:58. Validando estado barrera 5 0
+2018-03-27 20:16:58. Estado Actual Barrera 5 1
+2018-03-27 20:16:58. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:17:11. Validando estado barrera 4 0
+2018-03-27 20:17:11. Estado Actual Barrera 4 1
+2018-03-27 20:17:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:17:24. Validando estado barrera 5 1
+2018-03-27 20:17:24. Estado Actual Barrera 5 0
+2018-03-27 20:17:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:17:31. Validando estado barrera 4 1
+2018-03-27 20:17:31. Estado Actual Barrera 4 0
+2018-03-27 20:17:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:20:33. Validando estado barrera 5 0
+2018-03-27 20:20:33. Estado Actual Barrera 5 1
+2018-03-27 20:20:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:20:46. Validando estado barrera 4 0
+2018-03-27 20:20:46. Estado Actual Barrera 4 1
+2018-03-27 20:20:46. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:21:02. Validando estado barrera 5 1
+2018-03-27 20:21:03. Estado Actual Barrera 5 0
+2018-03-27 20:21:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:21:10. Validando estado barrera 4 1
+2018-03-27 20:21:10. Estado Actual Barrera 4 0
+2018-03-27 20:21:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:22:26. Validando estado barrera 5 0
+2018-03-27 20:22:26. Estado Actual Barrera 5 1
+2018-03-27 20:22:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:22:41. Validando estado barrera 4 0
+2018-03-27 20:22:41. Estado Actual Barrera 4 1
+2018-03-27 20:22:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:22:56. Validando estado barrera 5 1
+2018-03-27 20:22:56. Estado Actual Barrera 5 0
+2018-03-27 20:22:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:23:03. Validando estado barrera 4 1
+2018-03-27 20:23:03. Estado Actual Barrera 4 0
+2018-03-27 20:23:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:23:32. Validando estado barrera 5 0
+2018-03-27 20:23:33. Estado Actual Barrera 5 1
+2018-03-27 20:23:33. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:23:50. Validando estado barrera 4 0
+2018-03-27 20:23:51. Estado Actual Barrera 4 1
+2018-03-27 20:23:51. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:24:08. Validando estado barrera 5 1
+2018-03-27 20:24:08. Estado Actual Barrera 5 0
+2018-03-27 20:24:08. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:24:15. Validando estado barrera 4 1
+2018-03-27 20:24:15. Estado Actual Barrera 4 0
+2018-03-27 20:24:15. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:24:21. Validando estado barrera 5 0
+2018-03-27 20:24:21. Estado Actual Barrera 5 1
+2018-03-27 20:24:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:24:34. Validando estado barrera 4 0
+2018-03-27 20:24:35. Estado Actual Barrera 4 1
+2018-03-27 20:24:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:24:48. Validando estado barrera 5 1
+2018-03-27 20:24:48. Estado Actual Barrera 5 0
+2018-03-27 20:24:48. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:24:55. Validando estado barrera 4 1
+2018-03-27 20:24:55. Estado Actual Barrera 4 0
+2018-03-27 20:24:55. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:25:27. Validando estado barrera 5 0
+2018-03-27 20:25:27. Estado Actual Barrera 5 1
+2018-03-27 20:25:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:25:47. Validando estado barrera 4 0
+2018-03-27 20:25:47. Estado Actual Barrera 4 1
+2018-03-27 20:25:47. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:25:57. Validando estado barrera 5 1
+2018-03-27 20:25:57. Estado Actual Barrera 5 0
+2018-03-27 20:25:57. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:26:04. Validando estado barrera 4 1
+2018-03-27 20:26:04. Estado Actual Barrera 4 0
+2018-03-27 20:26:04. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:26:39. Validando estado barrera 5 0
+2018-03-27 20:26:39. Estado Actual Barrera 5 1
+2018-03-27 20:26:39. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:26:53. Validando estado barrera 4 0
+2018-03-27 20:26:53. Estado Actual Barrera 4 1
+2018-03-27 20:26:53. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:27:10. Validando estado barrera 5 1
+2018-03-27 20:27:10. Estado Actual Barrera 5 0
+2018-03-27 20:27:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:27:17. Validando estado barrera 4 1
+2018-03-27 20:27:17. Estado Actual Barrera 4 0
+2018-03-27 20:27:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:27:46. Validando estado barrera 5 0
+2018-03-27 20:27:46. Estado Actual Barrera 5 1
+2018-03-27 20:27:46. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:27:57. Validando estado barrera 4 0
+2018-03-27 20:27:57. Estado Actual Barrera 4 1
+2018-03-27 20:27:57. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:28:14. Validando estado barrera 5 1
+2018-03-27 20:28:14. Estado Actual Barrera 5 0
+2018-03-27 20:28:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:28:22. Validando estado barrera 4 1
+2018-03-27 20:28:22. Estado Actual Barrera 4 0
+2018-03-27 20:28:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:30:17. Validando estado barrera 5 0
+2018-03-27 20:30:17. Estado Actual Barrera 5 1
+2018-03-27 20:30:17. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:31:00. Validando estado barrera 4 0
+2018-03-27 20:31:00. Estado Actual Barrera 4 1
+2018-03-27 20:31:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:31:21. Validando estado barrera 5 1
+2018-03-27 20:31:26. Estado Actual Barrera 5 0
+2018-03-27 20:31:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:31:33. Validando estado barrera 4 1
+2018-03-27 20:31:33. Estado Actual Barrera 4 0
+2018-03-27 20:31:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:33:15. Validando estado barrera 5 0
+2018-03-27 20:33:15. Estado Actual Barrera 5 1
+2018-03-27 20:33:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:33:36. Validando estado barrera 4 0
+2018-03-27 20:33:36. Estado Actual Barrera 4 1
+2018-03-27 20:33:36. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:33:55. Validando estado barrera 5 1
+2018-03-27 20:33:55. Estado Actual Barrera 5 0
+2018-03-27 20:33:55. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:34:02. Validando estado barrera 4 1
+2018-03-27 20:34:02. Estado Actual Barrera 4 0
+2018-03-27 20:34:02. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:34:08. Validando estado barrera 5 0
+2018-03-27 20:34:08. Estado Actual Barrera 5 1
+2018-03-27 20:34:08. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:34:28. Validando estado barrera 4 0
+2018-03-27 20:34:29. Estado Actual Barrera 4 1
+2018-03-27 20:34:29. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:34:45. Validando estado barrera 5 1
+2018-03-27 20:34:45. Estado Actual Barrera 5 0
+2018-03-27 20:34:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:34:52. Validando estado barrera 4 1
+2018-03-27 20:34:52. Estado Actual Barrera 4 0
+2018-03-27 20:34:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:34:55. Validando estado barrera 5 0
+2018-03-27 20:34:55. Estado Actual Barrera 5 1
+2018-03-27 20:34:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:35:06. Validando estado barrera 4 0
+2018-03-27 20:35:06. Estado Actual Barrera 4 1
+2018-03-27 20:35:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:35:19. Validando estado barrera 5 1
+2018-03-27 20:35:19. Estado Actual Barrera 5 0
+2018-03-27 20:35:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:35:26. Validando estado barrera 4 1
+2018-03-27 20:35:26. Estado Actual Barrera 4 0
+2018-03-27 20:35:26. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:35:32. Validando estado barrera 5 0
+2018-03-27 20:35:32. Estado Actual Barrera 5 1
+2018-03-27 20:35:32. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:35:55. Validando estado barrera 4 0
+2018-03-27 20:35:55. Estado Actual Barrera 4 1
+2018-03-27 20:35:55. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:36:36. Validando estado barrera 5 1
+2018-03-27 20:36:36. Estado Actual Barrera 5 0
+2018-03-27 20:36:36. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:36:43. Validando estado barrera 4 1
+2018-03-27 20:36:43. Estado Actual Barrera 4 0
+2018-03-27 20:36:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:36:53. Validando estado barrera 5 0
+2018-03-27 20:36:53. Estado Actual Barrera 5 1
+2018-03-27 20:36:53. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:37:12. Validando estado barrera 4 0
+2018-03-27 20:37:12. Estado Actual Barrera 4 1
+2018-03-27 20:37:12. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:37:34. Validando estado barrera 5 1
+2018-03-27 20:37:34. Estado Actual Barrera 5 0
+2018-03-27 20:37:34. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:37:42. Validando estado barrera 4 1
+2018-03-27 20:37:42. Estado Actual Barrera 4 0
+2018-03-27 20:37:42. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:39:14. Validando estado barrera 5 0
+2018-03-27 20:39:14. Estado Actual Barrera 5 1
+2018-03-27 20:39:14. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:39:27. Validando estado barrera 4 0
+2018-03-27 20:39:27. Estado Actual Barrera 4 1
+2018-03-27 20:39:27. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:39:40. Validando estado barrera 5 1
+2018-03-27 20:39:40. Estado Actual Barrera 5 0
+2018-03-27 20:39:40. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:39:47. Validando estado barrera 4 1
+2018-03-27 20:39:47. Estado Actual Barrera 4 0
+2018-03-27 20:39:47. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:39:50. Validando estado barrera 5 0
+2018-03-27 20:39:50. Estado Actual Barrera 5 1
+2018-03-27 20:39:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:40:08. Validando estado barrera 4 0
+2018-03-27 20:40:08. Estado Actual Barrera 4 1
+2018-03-27 20:40:08. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:40:25. Validando estado barrera 5 1
+2018-03-27 20:40:25. Estado Actual Barrera 5 0
+2018-03-27 20:40:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:40:32. Validando estado barrera 4 1
+2018-03-27 20:40:32. Estado Actual Barrera 4 0
+2018-03-27 20:40:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:41:49. Validando estado barrera 5 0
+2018-03-27 20:41:49. Estado Actual Barrera 5 1
+2018-03-27 20:41:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:42:05. Validando estado barrera 4 0
+2018-03-27 20:42:05. Estado Actual Barrera 4 1
+2018-03-27 20:42:05. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:42:19. Validando estado barrera 5 1
+2018-03-27 20:42:19. Estado Actual Barrera 5 0
+2018-03-27 20:42:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:42:26. Validando estado barrera 4 1
+2018-03-27 20:42:26. Estado Actual Barrera 4 0
+2018-03-27 20:42:26. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:45:31. Validando estado barrera 5 0
+2018-03-27 20:45:31. Estado Actual Barrera 5 1
+2018-03-27 20:45:31. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:45:41. Validando estado barrera 4 0
+2018-03-27 20:45:41. Estado Actual Barrera 4 1
+2018-03-27 20:45:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:45:54. Validando estado barrera 5 1
+2018-03-27 20:45:54. Estado Actual Barrera 5 0
+2018-03-27 20:45:54. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:46:01. Validando estado barrera 4 1
+2018-03-27 20:46:01. Estado Actual Barrera 4 0
+2018-03-27 20:46:01. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:46:11. Validando estado barrera 5 0
+2018-03-27 20:46:11. Estado Actual Barrera 5 1
+2018-03-27 20:46:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:46:24. Validando estado barrera 4 0
+2018-03-27 20:46:24. Estado Actual Barrera 4 1
+2018-03-27 20:46:24. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:46:35. Validando estado barrera 5 1
+2018-03-27 20:46:35. Estado Actual Barrera 5 0
+2018-03-27 20:46:35. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:46:42. Validando estado barrera 4 1
+2018-03-27 20:46:43. Estado Actual Barrera 4 0
+2018-03-27 20:46:43. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:46:49. Validando estado barrera 5 0
+2018-03-27 20:46:49. Estado Actual Barrera 5 1
+2018-03-27 20:46:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:47:01. Validando estado barrera 4 0
+2018-03-27 20:47:01. Estado Actual Barrera 4 1
+2018-03-27 20:47:01. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:47:14. Validando estado barrera 5 1
+2018-03-27 20:47:14. Estado Actual Barrera 5 0
+2018-03-27 20:47:14. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:47:21. Validando estado barrera 4 1
+2018-03-27 20:47:21. Estado Actual Barrera 4 0
+2018-03-27 20:47:21. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:47:38. Validando estado barrera 5 0
+2018-03-27 20:47:38. Estado Actual Barrera 5 1
+2018-03-27 20:47:38. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:47:58. Validando estado barrera 4 0
+2018-03-27 20:47:58. Estado Actual Barrera 4 1
+2018-03-27 20:47:58. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:48:24. Validando estado barrera 5 1
+2018-03-27 20:48:24. Estado Actual Barrera 5 0
+2018-03-27 20:48:24. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:48:31. Validando estado barrera 4 1
+2018-03-27 20:48:31. Estado Actual Barrera 4 0
+2018-03-27 20:48:31. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 20:49:51. Validando estado barrera 5 0
+2018-03-27 20:49:51. Estado Actual Barrera 5 1
+2018-03-27 20:49:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 20:50:06. Validando estado barrera 4 0
+2018-03-27 20:50:06. Estado Actual Barrera 4 1
+2018-03-27 20:50:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 20:50:20. Validando estado barrera 5 1
+2018-03-27 20:50:20. Estado Actual Barrera 5 0
+2018-03-27 20:50:20. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 20:50:27. Validando estado barrera 4 1
+2018-03-27 20:50:27. Estado Actual Barrera 4 0
+2018-03-27 20:50:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:09:11. Validando estado barrera 5 0
+2018-03-27 21:09:11. Estado Actual Barrera 5 1
+2018-03-27 21:09:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:09:24. Validando estado barrera 4 0
+2018-03-27 21:09:24. Estado Actual Barrera 4 1
+2018-03-27 21:09:24. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:09:47. Validando estado barrera 5 1
+2018-03-27 21:09:47. Estado Actual Barrera 5 0
+2018-03-27 21:09:47. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:09:55. Validando estado barrera 4 1
+2018-03-27 21:09:55. Estado Actual Barrera 4 0
+2018-03-27 21:09:55. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:10:11. Validando estado barrera 5 0
+2018-03-27 21:10:11. Estado Actual Barrera 5 1
+2018-03-27 21:10:11. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:10:24. Validando estado barrera 4 0
+2018-03-27 21:10:24. Estado Actual Barrera 4 1
+2018-03-27 21:10:24. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:10:42. Validando estado barrera 5 1
+2018-03-27 21:10:42. Estado Actual Barrera 5 0
+2018-03-27 21:10:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:10:49. Validando estado barrera 4 1
+2018-03-27 21:10:49. Estado Actual Barrera 4 0
+2018-03-27 21:10:49. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:11:30. Validando estado barrera 5 0
+2018-03-27 21:11:30. Estado Actual Barrera 5 1
+2018-03-27 21:11:30. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:11:42. Validando estado barrera 4 0
+2018-03-27 21:11:42. Estado Actual Barrera 4 1
+2018-03-27 21:11:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:11:56. Validando estado barrera 5 1
+2018-03-27 21:11:56. Estado Actual Barrera 5 0
+2018-03-27 21:11:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:12:03. Validando estado barrera 4 1
+2018-03-27 21:12:03. Estado Actual Barrera 4 0
+2018-03-27 21:12:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:20:01. Validando estado barrera 5 0
+2018-03-27 21:20:01. Estado Actual Barrera 5 1
+2018-03-27 21:20:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:20:14. Validando estado barrera 4 0
+2018-03-27 21:20:14. Estado Actual Barrera 4 1
+2018-03-27 21:20:14. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:20:28. Validando estado barrera 5 1
+2018-03-27 21:20:28. Estado Actual Barrera 5 0
+2018-03-27 21:20:28. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:20:35. Validando estado barrera 4 1
+2018-03-27 21:20:35. Estado Actual Barrera 4 0
+2018-03-27 21:20:35. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:30:15. Validando estado barrera 5 0
+2018-03-27 21:30:15. Estado Actual Barrera 5 1
+2018-03-27 21:30:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:30:23. Validando estado barrera 4 0
+2018-03-27 21:30:23. Estado Actual Barrera 4 1
+2018-03-27 21:30:23. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:30:37. Validando estado barrera 5 1
+2018-03-27 21:30:37. Estado Actual Barrera 5 0
+2018-03-27 21:30:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:30:44. Validando estado barrera 4 1
+2018-03-27 21:30:44. Estado Actual Barrera 4 0
+2018-03-27 21:30:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:30:57. Validando estado barrera 5 0
+2018-03-27 21:30:57. Estado Actual Barrera 5 1
+2018-03-27 21:30:57. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:31:07. Validando estado barrera 4 0
+2018-03-27 21:31:07. Estado Actual Barrera 4 1
+2018-03-27 21:31:07. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:31:17. Validando estado barrera 5 1
+2018-03-27 21:31:17. Estado Actual Barrera 5 0
+2018-03-27 21:31:17. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:31:25. Validando estado barrera 4 1
+2018-03-27 21:31:25. Estado Actual Barrera 4 0
+2018-03-27 21:31:25. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:33:16. Validando estado barrera 5 0
+2018-03-27 21:33:16. Estado Actual Barrera 5 1
+2018-03-27 21:33:16. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:33:30. Validando estado barrera 4 0
+2018-03-27 21:33:30. Estado Actual Barrera 4 1
+2018-03-27 21:33:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:33:41. Validando estado barrera 5 1
+2018-03-27 21:33:41. Estado Actual Barrera 5 0
+2018-03-27 21:33:41. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:33:48. Validando estado barrera 4 1
+2018-03-27 21:33:48. Estado Actual Barrera 4 0
+2018-03-27 21:33:48. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:33:51. Validando estado barrera 5 0
+2018-03-27 21:33:51. Estado Actual Barrera 5 1
+2018-03-27 21:33:51. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:34:09. Validando estado barrera 4 0
+2018-03-27 21:34:09. Estado Actual Barrera 4 1
+2018-03-27 21:34:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:34:25. Validando estado barrera 5 1
+2018-03-27 21:34:25. Estado Actual Barrera 5 0
+2018-03-27 21:34:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:34:32. Validando estado barrera 4 1
+2018-03-27 21:34:32. Estado Actual Barrera 4 0
+2018-03-27 21:34:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:35:05. Validando estado barrera 5 0
+2018-03-27 21:35:05. Estado Actual Barrera 5 1
+2018-03-27 21:35:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:35:15. Validando estado barrera 4 0
+2018-03-27 21:35:15. Estado Actual Barrera 4 1
+2018-03-27 21:35:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:35:25. Validando estado barrera 5 1
+2018-03-27 21:35:25. Estado Actual Barrera 5 0
+2018-03-27 21:35:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:35:32. Validando estado barrera 4 1
+2018-03-27 21:35:32. Estado Actual Barrera 4 0
+2018-03-27 21:35:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:38:02. Validando estado barrera 5 0
+2018-03-27 21:38:03. Estado Actual Barrera 5 1
+2018-03-27 21:38:03. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:38:11. Validando estado barrera 4 0
+2018-03-27 21:38:11. Estado Actual Barrera 4 1
+2018-03-27 21:38:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:38:21. Validando estado barrera 5 1
+2018-03-27 21:38:21. Estado Actual Barrera 5 0
+2018-03-27 21:38:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:38:28. Validando estado barrera 4 1
+2018-03-27 21:38:29. Estado Actual Barrera 4 0
+2018-03-27 21:38:29. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:42:15. Validando estado barrera 5 0
+2018-03-27 21:42:15. Estado Actual Barrera 5 1
+2018-03-27 21:42:15. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:42:26. Validando estado barrera 4 0
+2018-03-27 21:42:26. Estado Actual Barrera 4 1
+2018-03-27 21:42:26. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:42:39. Validando estado barrera 5 1
+2018-03-27 21:42:39. Estado Actual Barrera 5 0
+2018-03-27 21:42:39. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:42:46. Validando estado barrera 4 1
+2018-03-27 21:42:46. Estado Actual Barrera 4 0
+2018-03-27 21:42:46. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:45:20. Validando estado barrera 5 0
+2018-03-27 21:45:20. Estado Actual Barrera 5 1
+2018-03-27 21:45:20. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:45:32. Validando estado barrera 4 0
+2018-03-27 21:45:33. Estado Actual Barrera 4 1
+2018-03-27 21:45:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:45:42. Validando estado barrera 5 1
+2018-03-27 21:45:42. Estado Actual Barrera 5 0
+2018-03-27 21:45:42. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:45:49. Validando estado barrera 4 1
+2018-03-27 21:45:50. Estado Actual Barrera 4 0
+2018-03-27 21:45:50. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:51:59. Validando estado barrera 5 0
+2018-03-27 21:51:59. Estado Actual Barrera 5 1
+2018-03-27 21:51:59. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:52:10. Validando estado barrera 4 0
+2018-03-27 21:52:10. Estado Actual Barrera 4 1
+2018-03-27 21:52:10. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:52:20. Validando estado barrera 5 1
+2018-03-27 21:52:20. Estado Actual Barrera 5 0
+2018-03-27 21:52:20. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:52:28. Validando estado barrera 4 1
+2018-03-27 21:52:28. Estado Actual Barrera 4 0
+2018-03-27 21:52:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 21:53:28. Validando estado barrera 5 0
+2018-03-27 21:53:28. Estado Actual Barrera 5 1
+2018-03-27 21:53:28. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 21:53:40. Validando estado barrera 4 0
+2018-03-27 21:53:40. Estado Actual Barrera 4 1
+2018-03-27 21:53:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 21:53:53. Validando estado barrera 5 1
+2018-03-27 21:53:53. Estado Actual Barrera 5 0
+2018-03-27 21:53:53. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 21:54:00. Validando estado barrera 4 1
+2018-03-27 21:54:00. Estado Actual Barrera 4 0
+2018-03-27 21:54:00. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:02:27. Validando estado barrera 5 0
+2018-03-27 22:02:27. Estado Actual Barrera 5 1
+2018-03-27 22:02:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:02:41. Validando estado barrera 4 0
+2018-03-27 22:02:41. Estado Actual Barrera 4 1
+2018-03-27 22:02:41. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:02:58. Validando estado barrera 5 1
+2018-03-27 22:02:58. Estado Actual Barrera 5 0
+2018-03-27 22:02:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:03:05. Validando estado barrera 4 1
+2018-03-27 22:03:05. Estado Actual Barrera 4 0
+2018-03-27 22:03:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:08:05. Validando estado barrera 5 0
+2018-03-27 22:08:05. Estado Actual Barrera 5 1
+2018-03-27 22:08:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:08:21. Validando estado barrera 4 0
+2018-03-27 22:08:21. Estado Actual Barrera 4 1
+2018-03-27 22:08:21. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:08:37. Validando estado barrera 5 1
+2018-03-27 22:08:37. Estado Actual Barrera 5 0
+2018-03-27 22:08:37. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:08:44. Validando estado barrera 4 1
+2018-03-27 22:08:44. Estado Actual Barrera 4 0
+2018-03-27 22:08:44. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:11:27. Validando estado barrera 5 0
+2018-03-27 22:11:27. Estado Actual Barrera 5 1
+2018-03-27 22:11:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:11:40. Validando estado barrera 4 0
+2018-03-27 22:11:40. Estado Actual Barrera 4 1
+2018-03-27 22:11:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:12:00. Validando estado barrera 5 1
+2018-03-27 22:12:00. Estado Actual Barrera 5 0
+2018-03-27 22:12:00. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:12:07. Validando estado barrera 4 1
+2018-03-27 22:12:07. Estado Actual Barrera 4 0
+2018-03-27 22:12:07. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:12:13. Validando estado barrera 5 0
+2018-03-27 22:12:13. Estado Actual Barrera 5 1
+2018-03-27 22:12:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:12:37. Validando estado barrera 4 0
+2018-03-27 22:12:37. Estado Actual Barrera 4 1
+2018-03-27 22:12:37. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:12:53. Validando estado barrera 5 1
+2018-03-27 22:12:53. Estado Actual Barrera 5 0
+2018-03-27 22:12:53. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:13:00. Validando estado barrera 4 1
+2018-03-27 22:13:00. Estado Actual Barrera 4 0
+2018-03-27 22:13:00. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:14:49. Validando estado barrera 5 0
+2018-03-27 22:14:49. Estado Actual Barrera 5 1
+2018-03-27 22:14:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:15:09. Validando estado barrera 4 0
+2018-03-27 22:15:09. Estado Actual Barrera 4 1
+2018-03-27 22:15:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:15:26. Validando estado barrera 5 1
+2018-03-27 22:15:26. Estado Actual Barrera 5 0
+2018-03-27 22:15:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:15:33. Validando estado barrera 4 1
+2018-03-27 22:15:33. Estado Actual Barrera 4 0
+2018-03-27 22:15:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:21:27. Validando estado barrera 5 0
+2018-03-27 22:21:27. Estado Actual Barrera 5 1
+2018-03-27 22:21:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:21:40. Validando estado barrera 4 0
+2018-03-27 22:21:40. Estado Actual Barrera 4 1
+2018-03-27 22:21:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:21:56. Validando estado barrera 5 1
+2018-03-27 22:21:56. Estado Actual Barrera 5 0
+2018-03-27 22:21:56. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:22:03. Validando estado barrera 4 1
+2018-03-27 22:22:03. Estado Actual Barrera 4 0
+2018-03-27 22:22:03. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:29:01. Validando estado barrera 5 0
+2018-03-27 22:29:01. Estado Actual Barrera 5 1
+2018-03-27 22:29:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:29:51. Validando estado barrera 4 0
+2018-03-27 22:29:51. Estado Actual Barrera 4 1
+2018-03-27 22:29:51. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:30:09. Validando estado barrera 5 1
+2018-03-27 22:30:09. Estado Actual Barrera 5 0
+2018-03-27 22:30:09. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:30:16. Validando estado barrera 4 1
+2018-03-27 22:30:16. Estado Actual Barrera 4 0
+2018-03-27 22:30:16. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:30:23. Validando estado barrera 5 0
+2018-03-27 22:30:23. Estado Actual Barrera 5 1
+2018-03-27 22:30:23. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:30:38. Validando estado barrera 4 0
+2018-03-27 22:30:38. Estado Actual Barrera 4 1
+2018-03-27 22:30:38. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:30:51. Validando estado barrera 5 1
+2018-03-27 22:30:51. Estado Actual Barrera 5 0
+2018-03-27 22:30:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:30:58. Validando estado barrera 4 1
+2018-03-27 22:30:59. Estado Actual Barrera 4 0
+2018-03-27 22:30:59. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:31:02. Validando estado barrera 5 0
+2018-03-27 22:31:02. Estado Actual Barrera 5 1
+2018-03-27 22:31:02. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:31:11. Validando estado barrera 4 0
+2018-03-27 22:31:11. Estado Actual Barrera 4 1
+2018-03-27 22:31:11. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:31:21. Validando estado barrera 5 1
+2018-03-27 22:31:21. Estado Actual Barrera 5 0
+2018-03-27 22:31:21. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:31:28. Validando estado barrera 4 1
+2018-03-27 22:31:28. Estado Actual Barrera 4 0
+2018-03-27 22:31:28. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:31:44. Validando estado barrera 5 0
+2018-03-27 22:31:44. Estado Actual Barrera 5 1
+2018-03-27 22:31:44. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:32:03. Validando estado barrera 4 0
+2018-03-27 22:32:03. Estado Actual Barrera 4 1
+2018-03-27 22:32:03. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:32:16. Validando estado barrera 5 1
+2018-03-27 22:32:16. Estado Actual Barrera 5 0
+2018-03-27 22:32:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:32:23. Validando estado barrera 4 1
+2018-03-27 22:32:23. Estado Actual Barrera 4 0
+2018-03-27 22:32:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:36:22. Validando estado barrera 5 0
+2018-03-27 22:36:22. Estado Actual Barrera 5 1
+2018-03-27 22:36:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:36:48. Validando estado barrera 4 0
+2018-03-27 22:36:48. Estado Actual Barrera 4 1
+2018-03-27 22:36:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:37:01. Validando estado barrera 5 1
+2018-03-27 22:37:01. Estado Actual Barrera 5 0
+2018-03-27 22:37:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:37:08. Validando estado barrera 4 1
+2018-03-27 22:37:08. Estado Actual Barrera 4 0
+2018-03-27 22:37:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:42:59. Validando estado barrera 5 0
+2018-03-27 22:42:59. Estado Actual Barrera 5 1
+2018-03-27 22:42:59. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:43:35. Validando estado barrera 4 0
+2018-03-27 22:43:35. Estado Actual Barrera 4 1
+2018-03-27 22:43:35. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:43:58. Validando estado barrera 5 1
+2018-03-27 22:43:58. Estado Actual Barrera 5 0
+2018-03-27 22:43:58. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:44:05. Validando estado barrera 4 1
+2018-03-27 22:44:05. Estado Actual Barrera 4 0
+2018-03-27 22:44:05. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:45:22. Validando estado barrera 5 0
+2018-03-27 22:45:22. Estado Actual Barrera 5 1
+2018-03-27 22:45:22. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:45:33. Validando estado barrera 4 0
+2018-03-27 22:45:33. Estado Actual Barrera 4 1
+2018-03-27 22:45:33. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:45:46. Validando estado barrera 5 1
+2018-03-27 22:45:46. Estado Actual Barrera 5 0
+2018-03-27 22:45:46. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:45:53. Validando estado barrera 4 1
+2018-03-27 22:45:53. Estado Actual Barrera 4 0
+2018-03-27 22:45:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:48:52. Validando estado barrera 5 0
+2018-03-27 22:48:52. Estado Actual Barrera 5 1
+2018-03-27 22:48:52. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:49:06. Validando estado barrera 4 0
+2018-03-27 22:49:06. Estado Actual Barrera 4 1
+2018-03-27 22:49:06. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:49:19. Validando estado barrera 5 1
+2018-03-27 22:49:19. Estado Actual Barrera 5 0
+2018-03-27 22:49:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:49:26. Validando estado barrera 4 1
+2018-03-27 22:49:27. Estado Actual Barrera 4 0
+2018-03-27 22:49:27. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:49:55. Validando estado barrera 5 0
+2018-03-27 22:49:55. Estado Actual Barrera 5 1
+2018-03-27 22:49:55. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:50:10. Validando estado barrera 4 0
+2018-03-27 22:50:10. Estado Actual Barrera 4 1
+2018-03-27 22:50:10. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:50:23. Validando estado barrera 5 1
+2018-03-27 22:50:23. Estado Actual Barrera 5 0
+2018-03-27 22:50:23. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:50:30. Validando estado barrera 4 1
+2018-03-27 22:50:30. Estado Actual Barrera 4 0
+2018-03-27 22:50:30. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:53:13. Validando estado barrera 5 0
+2018-03-27 22:53:13. Estado Actual Barrera 5 1
+2018-03-27 22:53:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:53:31. Validando estado barrera 4 0
+2018-03-27 22:53:31. Estado Actual Barrera 4 1
+2018-03-27 22:53:31. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:54:16. Validando estado barrera 5 1
+2018-03-27 22:54:16. Estado Actual Barrera 5 0
+2018-03-27 22:54:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:54:23. Validando estado barrera 4 1
+2018-03-27 22:54:23. Estado Actual Barrera 4 0
+2018-03-27 22:54:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:54:27. Validando estado barrera 5 0
+2018-03-27 22:54:27. Estado Actual Barrera 5 1
+2018-03-27 22:54:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:54:42. Validando estado barrera 4 0
+2018-03-27 22:54:42. Estado Actual Barrera 4 1
+2018-03-27 22:54:42. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:54:55. Validando estado barrera 5 1
+2018-03-27 22:54:55. Estado Actual Barrera 5 0
+2018-03-27 22:54:55. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:55:02. Validando estado barrera 4 1
+2018-03-27 22:55:02. Estado Actual Barrera 4 0
+2018-03-27 22:55:02. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:55:06. Validando estado barrera 5 0
+2018-03-27 22:55:06. Estado Actual Barrera 5 1
+2018-03-27 22:55:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:55:15. Validando estado barrera 4 0
+2018-03-27 22:55:15. Estado Actual Barrera 4 1
+2018-03-27 22:55:15. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:55:25. Validando estado barrera 5 1
+2018-03-27 22:55:25. Estado Actual Barrera 5 0
+2018-03-27 22:55:25. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:55:32. Validando estado barrera 4 1
+2018-03-27 22:55:32. Estado Actual Barrera 4 0
+2018-03-27 22:55:32. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:55:35. Validando estado barrera 5 0
+2018-03-27 22:55:36. Estado Actual Barrera 5 1
+2018-03-27 22:55:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:55:46. Validando estado barrera 4 0
+2018-03-27 22:55:46. Estado Actual Barrera 4 1
+2018-03-27 22:55:46. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:56:12. Validando estado barrera 5 1
+2018-03-27 22:56:12. Estado Actual Barrera 5 0
+2018-03-27 22:56:12. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:56:19. Validando estado barrera 4 1
+2018-03-27 22:56:19. Estado Actual Barrera 4 0
+2018-03-27 22:56:19. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:56:26. Validando estado barrera 5 0
+2018-03-27 22:56:26. Estado Actual Barrera 5 1
+2018-03-27 22:56:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:56:40. Validando estado barrera 4 0
+2018-03-27 22:56:40. Estado Actual Barrera 4 1
+2018-03-27 22:56:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:56:51. Validando estado barrera 5 1
+2018-03-27 22:56:51. Estado Actual Barrera 5 0
+2018-03-27 22:56:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:56:58. Validando estado barrera 4 1
+2018-03-27 22:56:58. Estado Actual Barrera 4 0
+2018-03-27 22:56:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:57:05. Validando estado barrera 5 0
+2018-03-27 22:57:05. Estado Actual Barrera 5 1
+2018-03-27 22:57:05. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:57:18. Validando estado barrera 4 0
+2018-03-27 22:57:18. Estado Actual Barrera 4 1
+2018-03-27 22:57:18. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:57:32. Validando estado barrera 5 1
+2018-03-27 22:57:32. Estado Actual Barrera 5 0
+2018-03-27 22:57:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:57:39. Validando estado barrera 4 1
+2018-03-27 22:57:39. Estado Actual Barrera 4 0
+2018-03-27 22:57:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:57:49. Validando estado barrera 5 0
+2018-03-27 22:57:49. Estado Actual Barrera 5 1
+2018-03-27 22:57:49. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:58:00. Validando estado barrera 4 0
+2018-03-27 22:58:00. Estado Actual Barrera 4 1
+2018-03-27 22:58:00. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:58:10. Validando estado barrera 5 1
+2018-03-27 22:58:10. Estado Actual Barrera 5 0
+2018-03-27 22:58:10. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:58:17. Validando estado barrera 4 1
+2018-03-27 22:58:17. Estado Actual Barrera 4 0
+2018-03-27 22:58:17. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 22:58:21. Validando estado barrera 5 0
+2018-03-27 22:58:21. Estado Actual Barrera 5 1
+2018-03-27 22:58:21. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 22:58:28. Validando estado barrera 4 0
+2018-03-27 22:58:28. Estado Actual Barrera 4 1
+2018-03-27 22:58:28. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 22:58:41. Validando estado barrera 5 1
+2018-03-27 22:58:41. Estado Actual Barrera 5 0
+2018-03-27 22:58:41. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 22:58:48. Validando estado barrera 4 1
+2018-03-27 22:58:48. Estado Actual Barrera 4 0
+2018-03-27 22:58:48. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:00:24. Validando estado barrera 5 0
+2018-03-27 23:00:24. Estado Actual Barrera 5 1
+2018-03-27 23:00:24. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:00:38. Validando estado barrera 4 0
+2018-03-27 23:00:38. Estado Actual Barrera 4 1
+2018-03-27 23:00:38. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:00:51. Validando estado barrera 5 1
+2018-03-27 23:00:51. Estado Actual Barrera 5 0
+2018-03-27 23:00:51. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:00:58. Validando estado barrera 4 1
+2018-03-27 23:00:58. Estado Actual Barrera 4 0
+2018-03-27 23:00:58. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:03:34. Validando estado barrera 5 0
+2018-03-27 23:03:34. Estado Actual Barrera 5 1
+2018-03-27 23:03:34. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:03:46. Validando estado barrera 4 0
+2018-03-27 23:03:46. Estado Actual Barrera 4 1
+2018-03-27 23:03:46. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:03:59. Validando estado barrera 5 1
+2018-03-27 23:03:59. Estado Actual Barrera 5 0
+2018-03-27 23:03:59. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:04:06. Validando estado barrera 4 1
+2018-03-27 23:04:06. Estado Actual Barrera 4 0
+2018-03-27 23:04:06. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:05:58. Validando estado barrera 5 0
+2018-03-27 23:05:58. Estado Actual Barrera 5 1
+2018-03-27 23:05:58. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:06:09. Validando estado barrera 4 0
+2018-03-27 23:06:09. Estado Actual Barrera 4 1
+2018-03-27 23:06:09. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:06:19. Validando estado barrera 5 1
+2018-03-27 23:06:19. Estado Actual Barrera 5 0
+2018-03-27 23:06:19. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:06:26. Validando estado barrera 4 1
+2018-03-27 23:06:26. Estado Actual Barrera 4 0
+2018-03-27 23:06:26. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:14:40. Validando estado barrera 5 0
+2018-03-27 23:14:40. Estado Actual Barrera 5 1
+2018-03-27 23:14:40. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:14:49. Validando estado barrera 4 0
+2018-03-27 23:14:50. Estado Actual Barrera 4 1
+2018-03-27 23:14:50. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:15:03. Validando estado barrera 5 1
+2018-03-27 23:15:03. Estado Actual Barrera 5 0
+2018-03-27 23:15:03. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:15:10. Validando estado barrera 4 1
+2018-03-27 23:15:10. Estado Actual Barrera 4 0
+2018-03-27 23:15:10. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:15:17. Validando estado barrera 5 0
+2018-03-27 23:15:17. Estado Actual Barrera 5 1
+2018-03-27 23:15:17. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:15:32. Validando estado barrera 4 0
+2018-03-27 23:15:32. Estado Actual Barrera 4 1
+2018-03-27 23:15:32. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:15:45. Validando estado barrera 5 1
+2018-03-27 23:15:45. Estado Actual Barrera 5 0
+2018-03-27 23:15:45. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:15:52. Validando estado barrera 4 1
+2018-03-27 23:15:52. Estado Actual Barrera 4 0
+2018-03-27 23:15:52. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:16:50. Validando estado barrera 5 0
+2018-03-27 23:16:50. Estado Actual Barrera 5 1
+2018-03-27 23:16:50. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:17:03. Validando estado barrera 4 0
+2018-03-27 23:17:03. Estado Actual Barrera 4 1
+2018-03-27 23:17:03. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:17:16. Validando estado barrera 5 1
+2018-03-27 23:17:16. Estado Actual Barrera 5 0
+2018-03-27 23:17:16. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:17:23. Validando estado barrera 4 1
+2018-03-27 23:17:23. Estado Actual Barrera 4 0
+2018-03-27 23:17:23. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:17:36. Validando estado barrera 5 0
+2018-03-27 23:17:36. Estado Actual Barrera 5 1
+2018-03-27 23:17:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:17:49. Validando estado barrera 4 0
+2018-03-27 23:17:49. Estado Actual Barrera 4 1
+2018-03-27 23:17:49. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:18:02. Validando estado barrera 5 1
+2018-03-27 23:18:02. Estado Actual Barrera 5 0
+2018-03-27 23:18:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:18:09. Validando estado barrera 4 1
+2018-03-27 23:18:09. Estado Actual Barrera 4 0
+2018-03-27 23:18:09. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:20:04. Validando estado barrera 5 0
+2018-03-27 23:20:04. Estado Actual Barrera 5 1
+2018-03-27 23:20:04. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:20:20. Validando estado barrera 4 0
+2018-03-27 23:20:20. Estado Actual Barrera 4 1
+2018-03-27 23:20:20. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:20:39. Validando estado barrera 5 1
+2018-03-27 23:20:39. Estado Actual Barrera 5 0
+2018-03-27 23:20:39. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:20:46. Validando estado barrera 4 1
+2018-03-27 23:20:46. Estado Actual Barrera 4 0
+2018-03-27 23:20:46. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:22:41. Validando estado barrera 5 0
+2018-03-27 23:22:41. Estado Actual Barrera 5 1
+2018-03-27 23:22:41. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:22:52. Validando estado barrera 4 0
+2018-03-27 23:22:52. Estado Actual Barrera 4 1
+2018-03-27 23:22:52. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:23:02. Validando estado barrera 5 1
+2018-03-27 23:23:02. Estado Actual Barrera 5 0
+2018-03-27 23:23:02. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:23:09. Validando estado barrera 4 1
+2018-03-27 23:23:09. Estado Actual Barrera 4 0
+2018-03-27 23:23:09. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:49:43. Validando estado barrera 5 0
+2018-03-27 23:49:43. Estado Actual Barrera 5 1
+2018-03-27 23:49:43. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:50:02. Validando estado barrera 4 0
+2018-03-27 23:50:02. Estado Actual Barrera 4 1
+2018-03-27 23:50:02. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:50:15. Validando estado barrera 5 1
+2018-03-27 23:50:15. Estado Actual Barrera 5 0
+2018-03-27 23:50:15. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:50:22. Validando estado barrera 4 1
+2018-03-27 23:50:22. Estado Actual Barrera 4 0
+2018-03-27 23:50:22. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:51:36. Validando estado barrera 5 0
+2018-03-27 23:51:36. Estado Actual Barrera 5 1
+2018-03-27 23:51:36. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:51:48. Validando estado barrera 4 0
+2018-03-27 23:51:48. Estado Actual Barrera 4 1
+2018-03-27 23:51:48. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:52:01. Validando estado barrera 5 1
+2018-03-27 23:52:01. Estado Actual Barrera 5 0
+2018-03-27 23:52:01. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:52:08. Validando estado barrera 4 1
+2018-03-27 23:52:08. Estado Actual Barrera 4 0
+2018-03-27 23:52:08. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:52:27. Validando estado barrera 5 0
+2018-03-27 23:52:27. Estado Actual Barrera 5 1
+2018-03-27 23:52:27. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:52:39. Validando estado barrera 4 0
+2018-03-27 23:52:39. Estado Actual Barrera 4 1
+2018-03-27 23:52:39. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:52:52. Validando estado barrera 5 1
+2018-03-27 23:52:52. Estado Actual Barrera 5 0
+2018-03-27 23:52:52. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:52:59. Validando estado barrera 4 1
+2018-03-27 23:52:59. Estado Actual Barrera 4 0
+2018-03-27 23:52:59. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:53:06. Validando estado barrera 5 0
+2018-03-27 23:53:06. Estado Actual Barrera 5 1
+2018-03-27 23:53:06. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:53:19. Validando estado barrera 4 0
+2018-03-27 23:53:19. Estado Actual Barrera 4 1
+2018-03-27 23:53:19. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:53:32. Validando estado barrera 5 1
+2018-03-27 23:53:32. Estado Actual Barrera 5 0
+2018-03-27 23:53:32. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:53:39. Validando estado barrera 4 1
+2018-03-27 23:53:39. Estado Actual Barrera 4 0
+2018-03-27 23:53:39. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:54:01. Validando estado barrera 5 0
+2018-03-27 23:54:01. Estado Actual Barrera 5 1
+2018-03-27 23:54:01. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:54:13. Validando estado barrera 4 0
+2018-03-27 23:54:13. Estado Actual Barrera 4 1
+2018-03-27 23:54:13. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:54:26. Validando estado barrera 5 1
+2018-03-27 23:54:26. Estado Actual Barrera 5 0
+2018-03-27 23:54:26. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:54:33. Validando estado barrera 4 1
+2018-03-27 23:54:33. Estado Actual Barrera 4 0
+2018-03-27 23:54:33. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:58:13. Validando estado barrera 5 0
+2018-03-27 23:58:13. Estado Actual Barrera 5 1
+2018-03-27 23:58:13. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:58:30. Validando estado barrera 4 0
+2018-03-27 23:58:30. Estado Actual Barrera 4 1
+2018-03-27 23:58:30. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:58:46. Validando estado barrera 5 1
+2018-03-27 23:58:46. Estado Actual Barrera 5 0
+2018-03-27 23:58:46. Cambiando estado Barrera 5 de 0 a 1
+2018-03-27 23:58:53. Validando estado barrera 4 1
+2018-03-27 23:58:53. Estado Actual Barrera 4 0
+2018-03-27 23:58:53. Cambiando estado Barrera 4 de 0 a 1
+2018-03-27 23:59:25. Validando estado barrera 5 0
+2018-03-27 23:59:26. Estado Actual Barrera 5 1
+2018-03-27 23:59:26. Cambiando estado Barrera 5 de 1 a 0
+2018-03-27 23:59:40. Validando estado barrera 4 0
+2018-03-27 23:59:40. Estado Actual Barrera 4 1
+2018-03-27 23:59:40. Cambiando estado Barrera 4 de 1 a 0
+2018-03-27 23:59:56. Validando estado barrera 5 1
+2018-03-27 23:59:56. Estado Actual Barrera 5 0
+2018-03-27 23:59:56. Cambiando estado Barrera 5 de 0 a 1

@@ -1,0 +1,101 @@
+/*** colores ***/
+.bg-azul{
+	background: #0074D9;
+}
+
+.bg-naranja{
+	background: #FF851B;
+}
+
+.bg-gris{
+	background: #AAAAAA;
+}
+
+.bg-azul-oscuro{
+	background: #001f3f;
+}
+
+.bg-rojo{
+	background: #FF4136;
+}
+
+.bg-amarillo{
+	background: #FFDC00;
+}
+
+.bg-verde{
+	background: #3D9970;
+}
+
+.fg-azul{
+	color: #0074D9;
+}
+
+.fg-naranja{
+	color: #FF851B;
+}
+
+.fg-gris{
+	color: #AAAAAA;
+}
+
+.fg-azul-oscuro{
+	color: #001f3f;
+}
+
+.fg-rojo{
+	color: #FF4136;
+}
+
+.fg-amarillo{
+	color: #FFDC00;
+}
+
+.fg-verde{
+	color: #3D9970;
+}
+
+/*** Estructura ***/
+
+.top-menu {
+    background: #f2990d;
+}
+
+.logo{
+	float:left;
+	height: 80px;
+}
+
+.top-menu nav ul li:last-child{
+	float:right !important;
+}
+
+.top-menu nav ul li .estado {
+    float: left;
+    width: 76px;
+    height: 76px;
+    position: relative;
+    border-radius: 40px;
+    border: 2px solid #fff;
+    margin: 0 4px;
+    font-size: 45px;
+    text-align: center;
+    color: #fff;
+}
+
+.panel{
+	padding: 0 0.5em;
+}
+
+.panel .reset{
+	cursor: pointer;
+	float: right;
+	margin-right: -1em;
+	font-size: 30px;
+	line-height: 30px;
+	text-align: center;
+}
+
+.panel ul{
+	list-style: none !importan
+;}
